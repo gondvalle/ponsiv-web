@@ -1,0 +1,21 @@
+{
+  "nombre": "VESTIDO CAMISERO PIQUÉ",
+  "marca": "Zara",
+  "precio": 27.95,
+  "tallas": [
+    "S",
+    "M",
+    "L"
+  ],
+  "categoria": "vestido",
+  "url": "https://www.zara.com/es/es/vestido-camisero-pique-p03644176.html?v1=463549827&v2=2420896",
+  "item_id": "VESTIDO_CAMISERO_PIQUE",
+  "subcategoria": "vestidos",
+  "color": "blanco",
+  "estilo": "Sin información",
+  "relacionados": [],
+  "material": "Sin información",
+  "temporada": "PV",
+  "publico_objetivo": "mujer",
+  "patrocinado": false
+}

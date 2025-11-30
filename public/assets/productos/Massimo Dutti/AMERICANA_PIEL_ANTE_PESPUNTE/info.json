@@ -1,0 +1,27 @@
+{
+  "nombre": "Americana piel ante pespunte",
+  "marca": "Massimo Dutti",
+  "precio": 299.0,
+  "tallas": [
+    "XS",
+    "S",
+    "M",
+    "L"
+  ],
+  "categoria": "superior",
+  "url": "https://www.massimodutti.com/es/americana-piel-ante-pespunte-l04720560?pelement=53026438",
+  "descripcion": "Americana confeccionada en piel caprina con acabado ante. Cuello con solapa. Cierre mediante cuatro botones. Dos bolsillos de parche. Detalle de pespunte.\n\nRef. 4720/560",
+  "relacionados": [
+    "JEANS_STRAIGHT_FIT_TIRO_BAJO",
+    "JERSEY_PUNTO_CUELLO_PICO_CON_LANA_GRIS",
+    "SANDALIA_PLANA_METALIZADA"
+  ],
+  "item_id": "AMERICANA_PIEL_ANTE_PESPUNTE",
+  "subcategoria": "chaquetas",
+  "color": "marrón",
+  "estilo": "Sin información",
+  "material": "cuero, ante",
+  "temporada": "All-season",
+  "publico_objetivo": "mujer",
+  "patrocinado": false
+}

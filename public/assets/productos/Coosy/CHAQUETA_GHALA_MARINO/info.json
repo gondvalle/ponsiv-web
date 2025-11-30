@@ -1,0 +1,26 @@
+{
+  "nombre": "CHAQUETA GHALA MARINO",
+  "marca": "Coosy",
+  "precio": 129.0,
+  "tallas": [
+    "S",
+    "M",
+    "L",
+    "XL"
+  ],
+  "categoria": "superior",
+  "url": "https://www.coosy.es/products/chaqueta-ghalamarino",
+  "descripcion": "La Chaqueta Ghala es una pieza única que reinventa el clásico traje de rayas diplomáticas con un aire moderno y sofisticado. Diseñada con un corte cruzado tipo blazer cropped, realza la silueta y aporta un toque de elegancia actual a cualquier look.\n\nConfeccionada en tejido de rayas verticales finas, estiliza y alarga la figura. Sus botones dobles delanteros en tono carey y el ajuste entallado con cinturón marcan la cintura, logrando un acabado femenino y poderoso.\n\nPerfecta para llevar como chaqueta de traje con el Pantalón Ghala a juego, o combinada con jeans, faldas o vestidos para un estilo más casual chic.",
+  "relacionados": [
+    "CHALECO_GHALA_MARINO",
+    "PANTALON_GHALA_MARINO"
+  ],
+  "item_id": "CHAQUETA_GHALA_MARINO",
+  "subcategoria": "chaquetas",
+  "color": "azul marino",
+  "estilo": "formal",
+  "material": "POLIESTER, VISCOSA, ELASTANO",
+  "temporada": "All-season",
+  "publico_objetivo": "mujer",
+  "patrocinado": false
+}

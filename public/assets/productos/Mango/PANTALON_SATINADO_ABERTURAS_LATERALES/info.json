@@ -1,0 +1,27 @@
+{
+  "nombre": "PANTALÓN SATINADO ABERTURAS LATERALES",
+  "marca": "Mango",
+  "precio": 59.99,
+  "tallas": [
+    "XS",
+    "S",
+    "M",
+    "L",
+    "XL"
+  ],
+  "categoria": "inferior",
+  "url": "https://shop.mango.com/es/es/p/mujer/pantalones/pantalon-de-vestir/pantalon-satinado-aberturas-laterales_17006364?c=10",
+  "descripcion": "Tejido satinado. Diseño largo. Diseño recto. Tiro medio. Cintura con goma elástica. Dos bolsillos laterales. Detalle costuras. Aberturas laterales en el bajo. Sin cierre. Forro interior. Colección Selection.\n\nUna selección de prendas refinadas, confeccionadas con tejidos de calidad para construir un armario femenino y contemporáneo\n\nREF. 17006364",
+  "relacionados": [
+    "ABRIGO_REVERSIBLE_PELO_100_PIEL",
+    "CAMISETA_ALGODON_MANGA_CORTA"
+  ],
+  "item_id": "PANTALON_SATINADO_ABERTURAS_LATERALES",
+  "subcategoria": "pantalones",
+  "color": "crema",
+  "estilo": "Sin información",
+  "material": "goma",
+  "temporada": "All-season",
+  "publico_objetivo": "mujer",
+  "patrocinado": false
+}

@@ -1,0 +1,25 @@
+{
+  "nombre": "Sudadera Hot Gris",
+  "marca": "Nude Project",
+  "precio": 89.0,
+  "tallas": [
+    "XS",
+    "S",
+    "M",
+    "L",
+    "XL",
+    "XXL"
+  ],
+  "categoria": "superior",
+  "url": "https://nude-project.com/es/collections/sudaderas-mujer/products/sudadera-gris-hot",
+  "descripcion": "COMPOSICIÓN:\n100% Algodón - Vellón cepillado 450 gr/m2\n\nCORTE:\nAjuste estándar\n\nGRÁFICO:\nFrente: Puff print y serigrafía\nEspalda Serigrafía y costura de cadeneta\n\nDETALLES TÉCNICOS:\nCuello, puños y dobladillo de canalé 100% algodón",
+  "relacionados": [],
+  "item_id": "SUDADERA_HOT_GRIS",
+  "subcategoria": "sudaderas",
+  "color": "gris",
+  "estilo": "street",
+  "material": "algodón",
+  "temporada": "All-season",
+  "publico_objetivo": "mujer",
+  "patrocinado": false
+}

@@ -1,0 +1,29 @@
+{
+  "nombre": "JERSEY PIPO TERRACOTA",
+  "marca": "Coosy",
+  "precio": 79.0,
+  "tallas": [
+    "S",
+    "M",
+    "L"
+  ],
+  "categoria": "superior",
+  "url": "https://www.coosy.es/products/jersey-pipoterracota",
+  "descripcion": "Un básico imprescindible de temporada: este jersey de punto canalé en color teja con cuello alto es la prenda perfecta para crear looks elegantes y versátiles. Su tejido elástico se adapta cómodamente a la silueta, realzando la figura sin perder confort. Además, cuenta con nuestro logo bordado en la parte del pecho, un detalle sutil y distintivo que aporta exclusividad a la prenda.\n\nEl diseño minimalista y atemporal lo convierte en un fondo de armario ideal para combinar con pantalones de sastrería, faldas midi o bajo chaquetas y abrigos.\n\nUn jersey que aporta calidez, estilo y sofisticación, perfecto para llevar tanto en la oficina como en planes informales con un aire chic.",
+  "relacionados": [
+    "CHAQUETA_MERY_MARINO",
+    "JERSEY_PIPO_BEIGE",
+    "JERSEY_PIPO_GRIS",
+    "JERSEY_PIPO_MARRON",
+    "JERSEY_PIPO_NEGRO",
+    "PANTALON_MERY_MARINO"
+  ],
+  "item_id": "JERSEY_PIPO_TERRACOTA",
+  "subcategoria": "jerséis",
+  "color": "rojo",
+  "estilo": "minimal",
+  "material": "Sin información",
+  "temporada": "OI",
+  "publico_objetivo": "mujer",
+  "patrocinado": false
+}

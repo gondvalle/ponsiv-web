@@ -1,0 +1,27 @@
+{
+  "nombre": "Master Aqua Green Knit Sweater",
+  "marca": "Eme Studios",
+  "precio": 85.0,
+  "tallas": [
+    "XS",
+    "S",
+    "M",
+    "L",
+    "XL",
+    "XXL"
+  ],
+  "categoria": "superior",
+  "url": "https://emestudios.com/products/master-aqua-green-knit-sweater",
+  "descripcion": "100% Cotton\nBoxy and slightly cropped cut\nHeavyweight knit\nGraphics with jacquard structure\nEmbroidery detail",
+  "relacionados": [
+    "SOMM_OFF_SAND_BAGGY_SWEATPANTS"
+  ],
+  "item_id": "MASTER_AQUA_GREEN_KNIT_SWEATER",
+  "subcategoria": "sudaderas",
+  "color": "verde",
+  "estilo": "Sin información",
+  "material": "algodón",
+  "temporada": "All-season",
+  "publico_objetivo": "mujer",
+  "patrocinado": false
+}

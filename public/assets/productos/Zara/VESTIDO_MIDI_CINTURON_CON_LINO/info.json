@@ -1,0 +1,23 @@
+{
+  "nombre": "VESTIDO MIDI CINTURÓN CON LINO",
+  "marca": "Zara",
+  "precio": 39.95,
+  "tallas": [
+    "XS",
+    "S",
+    "M",
+    "L",
+    "XXL"
+  ],
+  "categoria": "vestido",
+  "url": "https://www.zara.com/es/es/vestido-midi-cinturon-con-lino-p08208709.html?v1=475439391&v2=2420896",
+  "item_id": "VESTIDO_MIDI_CINTURON_CON_LINO",
+  "subcategoria": "vestidos",
+  "color": "azul",
+  "estilo": "Sin información",
+  "relacionados": [],
+  "material": "Sin información",
+  "temporada": "PV",
+  "publico_objetivo": "mujer",
+  "patrocinado": false
+}

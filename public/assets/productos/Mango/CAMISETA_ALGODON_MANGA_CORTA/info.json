@@ -1,0 +1,26 @@
+{
+  "nombre": "CAMISETA ALGODÓN MANGA CORTA",
+  "marca": "Mango",
+  "precio": 19.99,
+  "tallas": [
+    "XS",
+    "S",
+    "M",
+    "L",
+    "XL"
+  ],
+  "categoria": "superior",
+  "url": "https://shop.mango.com/es/es/p/mujer/camisetas/manga-corta/camiseta-algodon-manga-corta_17014099",
+  "descripcion": "Confeccionada en tejido mezcla de algodón, esta prenda presenta un diseño recto con cuello redondo y manga corta. Cuenta con un pantalón a conjunto para un total look cómodo y sencillo. Disponible en tallas Plus\n\nREF. 17014099",
+  "relacionados": [
+    "PANTALON_RECTO_ALGODON"
+  ],
+  "item_id": "CAMISETA_ALGODON_MANGA_CORTA",
+  "subcategoria": "camisetas",
+  "color": "crema",
+  "estilo": "Sin información",
+  "material": "algodón",
+  "temporada": "All-season",
+  "publico_objetivo": "mujer",
+  "patrocinado": false
+}

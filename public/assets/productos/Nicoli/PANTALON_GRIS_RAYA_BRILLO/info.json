@@ -1,0 +1,26 @@
+{
+  "nombre": "PANTALÓN GRIS RAYA BRILLO",
+  "marca": "Nicoli",
+  "precio": 64.9,
+  "tallas": [
+    "S",
+    "M",
+    "L",
+    "XL"
+  ],
+  "categoria": "inferior",
+  "url": "https://www.nicolishop.com/es/es/pantalon-gris-raya-brillo/252M508201-22.html",
+  "descripcion": "Pantalón largo, de sastrería, con rayas brillo. Patrón ancho. En el mismo tejido hay disponible un top para quien desee llevarlo como conjunto. La modelo lleva talla 38 y mide 1,78 cm.\nREF. 252M508201-22",
+  "relacionados": [
+    "BAILARINA_TACHAS_MARRON",
+    "CAMISA_GRIS_RAYA_BRILLO"
+  ],
+  "item_id": "PANTALON_GRIS_RAYA_BRILLO",
+  "subcategoria": "pantalones",
+  "color": "gris",
+  "estilo": "formal",
+  "material": "Sin información",
+  "temporada": "All-season",
+  "publico_objetivo": "mujer",
+  "patrocinado": false
+}

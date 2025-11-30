@@ -1,0 +1,26 @@
+{
+  "nombre": "PANTALON CLAUDIO MARRON",
+  "marca": "Coosy",
+  "precio": 125.0,
+  "tallas": [
+    "XS",
+    "S",
+    "M",
+    "L",
+    "XL"
+  ],
+  "categoria": "inferior",
+  "url": "https://www.coosy.es/products/pantalon-claudiomarron",
+  "descripcion": "Consigue un look sofisticado y único con el pantalón Claudio. Este diseño bicolor combina elegancia y modernidad, ideal para mujeres que buscan destacar con prendas exclusivas y versátiles.\n\nSu corte ancho y tejido de alta calidad aporta comodidad y un movimiento fluido, siguiendo las últimas tendencias de moda femenina. Perfecto para ocasiones especiales y looks de oficina con personalidad. Complementa tu armario con este pantalón de talle alto que estiliza la figura y transmite distinción en cualquier evento.\n\nNos encanta el total look con la Camisa Maria. \n\nDiseñado y confeccionado en nuestros talleres localizados en España.",
+  "relacionados": [
+    "CAMISA_MARIA_MARRON"
+  ],
+  "item_id": "PANTALON_CLAUDIO_MARRON",
+  "subcategoria": "pantalones",
+  "color": "marrón",
+  "estilo": "Sin información",
+  "material": "Sin información",
+  "temporada": "All-season",
+  "publico_objetivo": "mujer",
+  "patrocinado": false
+}

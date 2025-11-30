@@ -1,0 +1,22 @@
+{
+  "nombre": "BLAZER CROPPED SIN SOLAPA",
+  "marca": "Zara",
+  "precio": 39.95,
+  "tallas": [
+    "XS",
+    "S",
+    "M",
+    "L"
+  ],
+  "categoria": "superior",
+  "url": "https://www.zara.com/es/es/blazer-cropped-sin-solapa-p09039586.html?v1=482605496&v2=2546081",
+  "item_id": "BLAZER_CROPPED_SIN_SOLAPA",
+  "subcategoria": "chaquetas",
+  "color": "gris",
+  "estilo": "formal",
+  "relacionados": [],
+  "material": "Sin información",
+  "temporada": "All-season",
+  "publico_objetivo": "mujer",
+  "patrocinado": false
+}

@@ -1,0 +1,27 @@
+{
+  "nombre": "BOLSO HOMBRO MEDIANO TRENZADO",
+  "marca": "Mango",
+  "precio": 39.99,
+  "tallas": [
+    "XS",
+    "S",
+    "M",
+    "L",
+    "XL"
+  ],
+  "categoria": "accesorio",
+  "url": "https://shop.mango.com/es/es/p/mujer/bolsos/pequenos/bolso-hombro-mediano-trenzado_17041179?c=02",
+  "descripcion": "Tamaño mediano. Diseño trenzado. Dos asas largas de hombro. Bolsa interior. Cierre ajustable.\n\n32.0x15.0x10.0 cm (Largo x Alto x Ancho).\n\nREF. 17041179",
+  "relacionados": [
+    "PANTALON_RECTO_ALGODON",
+    "TOP_ALGODON_VOLANTE"
+  ],
+  "item_id": "BOLSO_HOMBRO_MEDIANO_TRENZADO",
+  "subcategoria": "bolsos",
+  "color": "blanco",
+  "estilo": "Sin información",
+  "material": "Sin información",
+  "temporada": "All-season",
+  "publico_objetivo": "mujer",
+  "patrocinado": false
+}

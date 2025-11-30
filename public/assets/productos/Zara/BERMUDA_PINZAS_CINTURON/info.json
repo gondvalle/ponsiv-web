@@ -1,0 +1,22 @@
+{
+  "nombre": "BERMUDA PINZAS CINTURÓN",
+  "marca": "Zara",
+  "precio": 25.95,
+  "tallas": [
+    "S",
+    "M",
+    "L",
+    "XL"
+  ],
+  "categoria": "inferior",
+  "url": "https://www.zara.com/es/es/bermuda-pinzas-cinturon-p08372444.html?v1=465004372&v2=2420454",
+  "item_id": "BERMUDA_PINZAS_CINTURON",
+  "subcategoria": "shorts",
+  "color": "azul",
+  "estilo": "Sin información",
+  "relacionados": [],
+  "material": "Sin información",
+  "temporada": "PV",
+  "publico_objetivo": "mujer",
+  "patrocinado": false
+}

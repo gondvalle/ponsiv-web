@@ -1,0 +1,27 @@
+{
+  "nombre": "CAMISA IKAT CAPTAIN",
+  "marca": "Nicoli",
+  "precio": 49.9,
+  "tallas": [
+    "S",
+    "M",
+    "L"
+  ],
+  "categoria": "superior",
+  "url": "https://www.nicolishop.com/es/es/camisa-ikat-captain/252M501630-17.html",
+  "descripcion": "Camisa en print de la colección. Patrón con manga larga, abullonada. Disponible en dos colores.La modelo lleva talla S y mide 1,73 m.\nREF. 252M501630-17",
+  "relacionados": [
+    "BOTIN_COWBOY_MARRON",
+    "CINTURON_FINO_COWBOY_GUINDA",
+    "COLLAR_LARGO_BEADS_PLATEADAS",
+    "PANTALON_DENIM_BOTON_LATERAL_FLOR_AZUL"
+  ],
+  "item_id": "CAMISA_IKAT_CAPTAIN",
+  "subcategoria": "camisas",
+  "color": "azul",
+  "estilo": "Sin información",
+  "material": "Sin información",
+  "temporada": "All-season",
+  "publico_objetivo": "mujer",
+  "patrocinado": false
+}

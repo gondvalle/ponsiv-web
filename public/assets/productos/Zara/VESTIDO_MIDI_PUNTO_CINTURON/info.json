@@ -1,0 +1,23 @@
+{
+  "nombre": "VESTIDO MIDI PUNTO CINTURÓN",
+  "marca": "Zara",
+  "precio": 39.95,
+  "tallas": [
+    "XS",
+    "S",
+    "M",
+    "L",
+    "XXL"
+  ],
+  "categoria": "vestido",
+  "url": "https://www.zara.com/es/es/vestido-midi-punto-cinturon-p05536122.html?v1=456950089&v2=2420896",
+  "item_id": "VESTIDO_MIDI_PUNTO_CINTURON",
+  "subcategoria": "vestidos",
+  "color": "gris",
+  "estilo": "Sin información",
+  "relacionados": [],
+  "material": "Sin información",
+  "temporada": "PV",
+  "publico_objetivo": "mujer",
+  "patrocinado": false
+}

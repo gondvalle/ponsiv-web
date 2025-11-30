@@ -1,0 +1,24 @@
+{
+  "nombre": "Abrigo lana doble botonadura",
+  "marca": "Mango",
+  "precio": 199.99,
+  "tallas": [
+    "S",
+    "M",
+    "L"
+  ],
+  "categoria": "abrigo",
+  "url": "https://shop.mango.com/es/es/p/mujer/abrigos/abrigos/abrigo-lana-doble-botonadura_17045824",
+  "descripcion": "Confeccionado en tejido mezcla de lana, este diseño largo y recto presenta un cuello camisero y manga larga con puño abotonado. Incluye trabillas en los hombros, dos bolsillos laterales y cinturón tipo batín. Tiene forro interior en las mangas y cierre de doble botonadura. Colección Selection\n\nUna selección de prendas refinadas, confeccionadas con tejidos de calidad para construir un armario femenino y contemporáneo",
+  "relacionados": [
+    "BOTA_ALTA_PIEL_TIRAS"
+  ],
+  "item_id": "ABRIGO_LANA_DOBLE_BOTONADURA",
+  "subcategoria": "abrigos",
+  "color": "beige",
+  "estilo": "Sin información",
+  "material": "lana",
+  "temporada": "OI",
+  "publico_objetivo": "mujer",
+  "patrocinado": false
+}

@@ -1,0 +1,21 @@
+{
+  "nombre": "VESTIDO YASMIN",
+  "marca": "Utopya",
+  "precio": 45.9,
+  "tallas": [
+    "S",
+    "M",
+    "L"
+  ],
+  "categoria": "vestido",
+  "url": "https://utopyashop.com/producto/vestido-yasmin/",
+  "item_id": "VESTIDO_YASMIN",
+  "subcategoria": "vestidos",
+  "color": "rojo",
+  "estilo": "Sin información",
+  "relacionados": [],
+  "material": "Sin información",
+  "temporada": "PV",
+  "publico_objetivo": "mujer",
+  "patrocinado": false
+}

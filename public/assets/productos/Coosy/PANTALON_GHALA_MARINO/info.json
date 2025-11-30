@@ -1,0 +1,27 @@
+{
+  "nombre": "PANTALON GHALA MARINO",
+  "marca": "Coosy",
+  "precio": 79.0,
+  "tallas": [
+    "S",
+    "M",
+    "L",
+    "XL"
+  ],
+  "categoria": "inferior",
+  "url": "https://www.coosy.es/products/pantalon-ghalamarino",
+  "descripcion": "El Pantalón Ghala es la prenda que combina elegancia y comodidad en un solo diseño. Confeccionado en un tejido ligero y fluido, este pantalón de talle alto con pinzas estiliza la silueta y se adapta a cualquier ocasión.\n\nSu estampado de rayas diplomáticas verticales aporta un aire clásico y sofisticado, perfecto tanto para un look de oficina como para elevar tu estilo en el día a día. Los botones frontales decorativos y el corte ligeramente cropped lo convierten en un básico versátil que podrás combinar con blusas, jerséis ajustados o americanas.",
+  "relacionados": [
+    "CHALECO_GHALA_MARINO",
+    "CHAQUETA_GHALA_MARINO",
+    "JERSEY_PIPO_GRIS"
+  ],
+  "item_id": "PANTALON_GHALA_MARINO",
+  "subcategoria": "pantalones",
+  "color": "azul marino",
+  "estilo": "minimal",
+  "material": "Sin información",
+  "temporada": "All-season",
+  "publico_objetivo": "mujer",
+  "patrocinado": false
+}

@@ -1,0 +1,26 @@
+{
+  "nombre": "CHAQUETA BOMBER 100% PIEL",
+  "marca": "Mango",
+  "precio": 199.99,
+  "tallas": [
+    "XS",
+    "S",
+    "M",
+    "L",
+    "XL"
+  ],
+  "categoria": "superior",
+  "url": "https://shop.mango.com/es/es/p/mujer/chaquetas/piel/chaqueta-bomber-100-piel_17096342",
+  "descripcion": "100% piel ovino. Diseño corto. Cuello camisero. Manga larga con puños elásticos. Dos bolsillos laterales. Cierre delantero con botones. Forro interior. Colección Selection.\n\nUna selección de prendas refinadas, confeccionadas con tejidos de calidad para construir un armario femenino y contemporáneo\n\nREF. 17096342",
+  "relacionados": [
+    "PANTALON_SATINADO_ABERTURAS_LATERALES"
+  ],
+  "item_id": "CHAQUETA_BOMBER_100_PIEL",
+  "subcategoria": "chaquetas",
+  "color": "negro",
+  "estilo": "Sin información",
+  "material": "cuero, ante",
+  "temporada": "OI",
+  "publico_objetivo": "mujer",
+  "patrocinado": false
+}

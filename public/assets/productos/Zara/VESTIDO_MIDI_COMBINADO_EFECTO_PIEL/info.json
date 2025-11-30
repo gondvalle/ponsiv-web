@@ -1,0 +1,23 @@
+{
+  "nombre": "VESTIDO MIDI COMBINADO EFECTO PIEL",
+  "marca": "Zara",
+  "precio": 39.95,
+  "tallas": [
+    "XS",
+    "S",
+    "M",
+    "L",
+    "XXL"
+  ],
+  "categoria": "vestido",
+  "url": "https://www.zara.com/es/es/vestido-midi-combinado-efecto-piel-p05029189.html?v1=468855139&v2=2420896",
+  "item_id": "VESTIDO_MIDI_COMBINADO_EFECTO_PIEL",
+  "subcategoria": "vestidos",
+  "color": "negro",
+  "estilo": "Sin información",
+  "relacionados": [],
+  "material": "Sin información",
+  "temporada": "PV",
+  "publico_objetivo": "mujer",
+  "patrocinado": false
+}

@@ -1,0 +1,22 @@
+{
+  "nombre": "740 zapatillas",
+  "marca": "New Balance",
+  "precio": 120.0,
+  "tallas": [
+    "XS",
+    "S",
+    "M",
+    "L"
+  ],
+  "categoria": "calzado",
+  "url": "https://www.newbalance.es/es/pd/740/U740V2-50105-PMG-EMEA.html?dwvar_U740V2-50105-PMG-EMEA_style=U740WM2",
+  "item_id": "740_ZAPATILLAS",
+  "subcategoria": "zapatillas",
+  "color": "blanco",
+  "estilo": "Sin información",
+  "relacionados": [],
+  "material": "Sin información",
+  "temporada": "All-season",
+  "publico_objetivo": "mujer",
+  "patrocinado": false
+}

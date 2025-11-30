@@ -1,0 +1,23 @@
+{
+  "nombre": "MONO FLUIDO BOLSILLOS",
+  "marca": "Zara",
+  "precio": 29.95,
+  "tallas": [
+    "XS",
+    "S",
+    "M",
+    "L",
+    "XXL"
+  ],
+  "categoria": "vestido",
+  "url": "https://www.zara.com/es/es/mono-fluido-bolsillos-p06929383.html?v1=455257140&v2=2420896",
+  "item_id": "MONO_FLUIDO_BOLSILLOS",
+  "subcategoria": "monos",
+  "color": "azul",
+  "estilo": "Sin información",
+  "relacionados": [],
+  "material": "Sin información",
+  "temporada": "PV",
+  "publico_objetivo": "mujer",
+  "patrocinado": false
+}

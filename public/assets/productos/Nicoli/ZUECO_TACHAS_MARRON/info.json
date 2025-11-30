@@ -1,0 +1,23 @@
+{
+  "nombre": "ZUECO TACHAS MARRÓN",
+  "marca": "Nicoli",
+  "precio": 89.9,
+  "tallas": [
+    "S",
+    "M",
+    "L",
+    "XL"
+  ],
+  "categoria": "calzado",
+  "url": "https://www.nicolishop.com/es/es/zueco-tachas-marron-/252Z501404-6.html",
+  "descripcion": "Zueco en serraje, con detalle de tachas. Limpieza con cepillo, de cerdas suaves o metálicas.\nREF. 252Z501404-6",
+  "relacionados": [],
+  "item_id": "ZUECO_TACHAS_MARRON",
+  "subcategoria": "zuecos",
+  "color": "marrón",
+  "estilo": "Sin información",
+  "material": "Sin información",
+  "temporada": "PV",
+  "publico_objetivo": "mujer",
+  "patrocinado": false
+}

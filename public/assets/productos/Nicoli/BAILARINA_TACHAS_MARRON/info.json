@@ -1,0 +1,23 @@
+{
+  "nombre": "BAILARINA TACHAS MARRÓN",
+  "marca": "Nicoli",
+  "precio": 89.9,
+  "tallas": [
+    "S",
+    "M",
+    "L",
+    "XL"
+  ],
+  "categoria": "calzado",
+  "url": "https://www.nicolishop.com/es/es/bailarina-tachas-marron/252Z501405-6.html",
+  "descripcion": "Zapato en piel de vacuno. Patrón clásico, con dos tiras cruzadas, que tienen hebillas y combinan acabado dorado y plateado.\nREF. 252Z501405-6",
+  "relacionados": [],
+  "item_id": "BAILARINA_TACHAS_MARRON",
+  "subcategoria": "bailarinas",
+  "color": "marrón",
+  "estilo": "Sin información",
+  "material": "cuero",
+  "temporada": "All-season",
+  "publico_objetivo": "mujer",
+  "patrocinado": false
+}

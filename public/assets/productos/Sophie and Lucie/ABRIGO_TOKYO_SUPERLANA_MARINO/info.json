@@ -1,0 +1,22 @@
+{
+  "nombre": "Abrigo tokyo superlana marino",
+  "marca": "Sophie and Lucie",
+  "precio": 290.0,
+  "tallas": [
+    "S",
+    "M",
+    "L",
+    "XL"
+  ],
+  "categoria": "abrigo",
+  "url": "https://www.sophieandlucie.com/products/abrigo-tokyo-superlana-marino-oi25",
+  "item_id": "ABRIGO_TOKYO_SUPERLANA_MARINO",
+  "subcategoria": "abrigos",
+  "color": "azul marino",
+  "estilo": "Sin información",
+  "relacionados": [],
+  "material": "Sin información",
+  "temporada": "OI",
+  "publico_objetivo": "mujer",
+  "patrocinado": false
+}

@@ -1,0 +1,22 @@
+{
+  "nombre": "SHORTS TIRO ALTO",
+  "marca": "Zara",
+  "precio": 19.95,
+  "tallas": [
+    "S",
+    "M",
+    "L",
+    "XL"
+  ],
+  "categoria": "inferior",
+  "url": "https://www.zara.com/es/es/shorts-tiro-alto-p03067515.html?v1=472926658&v2=2420454",
+  "item_id": "SHORTS_TIRO_ALTO",
+  "subcategoria": "shorts",
+  "color": "verde",
+  "estilo": "Sin información",
+  "relacionados": [],
+  "material": "Sin información",
+  "temporada": "PV",
+  "publico_objetivo": "mujer",
+  "patrocinado": false
+}

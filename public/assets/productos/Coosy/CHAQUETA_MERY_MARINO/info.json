@@ -1,0 +1,27 @@
+{
+  "nombre": "CHAQUETA MERY MARINO",
+  "marca": "Coosy",
+  "precio": 130.0,
+  "tallas": [
+    "XS",
+    "S",
+    "M",
+    "L",
+    "XL"
+  ],
+  "categoria": "superior",
+  "url": "https://www.coosy.es/products/chaqueta-merymarino",
+  "descripcion": "Dale un giro sofisticado a tu armario con esta chaqueta corta de pata de gallo, diseñada para destacar con un aire retro y elegante. Confeccionada en un tejido estructurado de alta calidad, presenta un favorecedor corte recto, hombros ligeramente marcados y botones forrados al tono que le aportan un acabado impecable. Los bolsillos decorativos con ribetes en contraste le añaden un detalle moderno y chic.\n\nEsta chaqueta es el complemento perfecto para el pantalón a juego, creando un conjunto coordinado ideal para oficina, eventos o looks urbanos con mucha personalidad. También puedes llevarla con jeans o faldas para un estilo más casual pero igual de sofisticado.\n\n*La modelo mide 1,80m y lleva la talla S.\n\nDiseñado y confeccionado en nuestros talleres localizados en España.",
+  "relacionados": [
+    "JERSEY_PIPO_TERRACOTA",
+    "PANTALON_MERY_MARINO"
+  ],
+  "item_id": "CHAQUETA_MERY_MARINO",
+  "subcategoria": "chaquetas",
+  "color": "gris",
+  "estilo": "elegante",
+  "material": "30%ACRILICO, 25%POLIÉSTER, 15%ALGODÓN, 30%OTRAS FIBRAS",
+  "temporada": "OI",
+  "publico_objetivo": "mujer",
+  "patrocinado": false
+}

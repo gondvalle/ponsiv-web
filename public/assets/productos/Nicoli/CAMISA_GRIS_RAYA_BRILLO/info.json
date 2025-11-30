@@ -1,0 +1,24 @@
+{
+  "nombre": "CAMISA GRIS RAYA BRILLO",
+  "marca": "Nicoli",
+  "precio": 49.9,
+  "tallas": [
+    "S",
+    "M"
+  ],
+  "categoria": "superior",
+  "url": "https://www.nicolishop.com/es/es/camisa-gris-raya-brillo/252M501624-22.html#page=8&start=10",
+  "descripcion": "Camisa en tejido con rayas brillo. Disponemos de un pantaón en el mismo tejido, para quien desee llevarlo como conjunto. Patrón con escote asimétrico, manga 3/4. La modelo lleva talla S y mide 1,78 cm.\nREF. 252M501624-22",
+  "relacionados": [
+    "BAILARINA_TACHAS_MARRON",
+    "PANTALON_GRIS_RAYA_BRILLO"
+  ],
+  "item_id": "CAMISA_GRIS_RAYA_BRILLO",
+  "subcategoria": "camisas",
+  "color": "gris",
+  "estilo": "Sin información",
+  "material": "Sin información",
+  "temporada": "PV",
+  "publico_objetivo": "mujer",
+  "patrocinado": false
+}

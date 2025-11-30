@@ -1,0 +1,23 @@
+{
+  "nombre": "CAMISA OXFORD CUELLO BOTONES",
+  "marca": "Scalpers",
+  "precio": 69.99,
+  "tallas": [
+    "XS",
+    "S",
+    "M",
+    "L",
+    "XL"
+  ],
+  "categoria": "superior",
+  "url": "https://scalperscompany.com/products/40081-new-boppy-shirt-nos-white",
+  "item_id": "CAMISA_OXFORD_CUELLO_BOTONES",
+  "subcategoria": "camisas",
+  "color": "blanco",
+  "estilo": "Sin información",
+  "relacionados": [],
+  "material": "Sin información",
+  "temporada": "All-season",
+  "publico_objetivo": "mujer",
+  "patrocinado": false
+}

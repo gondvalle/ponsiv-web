@@ -1,0 +1,21 @@
+{
+  "nombre": "VESTIDO MIDI HALTER",
+  "marca": "Zara",
+  "precio": 35.95,
+  "tallas": [
+    "XS",
+    "S",
+    "M"
+  ],
+  "categoria": "vestido",
+  "url": "https://www.zara.com/es/es/vestido-midi-halter-p01165164.html?v1=452748233&v2=2420896",
+  "item_id": "VESTIDO_MIDI_HALTER",
+  "subcategoria": "vestidos",
+  "color": "azul",
+  "estilo": "Sin información",
+  "relacionados": [],
+  "material": "Sin información",
+  "temporada": "PV",
+  "publico_objetivo": "mujer",
+  "patrocinado": false
+}

@@ -1,0 +1,23 @@
+{
+  "nombre": "Denim Buttons Romper",
+  "marca": "Ramsos",
+  "precio": 142.0,
+  "tallas": [
+    "XS",
+    "S",
+    "M",
+    "L"
+  ],
+  "categoria": "vestido",
+  "url": "https://www.ramsos.com/collections/new-women/products/denim-buttons-romper",
+  "descripcion": "Denim short sleeve romper with buttons .\n\nOur model is 1.72 m and wears an XS.\n\nComposition: 100% Cotton. \n\nMade in Portugal. Limited Units.",
+  "relacionados": [],
+  "item_id": "DENIM_BUTTONS_ROMPER",
+  "subcategoria": "monos",
+  "color": "azul",
+  "estilo": "Sin información",
+  "material": "algodón",
+  "temporada": "All-season",
+  "publico_objetivo": "mujer",
+  "patrocinado": false
+}

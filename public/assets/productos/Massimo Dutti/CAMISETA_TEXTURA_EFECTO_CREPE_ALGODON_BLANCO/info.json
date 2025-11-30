@@ -1,0 +1,25 @@
+{
+  "nombre": "CAMISETA TEXTURA EFECTO CREPE ALGODÓN BLANCO",
+  "marca": "Massimo Dutti",
+  "precio": 25.95,
+  "tallas": [
+    "S",
+    "M",
+    "L"
+  ],
+  "categoria": "superior",
+  "url": "https://www.massimodutti.com/es/camiseta-textura-efecto-crepe-algodon-l06264505?colorId=251",
+  "descripcion": "Camiseta confeccionada en tejido 100% algodón. Silueta ligeramente ajustada al cuerpo, proporcionando un aspecto más definido y estilizado. Cuello redondo. Manga corta. Tejido crepado con sutil textura.\n\nRef. 6264/505",
+  "relacionados": [
+    "FALDA_MIDI_PIEL_ANTE",
+    "SANDALIA_ATADA_PIEL"
+  ],
+  "item_id": "CAMISETA_TEXTURA_EFECTO_CREPE_ALGODON_BLANCO",
+  "subcategoria": "camisetas",
+  "color": "blanco",
+  "estilo": "Sin información",
+  "material": "algodón",
+  "temporada": "All-season",
+  "publico_objetivo": "mujer",
+  "patrocinado": false
+}

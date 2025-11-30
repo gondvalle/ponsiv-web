@@ -1,0 +1,23 @@
+{
+  "nombre": "Jersey Wavy Marrón",
+  "marca": "Nude Project",
+  "precio": 109.0,
+  "tallas": [
+    "S",
+    "M",
+    "L",
+    "XL"
+  ],
+  "categoria": "superior",
+  "url": "https://nude-project.com/es/products/jersey-wavy-marron",
+  "descripcion": "Composición:\n51% Pes - 23% Acrílico - 21% Nylon - 3% Lana\n\nEn forma:\nAjuste estándar\n\nDetalles técnicos:\nFrontal: Logotipo bordado",
+  "relacionados": [],
+  "item_id": "JERSEY_WAVY_MARRON",
+  "subcategoria": "jerséis",
+  "color": "marrón",
+  "estilo": "Sin información",
+  "material": "lana, nailon",
+  "temporada": "All-season",
+  "publico_objetivo": "mujer",
+  "patrocinado": false
+}

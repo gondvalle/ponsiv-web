@@ -1,0 +1,23 @@
+{
+  "nombre": "SCCRINDI SHIRT",
+  "marca": "Scalpers",
+  "precio": 69.99,
+  "tallas": [
+    "XS",
+    "S",
+    "M",
+    "L",
+    "XL"
+  ],
+  "categoria": "superior",
+  "url": "https://scalperscompany.com/products/62385-sccrindi-shirt-aw2526-navy",
+  "item_id": "SCCRINDI_SHIRT",
+  "subcategoria": "camisas",
+  "color": "azul",
+  "estilo": "Sin información",
+  "relacionados": [],
+  "material": "Sin información",
+  "temporada": "All-season",
+  "publico_objetivo": "mujer",
+  "patrocinado": false
+}

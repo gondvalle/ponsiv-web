@@ -1,0 +1,26 @@
+{
+  "nombre": "PANTALÓN TACHUELAS AZUL",
+  "marca": "Nicoli",
+  "precio": 64.9,
+  "tallas": [
+    "S",
+    "M",
+    "L"
+  ],
+  "categoria": "inferior",
+  "url": "https://www.nicolishop.com/es/es/pantalon-tachuelas-azul/242M510101-24.html",
+  "descripcion": "Pantalón de tiro bajo con bolsillos. Detalle de tachuelas en los bolsillos delanteros. Cierre con cremallera y botón.\nREF. 242M510101-24",
+  "relacionados": [
+    "CAMISA_RAYA_LUREX_BORDADA",
+    "PANUELO_BEADS_NEGRO",
+    "ZUECO_TACHAS_MARRON"
+  ],
+  "item_id": "PANTALON_TACHUELAS_AZUL",
+  "subcategoria": "pantalones",
+  "color": "azul",
+  "estilo": "Sin información",
+  "material": "Sin información",
+  "temporada": "All-season",
+  "publico_objetivo": "mujer",
+  "patrocinado": false
+}

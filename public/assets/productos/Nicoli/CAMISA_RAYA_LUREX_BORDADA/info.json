@@ -1,0 +1,25 @@
+{
+  "nombre": "CAMISA RAYA LUREX BORDADA",
+  "marca": "Nicoli",
+  "precio": 57.9,
+  "tallas": [
+    "S",
+    "M",
+    "L"
+  ],
+  "categoria": "superior",
+  "url": "https://www.nicolishop.com/es/es/camisa-raya-lurex-bordada/252M501627-16.html",
+  "descripcion": "Camisa en algodón con detalle de lurex, y bordados en la parte frontal. Patrón con manga larga. La modelo lleva talla M y mide 1,8 m.\nREF. 252M501627-16",
+  "relacionados": [
+    "PANTALON_TACHUELAS_AZUL",
+    "ZUECO_TACHAS_MARRON"
+  ],
+  "item_id": "CAMISA_RAYA_LUREX_BORDADA",
+  "subcategoria": "camisas",
+  "color": "azul",
+  "estilo": "Sin información",
+  "material": "algodón",
+  "temporada": "All-season",
+  "publico_objetivo": "mujer",
+  "patrocinado": false
+}

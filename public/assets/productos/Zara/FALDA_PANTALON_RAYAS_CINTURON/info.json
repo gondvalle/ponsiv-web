@@ -1,0 +1,22 @@
+{
+  "nombre": "FALDA PANTALÓN RAYAS CINTURÓN",
+  "marca": "Zara",
+  "precio": 25.95,
+  "tallas": [
+    "S",
+    "M",
+    "L",
+    "XL"
+  ],
+  "categoria": "inferior",
+  "url": "https://www.zara.com/es/es/falda-pantalon-rayas-cinturon-p01478110.html?v1=473662384&v2=2420454",
+  "item_id": "FALDA_PANTALON_RAYAS_CINTURON",
+  "subcategoria": "faldas",
+  "color": "azul",
+  "estilo": "Sin información",
+  "relacionados": [],
+  "material": "Sin información",
+  "temporada": "PV",
+  "publico_objetivo": "mujer",
+  "patrocinado": false
+}

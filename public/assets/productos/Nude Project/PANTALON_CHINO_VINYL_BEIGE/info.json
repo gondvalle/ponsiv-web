@@ -1,0 +1,26 @@
+{
+  "nombre": "Pantalón Chino Vinyl Beige",
+  "marca": "Nude Project",
+  "precio": 99.0,
+  "tallas": [
+    "XS",
+    "S",
+    "M",
+    "L",
+    "XL"
+  ],
+  "categoria": "inferior",
+  "url": "https://nude-project.com/es/collections/pantalones-mujer/products/pantalon-chino-vinyl-beige",
+  "descripcion": "Composition:\nCotton 100%\n\nFit:\nWide Chino Fit\n\nTechnical Details:\nEmbroidery deco detail\nWaist with round shape\nFlap detail",
+  "relacionados": [
+    "JERSEY_WAVY_MARRON"
+  ],
+  "item_id": "PANTALON_CHINO_VINYL_BEIGE",
+  "subcategoria": "pantalones",
+  "color": "beige",
+  "estilo": "techwear",
+  "material": "algodón",
+  "temporada": "All-season",
+  "publico_objetivo": "mujer",
+  "patrocinado": false
+}

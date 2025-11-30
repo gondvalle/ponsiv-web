@@ -1,0 +1,24 @@
+{
+  "nombre": "PANTALON ELVA CRUDO",
+  "marca": "Coosy",
+  "precio": 125.0,
+  "tallas": [
+    "S",
+    "M",
+    "L"
+  ],
+  "categoria": "inferior",
+  "url": "https://www.coosy.es/products/pantalon-elvacrudo",
+  "descripcion": "El Pantalón Elva en color crudo es sinónimo de elegancia relajada. Confeccionado en un tejido satinado de caída fluida, su diseño amplio y femenino aporta movimiento y presencia a cualquier look.\n\nCon cintura alta fruncida y bajo recogido, su silueta evoca una inspiración oriental reinterpretada con un toque contemporáneo. El acabado en color crudo aporta luminosidad y versatilidad, perfecto tanto para el día como para la noche.\n\nEn la imagen lo combinamos con la Camisa Fanny en marrón satinado, cinturón ancho de piel en chocolate, bolso con flecos y salones en punta, creando un estilismo elegante y con carácter, ideal para ocasiones especiales, cenas o eventos informales con estilo.\n\n*La modelo mide 1,80 y lleva la talla s.\n\nDiseñado y fabricado en España",
+  "relacionados": [
+    "CAMISA_FANNY_MARRON"
+  ],
+  "item_id": "PANTALON_ELVA_CRUDO",
+  "subcategoria": "pantalones",
+  "color": "crema",
+  "estilo": "formal",
+  "material": "cuero, ante",
+  "temporada": "All-season",
+  "publico_objetivo": "mujer",
+  "patrocinado": false
+}

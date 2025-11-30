@@ -1,0 +1,25 @@
+{
+  "nombre": "PANTALÓN DENIM BOTONES CINTURILLA GRIS CLARO",
+  "marca": "Nicoli",
+  "precio": 62.9,
+  "tallas": [
+    "S",
+    "M",
+    "L",
+    "XL"
+  ],
+  "categoria": "inferior",
+  "url": "https://www.nicolishop.com/es/es/denim-botones-cinturilla-gris-claro/252M510104-5.html",
+  "descripcion": "Pantalón denim, en lavado gris claro, con detalle de botones en cinturilla y trabillas. Disponible en dos colores.La modelo lleva talla 38 y mide 180 cm.\nREF. 252M510104-5",
+  "relacionados": [
+    "ZUECO_TACHAS_MARRON"
+  ],
+  "item_id": "PANTALON_DENIM_BOTONES_CINTURILLA_GRIS_CLARO",
+  "subcategoria": "pantalones",
+  "color": "gris",
+  "estilo": "Sin información",
+  "material": "Sin información",
+  "temporada": "All-season",
+  "publico_objetivo": "mujer",
+  "patrocinado": false
+}

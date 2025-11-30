@@ -1,0 +1,26 @@
+{
+  "nombre": "CAMISA VAQUERA AZUL",
+  "marca": "Nicoli",
+  "precio": 54.9,
+  "tallas": [
+    "S",
+    "M",
+    "L",
+    "XL"
+  ],
+  "categoria": "superior",
+  "url": "https://www.nicolishop.com/es/es/camisa-vaquera-azul/252M501611-24.html",
+  "descripcion": "Camisa en tejido vaquero, en lavado azul. Patrón clásico de Nícoli, cuello perkins y manga larga rematada en puño. Cierre con snaps. La modelo lleva talla M y mide 1,73 m.\nREF. 252M501611-24",
+  "relacionados": [
+    "PANTALON_PESPUNTE_CURVA_OLIVE",
+    "ZUECO_TACHAS_MARRON"
+  ],
+  "item_id": "CAMISA_VAQUERA_AZUL",
+  "subcategoria": "camisas",
+  "color": "azul",
+  "estilo": "Sin información",
+  "material": "Sin información",
+  "temporada": "All-season",
+  "publico_objetivo": "mujer",
+  "patrocinado": false
+}

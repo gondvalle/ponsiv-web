@@ -1,0 +1,25 @@
+{
+  "nombre": "PANTALÓN FLARE FIT PIEL NAPA",
+  "marca": "Massimo Dutti",
+  "precio": 399.0,
+  "tallas": [
+    "S",
+    "M",
+    "L"
+  ],
+  "categoria": "inferior",
+  "url": "https://www.massimodutti.com/es/pantalon-flare-fit-piel-napa-l05326966",
+  "descripcion": "Pantalón Flare fit: este fit ofrece un corte ajustado en la cadera y muslos que se ensancha progresivamente desde la rodilla, creando un efecto acampanado. Pantalón confeccionado en piel ovina con acabado en napa. Tiro medio. Cierre mediante cremallera lateral. Cintura con goma elástica. Forro interior.\n\nRef. 5326/966",
+  "relacionados": [
+    "CINTURON_PIEL_APLIQUES_BOHO",
+    "TOP_ESTAMPADO_ESCOTE_CRUZADO"
+  ],
+  "item_id": "PANTALON_FLARE_FIT_PIEL_NAPA",
+  "subcategoria": "pantalones",
+  "color": "marrón",
+  "estilo": "Sin información",
+  "material": "cuero, ante, goma",
+  "temporada": "All-season",
+  "publico_objetivo": "mujer",
+  "patrocinado": false
+}

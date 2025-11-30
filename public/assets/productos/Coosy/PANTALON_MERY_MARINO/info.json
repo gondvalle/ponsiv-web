@@ -1,0 +1,27 @@
+{
+  "nombre": "PANTALON MERY MARINO",
+  "marca": "Coosy",
+  "precio": 119.0,
+  "tallas": [
+    "XS",
+    "S",
+    "M",
+    "L",
+    "XL"
+  ],
+  "categoria": "inferior",
+  "url": "https://www.coosy.es/products/pantalon-merymarino",
+  "descripcion": "Eleva tu estilo con este pantalón de corte recto con estampado de pata de gallo, una prenda atemporal que combina comodidad y elegancia. Su diseño de talle alto con doble abotonadura frontal y pinzas aporta una silueta favorecedora y sofisticada. Confeccionado en un tejido estructurado, este pantalón es ideal tanto para looks de oficina como para ocasiones más casuales con un toque chic.\n\nLo mejor: este pantalón cuenta con una chaqueta a juego, perfecta para crear un conjunto coordinado y lleno de estilo. Llévalo como traje completo o combínalo con piezas básicas para un look versátil y moderno.\n\n*La modelo mide 1,80m y lleva la talla S.\n\nDiseñado y confeccionado en nuestros talleres localizados en España.",
+  "relacionados": [
+    "CHAQUETA_MERY_MARINO",
+    "JERSEY_PIPO_TERRACOTA"
+  ],
+  "item_id": "PANTALON_MERY_MARINO",
+  "subcategoria": "pantalones",
+  "color": "gris",
+  "estilo": "formal",
+  "material": "Sin información",
+  "temporada": "OI",
+  "publico_objetivo": "mujer",
+  "patrocinado": false
+}

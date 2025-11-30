@@ -1,0 +1,23 @@
+{
+  "nombre": "PANTALÓN PESPUNTE CURVA OLIVE",
+  "marca": "Nicoli",
+  "precio": 59.9,
+  "tallas": [
+    "M"
+  ],
+  "categoria": "inferior",
+  "url": "https://www.nicolishop.com/es/es/pantalon-pespunte-curva-olive/252M508213-13.html",
+  "descripcion": "Pantalón en sarga de algodón, en color de la colección. Patrón con pierna tipo \"barril\". La modelo lleva talla 36 y mide 1,73 m.\nREF. 252M508213-13",
+  "relacionados": [
+    "CAMISA_VAQUERA_AZUL",
+    "ZUECO_TACHAS_MARRON"
+  ],
+  "item_id": "PANTALON_PESPUNTE_CURVA_OLIVE",
+  "subcategoria": "pantalones",
+  "color": "oliva",
+  "estilo": "Sin información",
+  "material": "algodón",
+  "temporada": "All-season",
+  "publico_objetivo": "mujer",
+  "patrocinado": false
+}

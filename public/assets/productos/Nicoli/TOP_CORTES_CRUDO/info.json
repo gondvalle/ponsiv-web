@@ -1,0 +1,24 @@
+{
+  "nombre": "TOP CORTES CRUDO",
+  "marca": "Nicoli",
+  "precio": 44.9,
+  "tallas": [
+    "S",
+    "M"
+  ],
+  "categoria": "superior",
+  "url": "https://www.nicolishop.com/es/es/top-cortes-crudo/252M505819-4.html#page=7&start=7",
+  "descripcion": "Top en crepe de color crudo. Patrón con varios cortes, en mangas, pecho y hombro. Escote pico. La modelo lleva talla S y mide 1,75 m.\nREF. 252M505819-4",
+  "relacionados": [
+    "COLLAR_LARGO_BEADS_PLATEADAS",
+    "PANTALON_TACHUELAS_AZUL"
+  ],
+  "item_id": "TOP_CORTES_CRUDO",
+  "subcategoria": "tops",
+  "color": "crema",
+  "estilo": "Sin información",
+  "material": "Sin información",
+  "temporada": "PV",
+  "publico_objetivo": "mujer",
+  "patrocinado": false
+}

@@ -1,0 +1,26 @@
+{
+  "nombre": "TOP ALGODÓN VOLANTE",
+  "marca": "Mango",
+  "precio": 25.99,
+  "tallas": [
+    "XS",
+    "S",
+    "M",
+    "L"
+  ],
+  "categoria": "superior",
+  "url": "https://shop.mango.com/es/es/p/mujer/tops/top-algodon-volante_17071191",
+  "descripcion": "Tejido 100% algodón. Diseño recto. Diseño crop. Sin mangas. Tirantes finos con cierre de lazo. Panel fruncido elástico en la parte posterior. Detalle de volante en la cintura. Total look.\n\nREF. 17071191",
+  "relacionados": [
+    "BOLSO_HOMBRO_MEDIANO_TRENZADO",
+    "PANTALON_RECTO_ALGODON"
+  ],
+  "item_id": "TOP_ALGODON_VOLANTE",
+  "subcategoria": "tops",
+  "color": "blanco",
+  "estilo": "Sin información",
+  "material": "algodón, ante",
+  "temporada": "All-season",
+  "publico_objetivo": "mujer",
+  "patrocinado": false
+}

@@ -1,0 +1,25 @@
+{
+  "nombre": "JEANS STRAIGHT FIT TIRO BAJO",
+  "marca": "Massimo Dutti",
+  "precio": 49.95,
+  "tallas": [
+    "S",
+    "M",
+    "L"
+  ],
+  "categoria": "inferior",
+  "url": "https://www.massimodutti.com/es/jeans-straight-fit-tiro-bajo-l05053653",
+  "descripcion": "Jeans Straight fit: presenta una silueta recta desde la cintura hasta el tobillo, sin ajustes adicionales en las piernas. Cierre por cremallera oculta por tapeta abotonada. Tiro bajo. Diseño de cinco bolsillos.\n\nRef. 5053/653",
+  "relacionados": [
+    "JERSEY_PUNTO_CUELLO_PICO_CON_LANA_AZUL",
+    "MOCASIN_SOFT_ANTIFAZ"
+  ],
+  "item_id": "JEANS_STRAIGHT_FIT_TIRO_BAJO",
+  "subcategoria": "pantalones",
+  "color": "azul",
+  "estilo": "Sin información",
+  "material": "Sin información",
+  "temporada": "All-season",
+  "publico_objetivo": "mujer",
+  "patrocinado": false
+}

@@ -1,0 +1,23 @@
+{
+  "nombre": "JERSEY MANGA CORTA TEJA",
+  "marca": "Nicoli",
+  "precio": 52.9,
+  "tallas": [
+    "S",
+    "M"
+  ],
+  "categoria": "superior",
+  "url": "https://www.nicolishop.com/es/es/jersey-manga-corta-teja/252M503610-54.html#page=2&start=3",
+  "descripcion": "Jersey 100% lana. Patrón con cuello redondo manga corta. Ofrecemos una chaqueta con pañuelo en el mismo color/calidad, para llevar junto. DIsponible en dos colores.La modelo lleva talla S y mide 1,77cm.\nREF. 252M503610-54",
+  "relacionados": [
+    "PANTALON_TRABILLA_RAYA_GRIS"
+  ],
+  "item_id": "JERSEY_MANGA_CORTA_TEJA",
+  "subcategoria": "jerséis",
+  "color": "rojo",
+  "estilo": "Sin información",
+  "material": "lana",
+  "temporada": "PV",
+  "publico_objetivo": "mujer",
+  "patrocinado": false
+}

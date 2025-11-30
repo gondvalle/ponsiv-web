@@ -1,0 +1,24 @@
+{
+  "nombre": "VESTIDO MERCIA GRIS",
+  "marca": "Coosy",
+  "precio": 130.0,
+  "tallas": [
+    "XS",
+    "S",
+    "M",
+    "L",
+    "XL"
+  ],
+  "categoria": "vestido",
+  "url": "https://www.coosy.es/products/vestido-merciagris",
+  "descripcion": "Este vestido midi de Coosy es la definición de elegancia y estilo atemporal. Diseñado en un tono neutro sofisticado, destaca por su cuello drapeado que aporta movimiento y delicadeza en la parte frontal, mientras que la espalda sorprende con un escote cuadrado minimalista que realza la silueta con sutil sensualidad.\n\nSu corte entallado se ajusta de forma favorecedora, acompañado de un cinturón a tono en contraste, que marca la cintura y estiliza la figura. Las mangas largas lo convierten en una opción ideal para eventos de otoño e invierno, como bodas de día, cócteles, cenas o celebraciones especiales.",
+  "relacionados": [],
+  "item_id": "VESTIDO_MERCIA_GRIS",
+  "subcategoria": "vestidos",
+  "color": "gris",
+  "estilo": "minimal",
+  "material": "Sin información",
+  "temporada": "OI",
+  "publico_objetivo": "mujer",
+  "patrocinado": false
+}

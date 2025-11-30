@@ -1,0 +1,22 @@
+{
+  "nombre": "BLUSA VOLANTES",
+  "marca": "Zara",
+  "precio": 22.95,
+  "tallas": [
+    "XS",
+    "S",
+    "M",
+    "L"
+  ],
+  "categoria": "superior",
+  "url": "https://www.zara.com/es/es/blusa-volantes-p05029209.html?v1=481548209&v2=2546081",
+  "item_id": "BLUSA_VOLANTES",
+  "subcategoria": "blusas",
+  "color": "azul",
+  "estilo": "Sin información",
+  "relacionados": [],
+  "material": "Sin información",
+  "temporada": "PV",
+  "publico_objetivo": "mujer",
+  "patrocinado": false
+}

@@ -1,0 +1,4078 @@
+[
+  {
+    "id": "TOP_CORTES_CRUDO",
+    "brand": "Nicoli",
+    "title": "TOP CORTES CRUDO",
+    "price": 44.9,
+    "sizes": [
+      "S",
+      "M"
+    ],
+    "imagePaths": [
+      "/assets/productos/Nicoli/TOP_CORTES_CRUDO/fotos/01_252M505819-4-1.jpg",
+      "/assets/productos/Nicoli/TOP_CORTES_CRUDO/fotos/02_252M505819-4-2.jpg",
+      "/assets/productos/Nicoli/TOP_CORTES_CRUDO/fotos/03_252M505819-4-3.jpg",
+      "/assets/productos/Nicoli/TOP_CORTES_CRUDO/fotos/04_252M505819-4-4.jpg"
+    ],
+    "logoPath": "/assets/logos/Nicoli.png",
+    "category": "superior",
+    "subcategory": "tops",
+    "description": "Top en crepe de color crudo. Patrón con varios cortes, en mangas, pecho y hombro. Escote pico. La modelo lleva talla S y mide 1,75 m.\nREF. 252M505819-4",
+    "relatedProductIDs": [
+      "COLLAR_LARGO_BEADS_PLATEADAS",
+      "PANTALON_TACHUELAS_AZUL"
+    ],
+    "color": "crema",
+    "style": "Sin información",
+    "material": "Sin información",
+    "season": "PV",
+    "targetAudience": "mujer",
+    "url": "https://www.nicolishop.com/es/es/top-cortes-crudo/252M505819-4.html#page=7&start=7",
+    "stock": 50,
+    "featured": false,
+    "active": true
+  },
+  {
+    "id": "TOP_CANALE_CRUZADO_MOOR",
+    "brand": "Nicoli",
+    "title": "TOP CANALÉ CRUZADO MOOR",
+    "price": 52.9,
+    "sizes": [
+      "S",
+      "M"
+    ],
+    "imagePaths": [
+      "/assets/productos/Nicoli/TOP_CANALE_CRUZADO_MOOR/fotos/01_252M505804-29-1.jpg",
+      "/assets/productos/Nicoli/TOP_CANALE_CRUZADO_MOOR/fotos/02_252M505804-29-2.jpg",
+      "/assets/productos/Nicoli/TOP_CANALE_CRUZADO_MOOR/fotos/03_252M505804-29-3.jpg",
+      "/assets/productos/Nicoli/TOP_CANALE_CRUZADO_MOOR/fotos/04_252M505804-29-4.jpg"
+    ],
+    "logoPath": "/assets/logos/Nicoli.png",
+    "category": "superior",
+    "subcategory": "tops",
+    "description": "Top de punto, en canalé en color liso de la colección. Patrón con escote amplio, manga larga.La modelo lleva talla S y mide 1,77 m.",
+    "relatedProductIDs": [
+      "BOTIN_COWBOY_MARRON",
+      "PANTALON_DENIM_BOTON_LATERAL_FLOR_AZUL"
+    ],
+    "color": "morado",
+    "style": "Sin información",
+    "material": "Sin información",
+    "season": "PV",
+    "targetAudience": "mujer",
+    "url": "https://www.nicolishop.com/es/es/top-canale-cruzado-moor/252M505804-29.html#page=6&start=12",
+    "stock": 50,
+    "featured": false,
+    "active": true
+  },
+  {
+    "id": "CAMISETA_POINTELLE_BLUEBERRY",
+    "brand": "Nicoli",
+    "title": "CAMISETA POINTELLE BLUEBERRY",
+    "price": 42.9,
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L"
+    ],
+    "imagePaths": [
+      "/assets/productos/Nicoli/CAMISETA_POINTELLE_BLUEBERRY/fotos/01_252M501705-23-1.jpg",
+      "/assets/productos/Nicoli/CAMISETA_POINTELLE_BLUEBERRY/fotos/02_252M501705-23-2.jpg",
+      "/assets/productos/Nicoli/CAMISETA_POINTELLE_BLUEBERRY/fotos/03_252M501705-23-3.jpg",
+      "/assets/productos/Nicoli/CAMISETA_POINTELLE_BLUEBERRY/fotos/04_252M501705-23-4.jpg"
+    ],
+    "logoPath": "/assets/logos/Nicoli.png",
+    "category": "superior",
+    "subcategory": "camisetas",
+    "description": "Camiseta en algodón con diseño de Pointelle. Patrón con cuello redondo y cierre por delante con botones. Detalle de pespunte.La modelo lleva talla S y mide 1,77cm.\nREF. 252M501705-23",
+    "relatedProductIDs": [
+      "BOLSO_TRENZADO_MINI_MARRON",
+      "DENIM_BOTONES_CINTURILLA_GRIS_CLARO",
+      "ZUECO_TACHAS_MARRON"
+    ],
+    "color": "azul",
+    "style": "Sin información",
+    "material": "algodón, ante",
+    "season": "All-season",
+    "targetAudience": "mujer",
+    "url": "https://www.nicolishop.com/es/es/camiseta-pointelle-blueberry/252M501705-23.html#page=7&start=57",
+    "stock": 50,
+    "featured": false,
+    "active": true
+  },
+  {
+    "id": "PANTALON_RAYAS_MORA",
+    "brand": "Nicoli",
+    "title": "PANTALÓN RAYAS MORA",
+    "price": 64.9,
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L"
+    ],
+    "imagePaths": [
+      "/assets/productos/Nicoli/PANTALON_RAYAS_MORA/fotos/01_252M508208-44-1.jpg",
+      "/assets/productos/Nicoli/PANTALON_RAYAS_MORA/fotos/02_252M508208-44-2.jpg",
+      "/assets/productos/Nicoli/PANTALON_RAYAS_MORA/fotos/03_252M508208-44-3.jpg",
+      "/assets/productos/Nicoli/PANTALON_RAYAS_MORA/fotos/04_252M508208-44-4.jpg"
+    ],
+    "logoPath": "/assets/logos/Nicoli.png",
+    "category": "inferior",
+    "subcategory": "pantalones",
+    "description": "Pantalón largo, de sastrería. Diseño de rayas en colorido de la colección. Presenta un blazer para quien desee llevarlo como conjunto. Patrón de pierna y cinturilla ancha, con trabillas. La modelo lleva talla 40 y mide 1,8 m.\nREF. 252M508208-44",
+    "relatedProductIDs": [
+      "BOLSO_ESTUDIANTE_SARGA_MARRON",
+      "CAMISA_VAQUERA_AZUL"
+    ],
+    "color": "azul",
+    "style": "formal",
+    "material": "Sin información",
+    "season": "All-season",
+    "targetAudience": "mujer",
+    "url": "https://www.nicolishop.com/es/es/pantalon-rayas-mora/252M508208-44.html#page=11&start=7",
+    "stock": 50,
+    "featured": false,
+    "active": true
+  },
+  {
+    "id": "ZUECO_TACHAS_MARRON",
+    "brand": "Nicoli",
+    "title": "ZUECO TACHAS MARRÓN",
+    "price": 89.9,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "imagePaths": [
+      "/assets/productos/Nicoli/ZUECO_TACHAS_MARRON/fotos/01_image.jpg",
+      "/assets/productos/Nicoli/ZUECO_TACHAS_MARRON/fotos/02_image.jpg",
+      "/assets/productos/Nicoli/ZUECO_TACHAS_MARRON/fotos/03_image.jpg",
+      "/assets/productos/Nicoli/ZUECO_TACHAS_MARRON/fotos/04_image.jpg"
+    ],
+    "logoPath": "/assets/logos/Nicoli.png",
+    "category": "calzado",
+    "subcategory": "zuecos",
+    "description": "Zueco en serraje, con detalle de tachas. Limpieza con cepillo, de cerdas suaves o metálicas.\nREF. 252Z501404-6",
+    "relatedProductIDs": [],
+    "color": "marrón",
+    "style": "Sin información",
+    "material": "Sin información",
+    "season": "PV",
+    "targetAudience": "mujer",
+    "url": "https://www.nicolishop.com/es/es/zueco-tachas-marron-/252Z501404-6.html",
+    "stock": 50,
+    "featured": false,
+    "active": true
+  },
+  {
+    "id": "PANUELO_BEADS_NEGRO",
+    "brand": "Nicoli",
+    "title": "PAÑUELO BEADS NEGRO",
+    "price": 29.9,
+    "sizes": [
+      "M"
+    ],
+    "imagePaths": [
+      "/assets/productos/Nicoli/PANUELO_BEADS_NEGRO/fotos/01_image.jpg",
+      "/assets/productos/Nicoli/PANUELO_BEADS_NEGRO/fotos/02_image.jpg",
+      "/assets/productos/Nicoli/PANUELO_BEADS_NEGRO/fotos/03_image.jpg"
+    ],
+    "logoPath": "/assets/logos/Nicoli.png",
+    "category": "accesorio",
+    "subcategory": "pañuelos",
+    "description": "Pañuelo de tela, con beads, de 2 metros de largo. No meter en la lavadora.\nREF. 252C509701-10",
+    "relatedProductIDs": [],
+    "color": "negro",
+    "style": "Sin información",
+    "material": "Sin información",
+    "season": "Sin información",
+    "targetAudience": "mujer",
+    "url": "https://www.nicolishop.com/es/es/panuelo-beads-negro/252C509701-10.html",
+    "stock": 50,
+    "featured": false,
+    "active": true
+  },
+  {
+    "id": "CAMISA_VAQUERA_AZUL",
+    "brand": "Nicoli",
+    "title": "CAMISA VAQUERA AZUL",
+    "price": 54.9,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "imagePaths": [
+      "/assets/productos/Nicoli/CAMISA_VAQUERA_AZUL/fotos/01_image.jpg",
+      "/assets/productos/Nicoli/CAMISA_VAQUERA_AZUL/fotos/02_image.jpg",
+      "/assets/productos/Nicoli/CAMISA_VAQUERA_AZUL/fotos/03_image.jpg",
+      "/assets/productos/Nicoli/CAMISA_VAQUERA_AZUL/fotos/04_image.jpg"
+    ],
+    "logoPath": "/assets/logos/Nicoli.png",
+    "category": "superior",
+    "subcategory": "camisas",
+    "description": "Camisa en tejido vaquero, en lavado azul. Patrón clásico de Nícoli, cuello perkins y manga larga rematada en puño. Cierre con snaps. La modelo lleva talla M y mide 1,73 m.\nREF. 252M501611-24",
+    "relatedProductIDs": [
+      "PANTALON_PESPUNTE_CURVA_OLIVE",
+      "ZUECO_TACHAS_MARRON"
+    ],
+    "color": "azul",
+    "style": "Sin información",
+    "material": "Sin información",
+    "season": "All-season",
+    "targetAudience": "mujer",
+    "url": "https://www.nicolishop.com/es/es/camisa-vaquera-azul/252M501611-24.html",
+    "stock": 50,
+    "featured": false,
+    "active": true
+  },
+  {
+    "id": "BOLSO_ESTUDIANTE_SARGA_MARRON",
+    "brand": "Nicoli",
+    "title": "BOLSO ESTUDIANTE SARGA MARRÓN",
+    "price": 99.9,
+    "sizes": [
+      "M"
+    ],
+    "imagePaths": [
+      "/assets/productos/Nicoli/BOLSO_ESTUDIANTE_SARGA_MARRON/fotos/01_image.jpg",
+      "/assets/productos/Nicoli/BOLSO_ESTUDIANTE_SARGA_MARRON/fotos/02_image.jpg",
+      "/assets/productos/Nicoli/BOLSO_ESTUDIANTE_SARGA_MARRON/fotos/03_image.jpg",
+      "/assets/productos/Nicoli/BOLSO_ESTUDIANTE_SARGA_MARRON/fotos/04_image.jpg",
+      "/assets/productos/Nicoli/BOLSO_ESTUDIANTE_SARGA_MARRON/fotos/05_image.jpg"
+    ],
+    "logoPath": "/assets/logos/Nicoli.png",
+    "category": "accesorio",
+    "subcategory": "bolsos",
+    "description": "Bolso en sarga de algodón, combinado con vivos de piel. Bolsita interior. Cierre con snap. Medidas aprox. (cm): alto 32 x ancho 42 x profundidad 10. Hueco asa 24cm.\nREF. 252C501002-6",
+    "relatedProductIDs": [],
+    "color": "marrón",
+    "style": "Sin información",
+    "material": "algodón, cuero",
+    "season": "All-season",
+    "targetAudience": "mujer",
+    "url": "https://www.nicolishop.com/es/es/bolso-estudiante-sarga-marron/252C501002-6.html",
+    "stock": 50,
+    "featured": false,
+    "active": true
+  },
+  {
+    "id": "PANUELO_BLOOM_CAPTAIN",
+    "brand": "Nicoli",
+    "title": "PAÑUELO BLOOM CAPTAIN",
+    "price": 12.9,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "imagePaths": [
+      "/assets/productos/Nicoli/PANUELO_BLOOM_CAPTAIN/fotos/01_image.jpg",
+      "/assets/productos/Nicoli/PANUELO_BLOOM_CAPTAIN/fotos/02_image.jpg"
+    ],
+    "logoPath": "/assets/logos/Nicoli.png",
+    "category": "accesorio",
+    "subcategory": "panuelos",
+    "description": "Pañuelo en print de la colección. Medidas 50x50cm. Tanto para cuello como cabeza.\nREF. 252C109709-17",
+    "relatedProductIDs": [],
+    "color": "azul",
+    "style": "Sin información",
+    "material": "Sin información",
+    "season": "All-season",
+    "targetAudience": "mujer",
+    "url": "https://www.nicolishop.com/es/es/panuelo-bloom-captain/252C109709-17.html",
+    "stock": 50,
+    "featured": false,
+    "active": true
+  },
+  {
+    "id": "PANTALON_TRABILLA_RAYA_GRIS",
+    "brand": "Nicoli",
+    "title": "PANTALÓN TRABILLA RAYA GRIS",
+    "price": 67.9,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "imagePaths": [
+      "/assets/productos/Nicoli/PANTALON_TRABILLA_RAYA_GRIS/fotos/01_image.jpg",
+      "/assets/productos/Nicoli/PANTALON_TRABILLA_RAYA_GRIS/fotos/02_image.jpg",
+      "/assets/productos/Nicoli/PANTALON_TRABILLA_RAYA_GRIS/fotos/03_image.jpg",
+      "/assets/productos/Nicoli/PANTALON_TRABILLA_RAYA_GRIS/fotos/04_image.jpg"
+    ],
+    "logoPath": "/assets/logos/Nicoli.png",
+    "category": "inferior",
+    "subcategory": "pantalones",
+    "description": "Pantalón largo, de sastrería, en tejido con diseño de rayas. Disponible en dos colores. Patrón de pierna ancha, con detalle de trabillas.La modelo lleva talla 36 y mide 1,77cm.\nREF. 252M508202-22",
+    "relatedProductIDs": [
+      "BOTIN_COWBOY_MARRON",
+      "PANUELO_BLOOM_CAPTAIN",
+      "TOP_CANALE_BOTONES_ANTRACITA"
+    ],
+    "color": "gris",
+    "style": "formal",
+    "material": "Sin información",
+    "season": "All-season",
+    "targetAudience": "mujer",
+    "url": "https://www.nicolishop.com/es/es/pantalon-trabilla-raya-gris/252M508202-22.html",
+    "stock": 50,
+    "featured": false,
+    "active": true
+  },
+  {
+    "id": "CAMISA_IKAT_CAPTAIN",
+    "brand": "Nicoli",
+    "title": "CAMISA IKAT CAPTAIN",
+    "price": 49.9,
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "imagePaths": [
+      "/assets/productos/Nicoli/CAMISA_IKAT_CAPTAIN/fotos/01_image.jpg",
+      "/assets/productos/Nicoli/CAMISA_IKAT_CAPTAIN/fotos/02_image.jpg",
+      "/assets/productos/Nicoli/CAMISA_IKAT_CAPTAIN/fotos/03_image.jpg",
+      "/assets/productos/Nicoli/CAMISA_IKAT_CAPTAIN/fotos/04_image.jpg"
+    ],
+    "logoPath": "/assets/logos/Nicoli.png",
+    "category": "superior",
+    "subcategory": "camisas",
+    "description": "Camisa en print de la colección. Patrón con manga larga, abullonada. Disponible en dos colores.La modelo lleva talla S y mide 1,73 m.\nREF. 252M501630-17",
+    "relatedProductIDs": [
+      "BOTIN_COWBOY_MARRON",
+      "CINTURON_FINO_COWBOY_GUINDA",
+      "COLLAR_LARGO_BEADS_PLATEADAS",
+      "PANTALON_DENIM_BOTON_LATERAL_FLOR_AZUL"
+    ],
+    "color": "azul",
+    "style": "Sin información",
+    "material": "Sin información",
+    "season": "All-season",
+    "targetAudience": "mujer",
+    "url": "https://www.nicolishop.com/es/es/camisa-ikat-captain/252M501630-17.html",
+    "stock": 50,
+    "featured": false,
+    "active": true
+  },
+  {
+    "id": "CINTURON_FINO_COWBOY_GUINDA",
+    "brand": "Nicoli",
+    "title": "CINTURÓN FINO COWBOY GUINDA",
+    "price": 59.9,
+    "sizes": [
+      "M"
+    ],
+    "imagePaths": [
+      "/assets/productos/Nicoli/CINTURON_FINO_COWBOY_GUINDA/fotos/01_image.jpg",
+      "/assets/productos/Nicoli/CINTURON_FINO_COWBOY_GUINDA/fotos/02_image.jpg"
+    ],
+    "logoPath": "/assets/logos/Nicoli.png",
+    "category": "accesorio",
+    "subcategory": "cinturones",
+    "description": "Cinturón fino de piel de vacuno, con hebilla y tachas de inspiración \"cowboy\". Hecho en España. Disponible en tres colores.\nREF. 252C502403-37",
+    "relatedProductIDs": [],
+    "color": "marrón",
+    "style": "Sin información",
+    "material": "cuero",
+    "season": "All-season",
+    "targetAudience": "mujer",
+    "url": "https://www.nicolishop.com/es/es/cinturon-fino-cowboy-guinda/252C502403-37.html",
+    "stock": 50,
+    "featured": false,
+    "active": true
+  },
+  {
+    "id": "PANTALON_DENIM_BOTONES_CINTURILLA_GRIS_CLARO",
+    "brand": "Nicoli",
+    "title": "PANTALÓN DENIM BOTONES CINTURILLA GRIS CLARO",
+    "price": 62.9,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "imagePaths": [
+      "/assets/productos/Nicoli/PANTALON_DENIM_BOTONES_CINTURILLA_GRIS_CLARO/fotos/01_image.jpg",
+      "/assets/productos/Nicoli/PANTALON_DENIM_BOTONES_CINTURILLA_GRIS_CLARO/fotos/02_image.jpg",
+      "/assets/productos/Nicoli/PANTALON_DENIM_BOTONES_CINTURILLA_GRIS_CLARO/fotos/03_image.jpg",
+      "/assets/productos/Nicoli/PANTALON_DENIM_BOTONES_CINTURILLA_GRIS_CLARO/fotos/04_image.jpg"
+    ],
+    "logoPath": "/assets/logos/Nicoli.png",
+    "category": "inferior",
+    "subcategory": "pantalones",
+    "description": "Pantalón denim, en lavado gris claro, con detalle de botones en cinturilla y trabillas. Disponible en dos colores.La modelo lleva talla 38 y mide 180 cm.\nREF. 252M510104-5",
+    "relatedProductIDs": [
+      "ZUECO_TACHAS_MARRON"
+    ],
+    "color": "gris",
+    "style": "Sin información",
+    "material": "Sin información",
+    "season": "All-season",
+    "targetAudience": "mujer",
+    "url": "https://www.nicolishop.com/es/es/denim-botones-cinturilla-gris-claro/252M510104-5.html",
+    "stock": 50,
+    "featured": false,
+    "active": true
+  },
+  {
+    "id": "PANTALON_TACHUELAS_AZUL",
+    "brand": "Nicoli",
+    "title": "PANTALÓN TACHUELAS AZUL",
+    "price": 64.9,
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "imagePaths": [
+      "/assets/productos/Nicoli/PANTALON_TACHUELAS_AZUL/fotos/01_image.jpg",
+      "/assets/productos/Nicoli/PANTALON_TACHUELAS_AZUL/fotos/02_image.jpg",
+      "/assets/productos/Nicoli/PANTALON_TACHUELAS_AZUL/fotos/03_image.jpg",
+      "/assets/productos/Nicoli/PANTALON_TACHUELAS_AZUL/fotos/04_image.jpg"
+    ],
+    "logoPath": "/assets/logos/Nicoli.png",
+    "category": "inferior",
+    "subcategory": "pantalones",
+    "description": "Pantalón de tiro bajo con bolsillos. Detalle de tachuelas en los bolsillos delanteros. Cierre con cremallera y botón.\nREF. 242M510101-24",
+    "relatedProductIDs": [
+      "CAMISA_RAYA_LUREX_BORDADA",
+      "PANUELO_BEADS_NEGRO",
+      "ZUECO_TACHAS_MARRON"
+    ],
+    "color": "azul",
+    "style": "Sin información",
+    "material": "Sin información",
+    "season": "All-season",
+    "targetAudience": "mujer",
+    "url": "https://www.nicolishop.com/es/es/pantalon-tachuelas-azul/242M510101-24.html",
+    "stock": 50,
+    "featured": false,
+    "active": true
+  },
+  {
+    "id": "CAMISA_RAYA_LUREX_BORDADA",
+    "brand": "Nicoli",
+    "title": "CAMISA RAYA LUREX BORDADA",
+    "price": 57.9,
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "imagePaths": [
+      "/assets/productos/Nicoli/CAMISA_RAYA_LUREX_BORDADA/fotos/01_image.jpg",
+      "/assets/productos/Nicoli/CAMISA_RAYA_LUREX_BORDADA/fotos/02_image.jpg",
+      "/assets/productos/Nicoli/CAMISA_RAYA_LUREX_BORDADA/fotos/03_image.jpg",
+      "/assets/productos/Nicoli/CAMISA_RAYA_LUREX_BORDADA/fotos/04_image.jpg"
+    ],
+    "logoPath": "/assets/logos/Nicoli.png",
+    "category": "superior",
+    "subcategory": "camisas",
+    "description": "Camisa en algodón con detalle de lurex, y bordados en la parte frontal. Patrón con manga larga. La modelo lleva talla M y mide 1,8 m.\nREF. 252M501627-16",
+    "relatedProductIDs": [
+      "PANTALON_TACHUELAS_AZUL",
+      "ZUECO_TACHAS_MARRON"
+    ],
+    "color": "azul",
+    "style": "Sin información",
+    "material": "algodón",
+    "season": "All-season",
+    "targetAudience": "mujer",
+    "url": "https://www.nicolishop.com/es/es/camisa-raya-lurex-bordada/252M501627-16.html",
+    "stock": 50,
+    "featured": false,
+    "active": true
+  },
+  {
+    "id": "CAMISA_GRIS_RAYA_BRILLO",
+    "brand": "Nicoli",
+    "title": "CAMISA GRIS RAYA BRILLO",
+    "price": 49.9,
+    "sizes": [
+      "S",
+      "M"
+    ],
+    "imagePaths": [
+      "/assets/productos/Nicoli/CAMISA_GRIS_RAYA_BRILLO/fotos/01_252M501624-22-1.jpg",
+      "/assets/productos/Nicoli/CAMISA_GRIS_RAYA_BRILLO/fotos/02_252M501624-22-2.jpg",
+      "/assets/productos/Nicoli/CAMISA_GRIS_RAYA_BRILLO/fotos/03_252M501624-22-3.jpg",
+      "/assets/productos/Nicoli/CAMISA_GRIS_RAYA_BRILLO/fotos/04_252M501624-22-4.jpg"
+    ],
+    "logoPath": "/assets/logos/Nicoli.png",
+    "category": "superior",
+    "subcategory": "camisas",
+    "description": "Camisa en tejido con rayas brillo. Disponemos de un pantaón en el mismo tejido, para quien desee llevarlo como conjunto. Patrón con escote asimétrico, manga 3/4. La modelo lleva talla S y mide 1,78 cm.\nREF. 252M501624-22",
+    "relatedProductIDs": [
+      "BAILARINA_TACHAS_MARRON",
+      "PANTALON_GRIS_RAYA_BRILLO"
+    ],
+    "color": "gris",
+    "style": "Sin información",
+    "material": "Sin información",
+    "season": "PV",
+    "targetAudience": "mujer",
+    "url": "https://www.nicolishop.com/es/es/camisa-gris-raya-brillo/252M501624-22.html#page=8&start=10",
+    "stock": 50,
+    "featured": false,
+    "active": true
+  },
+  {
+    "id": "PANTALON_DENIM_BOTON_LATERAL_FLOR_AZUL",
+    "brand": "Nicoli",
+    "title": "PANTALÓN DENIM BOTÓN LATERAL FLOR AZUL",
+    "price": 79.9,
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "imagePaths": [
+      "/assets/productos/Nicoli/PANTALON_DENIM_BOTON_LATERAL_FLOR_AZUL/fotos/01_image.jpg",
+      "/assets/productos/Nicoli/PANTALON_DENIM_BOTON_LATERAL_FLOR_AZUL/fotos/02_image.jpg",
+      "/assets/productos/Nicoli/PANTALON_DENIM_BOTON_LATERAL_FLOR_AZUL/fotos/03_image.jpg",
+      "/assets/productos/Nicoli/PANTALON_DENIM_BOTON_LATERAL_FLOR_AZUL/fotos/04_image.jpg"
+    ],
+    "logoPath": "/assets/logos/Nicoli.png",
+    "category": "inferior",
+    "subcategory": "pantalones",
+    "description": "Pantalón denim, en lavado azul, con detalle de botones en forma de flor en los laterales. Patrón de pierna wide leg. Disponible en dos colores.La modelo lleva talla 36 y mide 1,73cm.\nREF. 252M510124-24",
+    "relatedProductIDs": [
+      "BOTIN_COWBOY_MARRON",
+      "CAMISA_IKAT_CAPTAIN",
+      "CINTURON_FINO_COWBOY_GUINDA",
+      "COLLAR_LARGO_BEADS_PLATEADAS"
+    ],
+    "color": "azul",
+    "style": "Sin información",
+    "material": "Sin información",
+    "season": "All-season",
+    "targetAudience": "mujer",
+    "url": "https://www.nicolishop.com/es/es/denim-boton-lateral-flor-azul/252M510124-24.html",
+    "stock": 50,
+    "featured": false,
+    "active": true
+  },
+  {
+    "id": "PANTALON_PESPUNTE_CURVA_OLIVE",
+    "brand": "Nicoli",
+    "title": "PANTALÓN PESPUNTE CURVA OLIVE",
+    "price": 59.9,
+    "sizes": [
+      "M"
+    ],
+    "imagePaths": [
+      "/assets/productos/Nicoli/PANTALON_PESPUNTE_CURVA_OLIVE/fotos/01_image.jpg",
+      "/assets/productos/Nicoli/PANTALON_PESPUNTE_CURVA_OLIVE/fotos/02_image.jpg",
+      "/assets/productos/Nicoli/PANTALON_PESPUNTE_CURVA_OLIVE/fotos/03_image.jpg",
+      "/assets/productos/Nicoli/PANTALON_PESPUNTE_CURVA_OLIVE/fotos/04_image.jpg"
+    ],
+    "logoPath": "/assets/logos/Nicoli.png",
+    "category": "inferior",
+    "subcategory": "pantalones",
+    "description": "Pantalón en sarga de algodón, en color de la colección. Patrón con pierna tipo \"barril\". La modelo lleva talla 36 y mide 1,73 m.\nREF. 252M508213-13",
+    "relatedProductIDs": [
+      "CAMISA_VAQUERA_AZUL",
+      "ZUECO_TACHAS_MARRON"
+    ],
+    "color": "oliva",
+    "style": "Sin información",
+    "material": "algodón",
+    "season": "All-season",
+    "targetAudience": "mujer",
+    "url": "https://www.nicolishop.com/es/es/pantalon-pespunte-curva-olive/252M508213-13.html",
+    "stock": 50,
+    "featured": false,
+    "active": true
+  },
+  {
+    "id": "TOP_CANALE_BOTONES_ANTRACITA",
+    "brand": "Nicoli",
+    "title": "TOP CANALÉ BOTONES ANTRACITA",
+    "price": 42.9,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "imagePaths": [
+      "/assets/productos/Nicoli/TOP_CANALE_BOTONES_ANTRACITA/fotos/01_image.jpg",
+      "/assets/productos/Nicoli/TOP_CANALE_BOTONES_ANTRACITA/fotos/02_image.jpg",
+      "/assets/productos/Nicoli/TOP_CANALE_BOTONES_ANTRACITA/fotos/03_image.jpg",
+      "/assets/productos/Nicoli/TOP_CANALE_BOTONES_ANTRACITA/fotos/04_image.jpg"
+    ],
+    "logoPath": "/assets/logos/Nicoli.png",
+    "category": "superior",
+    "subcategory": "tops",
+    "description": "Top en punto de verano en color neutro de la colección. Patrón con escote cuadrado y tirante ancho. Cierre con botones de nácar por delante. La modelo lleva talla S y mide 1,8 cm.\nREF. 252M505805-10",
+    "relatedProductIDs": [
+      "BOTIN_COWBOY_MARRON",
+      "PANTALON_TRABILLA_RAYA_GRIS",
+      "PANUELO_BLOOM_CAPTAIN"
+    ],
+    "color": "azul",
+    "style": "Sin información",
+    "material": "Sin información",
+    "season": "PV",
+    "targetAudience": "mujer",
+    "url": "https://www.nicolishop.com/es/es/top-canale-botones-antracita/252M505805-10.html",
+    "stock": 50,
+    "featured": false,
+    "active": true
+  },
+  {
+    "id": "PANTALON_GRIS_RAYA_BRILLO",
+    "brand": "Nicoli",
+    "title": "PANTALÓN GRIS RAYA BRILLO",
+    "price": 64.9,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "imagePaths": [
+      "/assets/productos/Nicoli/PANTALON_GRIS_RAYA_BRILLO/fotos/01_image.jpg",
+      "/assets/productos/Nicoli/PANTALON_GRIS_RAYA_BRILLO/fotos/02_image.jpg",
+      "/assets/productos/Nicoli/PANTALON_GRIS_RAYA_BRILLO/fotos/03_image.jpg",
+      "/assets/productos/Nicoli/PANTALON_GRIS_RAYA_BRILLO/fotos/04_image.jpg"
+    ],
+    "logoPath": "/assets/logos/Nicoli.png",
+    "category": "inferior",
+    "subcategory": "pantalones",
+    "description": "Pantalón largo, de sastrería, con rayas brillo. Patrón ancho. En el mismo tejido hay disponible un top para quien desee llevarlo como conjunto. La modelo lleva talla 38 y mide 1,78 cm.\nREF. 252M508201-22",
+    "relatedProductIDs": [
+      "BAILARINA_TACHAS_MARRON",
+      "CAMISA_GRIS_RAYA_BRILLO"
+    ],
+    "color": "gris",
+    "style": "formal",
+    "material": "Sin información",
+    "season": "All-season",
+    "targetAudience": "mujer",
+    "url": "https://www.nicolishop.com/es/es/pantalon-gris-raya-brillo/252M508201-22.html",
+    "stock": 50,
+    "featured": false,
+    "active": true
+  },
+  {
+    "id": "BOLSO_TRENZADO_MINI_MARRON",
+    "brand": "Nicoli",
+    "title": "BOLSO TRENZADO MINI MARRÓN",
+    "price": 179.9,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "imagePaths": [
+      "/assets/productos/Nicoli/BOLSO_TRENZADO_MINI_MARRON/fotos/01_image_solo.jpg",
+      "/assets/productos/Nicoli/BOLSO_TRENZADO_MINI_MARRON/fotos/02_image.jpg",
+      "/assets/productos/Nicoli/BOLSO_TRENZADO_MINI_MARRON/fotos/03_image.jpg",
+      "/assets/productos/Nicoli/BOLSO_TRENZADO_MINI_MARRON/fotos/04_image.jpg"
+    ],
+    "logoPath": "/assets/logos/Nicoli.png",
+    "category": "accesorio",
+    "subcategory": "bolsos",
+    "description": "Versión mediana de nuestro bolso trenzado. Medidas aproximadas: 30 largo x32 alto x 8 fondo.\nREF. 251C501002-6",
+    "relatedProductIDs": [],
+    "color": "marrón",
+    "style": "Sin información",
+    "material": "Sin información",
+    "season": "All-season",
+    "targetAudience": "mujer",
+    "url": "https://www.nicolishop.com/es/es/bolso-trenzado-mini-marron/251C501002-6.html",
+    "stock": 50,
+    "featured": false,
+    "active": true
+  },
+  {
+    "id": "JERSEY_MANGA_CORTA_TEJA",
+    "brand": "Nicoli",
+    "title": "JERSEY MANGA CORTA TEJA",
+    "price": 52.9,
+    "sizes": [
+      "S",
+      "M"
+    ],
+    "imagePaths": [
+      "/assets/productos/Nicoli/JERSEY_MANGA_CORTA_TEJA/fotos/01_252M503610-54-1.jpg",
+      "/assets/productos/Nicoli/JERSEY_MANGA_CORTA_TEJA/fotos/02_252M503610-54-2.jpg",
+      "/assets/productos/Nicoli/JERSEY_MANGA_CORTA_TEJA/fotos/03_252M503610-54-3.jpg",
+      "/assets/productos/Nicoli/JERSEY_MANGA_CORTA_TEJA/fotos/04_252M503610-54-4.jpg"
+    ],
+    "logoPath": "/assets/logos/Nicoli.png",
+    "category": "superior",
+    "subcategory": "jerséis",
+    "description": "Jersey 100% lana. Patrón con cuello redondo manga corta. Ofrecemos una chaqueta con pañuelo en el mismo color/calidad, para llevar junto. DIsponible en dos colores.La modelo lleva talla S y mide 1,77cm.\nREF. 252M503610-54",
+    "relatedProductIDs": [
+      "PANTALON_TRABILLA_RAYA_GRIS"
+    ],
+    "color": "rojo",
+    "style": "Sin información",
+    "material": "lana",
+    "season": "PV",
+    "targetAudience": "mujer",
+    "url": "https://www.nicolishop.com/es/es/jersey-manga-corta-teja/252M503610-54.html#page=2&start=3",
+    "stock": 50,
+    "featured": false,
+    "active": true
+  },
+  {
+    "id": "BAILARINA_TACHAS_MARRON",
+    "brand": "Nicoli",
+    "title": "BAILARINA TACHAS MARRÓN",
+    "price": 89.9,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "imagePaths": [
+      "/assets/productos/Nicoli/BAILARINA_TACHAS_MARRON/fotos/01_image_solo.jpg",
+      "/assets/productos/Nicoli/BAILARINA_TACHAS_MARRON/fotos/02_image.jpg",
+      "/assets/productos/Nicoli/BAILARINA_TACHAS_MARRON/fotos/03_image.jpg",
+      "/assets/productos/Nicoli/BAILARINA_TACHAS_MARRON/fotos/04_image.jpg"
+    ],
+    "logoPath": "/assets/logos/Nicoli.png",
+    "category": "calzado",
+    "subcategory": "bailarinas",
+    "description": "Zapato en piel de vacuno. Patrón clásico, con dos tiras cruzadas, que tienen hebillas y combinan acabado dorado y plateado.\nREF. 252Z501405-6",
+    "relatedProductIDs": [],
+    "color": "marrón",
+    "style": "Sin información",
+    "material": "cuero",
+    "season": "All-season",
+    "targetAudience": "mujer",
+    "url": "https://www.nicolishop.com/es/es/bailarina-tachas-marron/252Z501405-6.html",
+    "stock": 50,
+    "featured": false,
+    "active": true
+  },
+  {
+    "id": "COLLAR_LARGO_BEADS_PLATEADAS",
+    "brand": "Nicoli",
+    "title": "COLLAR LARGO BEADS PLATEADAS",
+    "price": 22.9,
+    "sizes": [
+      "M"
+    ],
+    "imagePaths": [
+      "/assets/productos/Nicoli/COLLAR_LARGO_BEADS_PLATEADAS/fotos/01_image.jpg",
+      "/assets/productos/Nicoli/COLLAR_LARGO_BEADS_PLATEADAS/fotos/02_image.jpg",
+      "/assets/productos/Nicoli/COLLAR_LARGO_BEADS_PLATEADAS/fotos/03_image.jpg"
+    ],
+    "logoPath": "/assets/logos/Nicoli.png",
+    "category": "accesorio",
+    "subcategory": "collares",
+    "description": "Collar hecho con abalorios de hierro de 3mm, formado por dos cadenas que cuelgan hasta el ombligo.\nREF. 252C502502-28",
+    "relatedProductIDs": [],
+    "color": "plateado",
+    "style": "Sin información",
+    "material": "Sin información",
+    "season": "All-season",
+    "targetAudience": "mujer",
+    "url": "https://www.nicolishop.com/es/es/collar-largo-beads-plateadas/252C502502-28.html",
+    "stock": 50,
+    "featured": false,
+    "active": true
+  },
+  {
+    "id": "BOTIN_COWBOY_MARRON",
+    "brand": "Nicoli",
+    "title": "BOTÍN COWBOY MARRÓN",
+    "price": 169.9,
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "imagePaths": [
+      "/assets/productos/Nicoli/BOTIN_COWBOY_MARRON/fotos/01_image.jpg",
+      "/assets/productos/Nicoli/BOTIN_COWBOY_MARRON/fotos/02_image.jpg",
+      "/assets/productos/Nicoli/BOTIN_COWBOY_MARRON/fotos/03_image.jpg"
+    ],
+    "logoPath": "/assets/logos/Nicoli.png",
+    "category": "calzado",
+    "subcategory": "botas",
+    "description": "Botín de chica, en piel. Hecho en España.\n\nREF. 242Z501404-6",
+    "relatedProductIDs": [],
+    "color": "marrón",
+    "style": "Sin información",
+    "material": "cuero",
+    "season": "All-season",
+    "targetAudience": "mujer",
+    "url": "https://www.nicolishop.com/es/es/botin-cowboy-marron/242Z501404-6.html",
+    "stock": 50,
+    "featured": false,
+    "active": true
+  },
+  {
+    "id": "DENIM_BUTTONS_ROMPER",
+    "brand": "Ramsos",
+    "title": "Denim Buttons Romper",
+    "price": 142.0,
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L"
+    ],
+    "imagePaths": [
+      "/assets/productos/Ramsos/DENIM_BUTTONS_ROMPER/fotos/01_image.jpg",
+      "/assets/productos/Ramsos/DENIM_BUTTONS_ROMPER/fotos/02_image.jpg",
+      "/assets/productos/Ramsos/DENIM_BUTTONS_ROMPER/fotos/03_image.jpg",
+      "/assets/productos/Ramsos/DENIM_BUTTONS_ROMPER/fotos/04_image.jpg",
+      "/assets/productos/Ramsos/DENIM_BUTTONS_ROMPER/fotos/05_image.jpg",
+      "/assets/productos/Ramsos/DENIM_BUTTONS_ROMPER/fotos/06_image.jpg",
+      "/assets/productos/Ramsos/DENIM_BUTTONS_ROMPER/fotos/07_image.jpg",
+      "/assets/productos/Ramsos/DENIM_BUTTONS_ROMPER/fotos/08_image.jpg"
+    ],
+    "logoPath": "/assets/logos/Ramsos.png",
+    "category": "vestido",
+    "subcategory": "monos",
+    "description": "Denim short sleeve romper with buttons .\n\nOur model is 1.72 m and wears an XS.\n\nComposition: 100% Cotton. \n\nMade in Portugal. Limited Units.",
+    "relatedProductIDs": [],
+    "color": "azul",
+    "style": "Sin información",
+    "material": "algodón",
+    "season": "All-season",
+    "targetAudience": "mujer",
+    "url": "https://www.ramsos.com/collections/new-women/products/denim-buttons-romper",
+    "stock": 50,
+    "featured": false,
+    "active": true
+  },
+  {
+    "id": "SCCRINDI_SHIRT",
+    "brand": "Scalpers",
+    "title": "SCCRINDI SHIRT",
+    "price": 69.99,
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "imagePaths": [
+      "/assets/productos/Scalpers/SCCRINDI_SHIRT/fotos/01_62385-NAVY-P-2.jpg",
+      "/assets/productos/Scalpers/SCCRINDI_SHIRT/fotos/02_62385-NAVY-P-1.jpg",
+      "/assets/productos/Scalpers/SCCRINDI_SHIRT/fotos/03_62385-NAVY-P-3.jpg",
+      "/assets/productos/Scalpers/SCCRINDI_SHIRT/fotos/04_62385-NAVY-S-1_solo.jpg"
+    ],
+    "logoPath": "/assets/logos/Scalpers.png",
+    "category": "superior",
+    "subcategory": "camisas",
+    "description": null,
+    "relatedProductIDs": [],
+    "color": "azul",
+    "style": "Sin información",
+    "material": "Sin información",
+    "season": "All-season",
+    "targetAudience": "mujer",
+    "url": "https://scalperscompany.com/products/62385-sccrindi-shirt-aw2526-navy",
+    "stock": 50,
+    "featured": false,
+    "active": true
+  },
+  {
+    "id": "LAAGAM_CAMISETA_HERA",
+    "brand": "Scalpers",
+    "title": "LAAGAM | CAMISETA HERA",
+    "price": 49.95,
+    "sizes": [
+      "XS",
+      "S",
+      "M"
+    ],
+    "imagePaths": [
+      "/assets/productos/Scalpers/LAAGAM_CAMISETA_HERA/fotos/01_64855-NAVY-P-2.jpg",
+      "/assets/productos/Scalpers/LAAGAM_CAMISETA_HERA/fotos/02_64855-NAVY-P-1.jpg",
+      "/assets/productos/Scalpers/LAAGAM_CAMISETA_HERA/fotos/03_64855-NAVY-S-1_solo.jpg"
+    ],
+    "logoPath": "/assets/logos/Scalpers.png",
+    "category": "superior",
+    "subcategory": "camisetas",
+    "description": null,
+    "relatedProductIDs": [],
+    "color": "negro",
+    "style": "Sin información",
+    "material": "Sin información",
+    "season": "PV",
+    "targetAudience": "mujer",
+    "url": "https://scalperscompany.com/products/64855-camiseta-hera-aw2526-ib-navy",
+    "stock": 50,
+    "featured": false,
+    "active": true
+  },
+  {
+    "id": "CAMISA_OXFORD_CUELLO_BOTONES",
+    "brand": "Scalpers",
+    "title": "CAMISA OXFORD CUELLO BOTONES",
+    "price": 69.99,
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "imagePaths": [
+      "/assets/productos/Scalpers/CAMISA_OXFORD_CUELLO_BOTONES/fotos/01_40081-WHITE-P-1.jpg",
+      "/assets/productos/Scalpers/CAMISA_OXFORD_CUELLO_BOTONES/fotos/02_40081-WHITE-P-3.jpg",
+      "/assets/productos/Scalpers/CAMISA_OXFORD_CUELLO_BOTONES/fotos/03_40081-WHITE-P-5.jpg",
+      "/assets/productos/Scalpers/CAMISA_OXFORD_CUELLO_BOTONES/fotos/04_40081-WHITE-S-1_solo.jpg"
+    ],
+    "logoPath": "/assets/logos/Scalpers.png",
+    "category": "superior",
+    "subcategory": "camisas",
+    "description": null,
+    "relatedProductIDs": [],
+    "color": "blanco",
+    "style": "Sin información",
+    "material": "Sin información",
+    "season": "All-season",
+    "targetAudience": "mujer",
+    "url": "https://scalperscompany.com/products/40081-new-boppy-shirt-nos-white",
+    "stock": 50,
+    "featured": false,
+    "active": true
+  },
+  {
+    "id": "PERFECT_CROPPED_KNIT_SWEATER_ASH",
+    "brand": "Nude Project",
+    "title": "Perfect Cropped Knit Sweater Ash",
+    "price": 109.0,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "imagePaths": [
+      "/assets/productos/Nude Project/PERFECT_CROPPED_KNIT_SWEATER_ASH/fotos/01_IMG_0431-_1_800x.jpg",
+      "/assets/productos/Nude Project/PERFECT_CROPPED_KNIT_SWEATER_ASH/fotos/02_IMG_0396_800x.jpg",
+      "/assets/productos/Nude Project/PERFECT_CROPPED_KNIT_SWEATER_ASH/fotos/03_PERFECT_CROP_KNIT_BLACK_front_4bf47e4d-4d1b-4e2b-bb01-21405039db98_800x.jpg",
+      "/assets/productos/Nude Project/PERFECT_CROPPED_KNIT_SWEATER_ASH/fotos/04_PERFECT_CROP_KNIT_BLACK_back_1af2f1ad-fd9f-4882-b2d6-be364c658c38_800x_solo.jpg"
+    ],
+    "logoPath": "/assets/logos/Nude Project.png",
+    "category": "superior",
+    "subcategory": "sudaderas",
+    "description": "COMPOSICIÓN:\n100% cotton\n\nCORTE:\nBoxy Fit\n\nGRÁFICO:\nUnique Garment dye wash.\n\nDETALLES TÉCNICOS:\nDistressed effect and wide ribbed hem and cuffs.",
+    "relatedProductIDs": [],
+    "color": "gris",
+    "style": "street",
+    "material": "algodón",
+    "season": "All-season",
+    "targetAudience": "mujer",
+    "url": "https://nude-project.com/es/collections/jerseis-mujer/products/perfect-crop-knit-ash",
+    "stock": 50,
+    "featured": false,
+    "active": true
+  },
+  {
+    "id": "JERSEY_WAVY_MARRON",
+    "brand": "Nude Project",
+    "title": "Jersey Wavy Marrón",
+    "price": 109.0,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "imagePaths": [
+      "/assets/productos/Nude Project/JERSEY_WAVY_MARRON/fotos/01_image.jpg",
+      "/assets/productos/Nude Project/JERSEY_WAVY_MARRON/fotos/02_image_solo.jpg",
+      "/assets/productos/Nude Project/JERSEY_WAVY_MARRON/fotos/03_image.jpg",
+      "/assets/productos/Nude Project/JERSEY_WAVY_MARRON/fotos/04_image.jpg"
+    ],
+    "logoPath": "/assets/logos/Nude Project.png",
+    "category": "superior",
+    "subcategory": "jerséis",
+    "description": "Composición:\n51% Pes - 23% Acrílico - 21% Nylon - 3% Lana\n\nEn forma:\nAjuste estándar\n\nDetalles técnicos:\nFrontal: Logotipo bordado",
+    "relatedProductIDs": [],
+    "color": "marrón",
+    "style": "Sin información",
+    "material": "lana, nailon",
+    "season": "All-season",
+    "targetAudience": "mujer",
+    "url": "https://nude-project.com/es/products/jersey-wavy-marron",
+    "stock": 50,
+    "featured": false,
+    "active": true
+  },
+  {
+    "id": "SUDADERA_HOT_GRIS",
+    "brand": "Nude Project",
+    "title": "Sudadera Hot Gris",
+    "price": 89.0,
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "imagePaths": [
+      "/assets/productos/Nude Project/SUDADERA_HOT_GRIS/fotos/01_Sin_titulo-1_0023_IMG_0048_800x.jpg",
+      "/assets/productos/Nude Project/SUDADERA_HOT_GRIS/fotos/02_04_03_NUDEPROJECT_HOODIES_20_0038_e3e560e1-e34c-4ce5-9851-5816ff0a5b89_800x.jpg",
+      "/assets/productos/Nude Project/SUDADERA_HOT_GRIS/fotos/03_04_03_NUDEPROJECT_HOODIES_20_0027_800x.jpg",
+      "/assets/productos/Nude Project/SUDADERA_HOT_GRIS/fotos/04_HOT_HOODIE_GREY_MELANGE_detail_2_800x.jpg",
+      "/assets/productos/Nude Project/SUDADERA_HOT_GRIS/fotos/05_HOT_HOODIE_GREY_MELANGE_front_800x.jpg",
+      "/assets/productos/Nude Project/SUDADERA_HOT_GRIS/fotos/06_HOT_HOODIE_GREY_MELANGE_back_800x_solo.jpg"
+    ],
+    "logoPath": "/assets/logos/Nude Project.png",
+    "category": "superior",
+    "subcategory": "sudaderas",
+    "description": "COMPOSICIÓN:\n100% Algodón - Vellón cepillado 450 gr/m2\n\nCORTE:\nAjuste estándar\n\nGRÁFICO:\nFrente: Puff print y serigrafía\nEspalda Serigrafía y costura de cadeneta\n\nDETALLES TÉCNICOS:\nCuello, puños y dobladillo de canalé 100% algodón",
+    "relatedProductIDs": [],
+    "color": "gris",
+    "style": "street",
+    "material": "algodón",
+    "season": "All-season",
+    "targetAudience": "mujer",
+    "url": "https://nude-project.com/es/collections/sudaderas-mujer/products/sudadera-gris-hot",
+    "stock": 50,
+    "featured": false,
+    "active": true
+  },
+  {
+    "id": "PANTALON_CHINO_VINYL_BEIGE",
+    "brand": "Nude Project",
+    "title": "Pantalón Chino Vinyl Beige",
+    "price": 99.0,
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "imagePaths": [
+      "/assets/productos/Nude Project/PANTALON_CHINO_VINYL_BEIGE/fotos/01_NUDEPROJECT_NEWINJULY1764_800x.jpg",
+      "/assets/productos/Nude Project/PANTALON_CHINO_VINYL_BEIGE/fotos/02_FlapChinoPantsBeige_back_800x.jpg",
+      "/assets/productos/Nude Project/PANTALON_CHINO_VINYL_BEIGE/fotos/03_FlapChinoPantsBeige_detail_800x.jpg",
+      "/assets/productos/Nude Project/PANTALON_CHINO_VINYL_BEIGE/fotos/04_FlapChinoPantsBeige_detail_1_800x.jpg",
+      "/assets/productos/Nude Project/PANTALON_CHINO_VINYL_BEIGE/fotos/05_FlapChinoPantsBeige_front_800x_solo.jpg"
+    ],
+    "logoPath": "/assets/logos/Nude Project.png",
+    "category": "inferior",
+    "subcategory": "pantalones",
+    "description": "Composition:\nCotton 100%\n\nFit:\nWide Chino Fit\n\nTechnical Details:\nEmbroidery deco detail\nWaist with round shape\nFlap detail",
+    "relatedProductIDs": [
+      "JERSEY_WAVY_MARRON"
+    ],
+    "color": "beige",
+    "style": "techwear",
+    "material": "algodón",
+    "season": "All-season",
+    "targetAudience": "mujer",
+    "url": "https://nude-project.com/es/collections/pantalones-mujer/products/pantalon-chino-vinyl-beige",
+    "stock": 50,
+    "featured": false,
+    "active": true
+  },
+  {
+    "id": "CHALECO_JUANITA",
+    "brand": "The IQ Collection",
+    "title": "CHALECO JUANITA",
+    "price": 95.0,
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "imagePaths": [
+      "/assets/productos/The IQ Collection/CHALECO_JUANITA/fotos/01_IQ_COLLECTIOn_FW_25_IMAGEN_05_060.jpg",
+      "/assets/productos/The IQ Collection/CHALECO_JUANITA/fotos/02_23_07_25_TheIQCollection_FallWinter_Icons5733.jpg",
+      "/assets/productos/The IQ Collection/CHALECO_JUANITA/fotos/03_IQ_COLLECTIOn_FW_25_IMAGEN_05_073.jpg",
+      "/assets/productos/The IQ Collection/CHALECO_JUANITA/fotos/04_23_07_25_TheIQCollection_FallWinter_Icons5675_8b42d17c-a8af-4038-80ec-a06bd1a2d686.jpg",
+      "/assets/productos/The IQ Collection/CHALECO_JUANITA/fotos/05_23_07_25_TheIQCollection_FallWinter_Icons5757.jpg"
+    ],
+    "logoPath": "/assets/logos/The IQ Collection.png",
+    "category": "superior",
+    "subcategory": "chalecos",
+    "description": null,
+    "relatedProductIDs": [],
+    "color": "marrón",
+    "style": "Sin información",
+    "material": "Sin información",
+    "season": "PV",
+    "targetAudience": "mujer",
+    "url": "https://theiqcollection.com/products/top-juanita?pr_prod_strat=jac&pr_rec_id=aec641e01&pr_rec_pid=15136972243322&pr_ref_pid=15137000391034&pr_seq=uniform",
+    "stock": 50,
+    "featured": false,
+    "active": true
+  },
+  {
+    "id": "BODY_SAILOR_BEIGE",
+    "brand": "The IQ Collection",
+    "title": "BODY SAILOR BEIGE",
+    "price": 135.0,
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "imagePaths": [
+      "/assets/productos/The IQ Collection/BODY_SAILOR_BEIGE/fotos/01_30_6942258a-72e2-476e-9af8-d3998af1e952.jpg",
+      "/assets/productos/The IQ Collection/BODY_SAILOR_BEIGE/fotos/02_40_0b4b2046-5cd4-4968-8e14-19a406648ed1.jpg",
+      "/assets/productos/The IQ Collection/BODY_SAILOR_BEIGE/fotos/03_TAMANO_WEB_SHOPIFY_10_4667b609-3561-4388-8dd5-f092f74bb8c7.jpg",
+      "/assets/productos/The IQ Collection/BODY_SAILOR_BEIGE/fotos/04_24_41bd53a5-644a-405f-9779-71e2508f51d7.jpg"
+    ],
+    "logoPath": "/assets/logos/The IQ Collection.png",
+    "category": "superior",
+    "subcategory": "tops",
+    "description": null,
+    "relatedProductIDs": [],
+    "color": "beige",
+    "style": "Sin información",
+    "material": "Sin información",
+    "season": "All-season",
+    "targetAudience": "mujer",
+    "url": "https://theiqcollection.com/products/body-sailor-beige",
+    "stock": 50,
+    "featured": false,
+    "active": true
+  },
+  {
+    "id": "VESTIDO_MIDI_COMBINADO_EFECTO_PIEL",
+    "brand": "Zara",
+    "title": "VESTIDO MIDI COMBINADO EFECTO PIEL",
+    "price": 39.95,
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XXL"
+    ],
+    "imagePaths": [
+      "/assets/productos/Zara/VESTIDO_MIDI_COMBINADO_EFECTO_PIEL/fotos/01_05029189800-p.jpg",
+      "/assets/productos/Zara/VESTIDO_MIDI_COMBINADO_EFECTO_PIEL/fotos/02_05029189800-a1.jpg",
+      "/assets/productos/Zara/VESTIDO_MIDI_COMBINADO_EFECTO_PIEL/fotos/03_05029189800-a2.jpg",
+      "/assets/productos/Zara/VESTIDO_MIDI_COMBINADO_EFECTO_PIEL/fotos/04_05029189800-e1_solo.jpg",
+      "/assets/productos/Zara/VESTIDO_MIDI_COMBINADO_EFECTO_PIEL/fotos/05_05029189800-e2.jpg"
+    ],
+    "logoPath": "/assets/logos/Zara.png",
+    "category": "vestido",
+    "subcategory": "vestidos",
+    "description": null,
+    "relatedProductIDs": [],
+    "color": "negro",
+    "style": "Sin información",
+    "material": "Sin información",
+    "season": "PV",
+    "targetAudience": "mujer",
+    "url": "https://www.zara.com/es/es/vestido-midi-combinado-efecto-piel-p05029189.html?v1=468855139&v2=2420896",
+    "stock": 50,
+    "featured": false,
+    "active": true
+  },
+  {
+    "id": "VESTIDO_MIDI_CINTURON_CON_LINO",
+    "brand": "Zara",
+    "title": "VESTIDO MIDI CINTURÓN CON LINO",
+    "price": 39.95,
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XXL"
+    ],
+    "imagePaths": [
+      "/assets/productos/Zara/VESTIDO_MIDI_CINTURON_CON_LINO/fotos/01_08208709401-p.jpg",
+      "/assets/productos/Zara/VESTIDO_MIDI_CINTURON_CON_LINO/fotos/02_08208709401-a1.jpg",
+      "/assets/productos/Zara/VESTIDO_MIDI_CINTURON_CON_LINO/fotos/03_08208709401-a2.jpg",
+      "/assets/productos/Zara/VESTIDO_MIDI_CINTURON_CON_LINO/fotos/04_08208709401-e1_solo.jpg",
+      "/assets/productos/Zara/VESTIDO_MIDI_CINTURON_CON_LINO/fotos/05_08208709401-e2.jpg"
+    ],
+    "logoPath": "/assets/logos/Zara.png",
+    "category": "vestido",
+    "subcategory": "vestidos",
+    "description": null,
+    "relatedProductIDs": [],
+    "color": "azul",
+    "style": "Sin información",
+    "material": "Sin información",
+    "season": "PV",
+    "targetAudience": "mujer",
+    "url": "https://www.zara.com/es/es/vestido-midi-cinturon-con-lino-p08208709.html?v1=475439391&v2=2420896",
+    "stock": 50,
+    "featured": false,
+    "active": true
+  },
+  {
+    "id": "BLUSA_VOLANTES",
+    "brand": "Zara",
+    "title": "BLUSA VOLANTES",
+    "price": 22.95,
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L"
+    ],
+    "imagePaths": [
+      "/assets/productos/Zara/BLUSA_VOLANTES/fotos/01_03666175485-p.jpg",
+      "/assets/productos/Zara/BLUSA_VOLANTES/fotos/02_03666175485-a1.jpg",
+      "/assets/productos/Zara/BLUSA_VOLANTES/fotos/03_03666175485-a2.jpg",
+      "/assets/productos/Zara/BLUSA_VOLANTES/fotos/04_03666175485-a3.jpg",
+      "/assets/productos/Zara/BLUSA_VOLANTES/fotos/05_03666175485-a4.jpg",
+      "/assets/productos/Zara/BLUSA_VOLANTES/fotos/06_03666175485-e1_solo.jpg"
+    ],
+    "logoPath": "/assets/logos/Zara.png",
+    "category": "superior",
+    "subcategory": "blusas",
+    "description": null,
+    "relatedProductIDs": [],
+    "color": "azul",
+    "style": "Sin información",
+    "material": "Sin información",
+    "season": "PV",
+    "targetAudience": "mujer",
+    "url": "https://www.zara.com/es/es/blusa-volantes-p05029209.html?v1=481548209&v2=2546081",
+    "stock": 50,
+    "featured": false,
+    "active": true
+  },
+  {
+    "id": "VESTIDO_MIDI_PUNTO_CINTURON",
+    "brand": "Zara",
+    "title": "VESTIDO MIDI PUNTO CINTURÓN",
+    "price": 39.95,
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XXL"
+    ],
+    "imagePaths": [
+      "/assets/productos/Zara/VESTIDO_MIDI_PUNTO_CINTURON/fotos/01_05536122922-p.jpg",
+      "/assets/productos/Zara/VESTIDO_MIDI_PUNTO_CINTURON/fotos/02_05536122922-a1.jpg",
+      "/assets/productos/Zara/VESTIDO_MIDI_PUNTO_CINTURON/fotos/03_05536122922-a2.jpg",
+      "/assets/productos/Zara/VESTIDO_MIDI_PUNTO_CINTURON/fotos/04_05536122922-e1_solo.jpg",
+      "/assets/productos/Zara/VESTIDO_MIDI_PUNTO_CINTURON/fotos/05_05536122922-e2.jpg"
+    ],
+    "logoPath": "/assets/logos/Zara.png",
+    "category": "vestido",
+    "subcategory": "vestidos",
+    "description": null,
+    "relatedProductIDs": [],
+    "color": "gris",
+    "style": "Sin información",
+    "material": "Sin información",
+    "season": "PV",
+    "targetAudience": "mujer",
+    "url": "https://www.zara.com/es/es/vestido-midi-punto-cinturon-p05536122.html?v1=456950089&v2=2420896",
+    "stock": 50,
+    "featured": false,
+    "active": true
+  },
+  {
+    "id": "VESTIDO_COMBINADO_CINTURON",
+    "brand": "Zara",
+    "title": "VESTIDO COMBINADO CINTURÓN",
+    "price": 45.95,
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XXL"
+    ],
+    "imagePaths": [
+      "/assets/productos/Zara/VESTIDO_COMBINADO_CINTURON/fotos/01_05029188070-p.jpg",
+      "/assets/productos/Zara/VESTIDO_COMBINADO_CINTURON/fotos/02_05029188070-a1.jpg",
+      "/assets/productos/Zara/VESTIDO_COMBINADO_CINTURON/fotos/03_05029188070-a2.jpg",
+      "/assets/productos/Zara/VESTIDO_COMBINADO_CINTURON/fotos/04_05029188070-a3.jpg",
+      "/assets/productos/Zara/VESTIDO_COMBINADO_CINTURON/fotos/05_05029188070-e1_solo.jpg",
+      "/assets/productos/Zara/VESTIDO_COMBINADO_CINTURON/fotos/06_05029188070-e2.jpg"
+    ],
+    "logoPath": "/assets/logos/Zara.png",
+    "category": "vestido",
+    "subcategory": "vestidos",
+    "description": null,
+    "relatedProductIDs": [],
+    "color": "crema",
+    "style": "Sin información",
+    "material": "Sin información",
+    "season": "PV",
+    "targetAudience": "mujer",
+    "url": "https://www.zara.com/es/es/vestido-combinado-cinturon-p05029188.html?v1=468855132&v2=2420896",
+    "stock": 50,
+    "featured": false,
+    "active": true
+  },
+  {
+    "id": "VESTIDO_MIDI_HALTER",
+    "brand": "Zara",
+    "title": "VESTIDO MIDI HALTER",
+    "price": 35.95,
+    "sizes": [
+      "XS",
+      "S",
+      "M"
+    ],
+    "imagePaths": [
+      "/assets/productos/Zara/VESTIDO_MIDI_HALTER/fotos/01_01165164800-a2.jpg",
+      "/assets/productos/Zara/VESTIDO_MIDI_HALTER/fotos/02_01165164800-p.jpg",
+      "/assets/productos/Zara/VESTIDO_MIDI_HALTER/fotos/03_01165164800-a1.jpg",
+      "/assets/productos/Zara/VESTIDO_MIDI_HALTER/fotos/04_01165164800-e1_solo.jpg",
+      "/assets/productos/Zara/VESTIDO_MIDI_HALTER/fotos/05_01165164800-e2.jpg"
+    ],
+    "logoPath": "/assets/logos/Zara.png",
+    "category": "vestido",
+    "subcategory": "vestidos",
+    "description": null,
+    "relatedProductIDs": [],
+    "color": "azul",
+    "style": "Sin información",
+    "material": "Sin información",
+    "season": "PV",
+    "targetAudience": "mujer",
+    "url": "https://www.zara.com/es/es/vestido-midi-halter-p01165164.html?v1=452748233&v2=2420896",
+    "stock": 50,
+    "featured": false,
+    "active": true
+  },
+  {
+    "id": "JEANS_Z1975_RAYA_PLANCHADA_CINTURON",
+    "brand": "Zara",
+    "title": "JEANS Z1975 RAYA PLANCHADA CINTURÓN",
+    "price": 29.95,
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XXL"
+    ],
+    "imagePaths": [
+      "/assets/productos/Zara/JEANS_Z1975_RAYA_PLANCHADA_CINTURON/fotos/01_06164197407-p.jpg",
+      "/assets/productos/Zara/JEANS_Z1975_RAYA_PLANCHADA_CINTURON/fotos/02_06164197407-a1.jpg",
+      "/assets/productos/Zara/JEANS_Z1975_RAYA_PLANCHADA_CINTURON/fotos/03_06164197407-a2.jpg",
+      "/assets/productos/Zara/JEANS_Z1975_RAYA_PLANCHADA_CINTURON/fotos/04_06164197407-a3.jpg",
+      "/assets/productos/Zara/JEANS_Z1975_RAYA_PLANCHADA_CINTURON/fotos/05_06164197407-a4.jpg",
+      "/assets/productos/Zara/JEANS_Z1975_RAYA_PLANCHADA_CINTURON/fotos/06_06164197407-000-e1_solo.jpg"
+    ],
+    "logoPath": "/assets/logos/Zara.png",
+    "category": "inferior",
+    "subcategory": "pantalones",
+    "description": null,
+    "relatedProductIDs": [],
+    "color": "azul",
+    "style": "Sin información",
+    "material": "Sin información",
+    "season": "All-season",
+    "targetAudience": "mujer",
+    "url": "https://www.zara.com/es/es/jeans-z1975-raya-planchada-cinturon-p06164197.html?v1=489262889&v2=2419235",
+    "stock": 50,
+    "featured": false,
+    "active": true
+  },
+  {
+    "id": "FALDA_MIDI_PUNTO_LISO",
+    "brand": "Zara",
+    "title": "FALDA MIDI PUNTO LISO",
+    "price": 25.95,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "imagePaths": [
+      "/assets/productos/Zara/FALDA_MIDI_PUNTO_LISO/fotos/01_03519138804-p.jpg",
+      "/assets/productos/Zara/FALDA_MIDI_PUNTO_LISO/fotos/02_03519138804-a1.jpg",
+      "/assets/productos/Zara/FALDA_MIDI_PUNTO_LISO/fotos/03_03519138804-a2.jpg",
+      "/assets/productos/Zara/FALDA_MIDI_PUNTO_LISO/fotos/04_03519138804-a3.jpg",
+      "/assets/productos/Zara/FALDA_MIDI_PUNTO_LISO/fotos/05_03519138804-e1.jpg"
+    ],
+    "logoPath": "/assets/logos/Zara.png",
+    "category": "inferior",
+    "subcategory": "faldas",
+    "description": null,
+    "relatedProductIDs": [],
+    "color": "gris",
+    "style": "Sin información",
+    "material": "Sin información",
+    "season": "PV",
+    "targetAudience": "mujer",
+    "url": "https://www.zara.com/es/es/falda-midi-punto-liso-p03519138.html?v1=485197540&v2=2420454",
+    "stock": 50,
+    "featured": false,
+    "active": true
+  },
+  {
+    "id": "VESTIDO_TUNICA_PESPUNTES_ZW_COLLECTION",
+    "brand": "Zara",
+    "title": "VESTIDO TÚNICA PESPUNTES ZW COLLECTION",
+    "price": 69.95,
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L"
+    ],
+    "imagePaths": [
+      "/assets/productos/Zara/VESTIDO_TUNICA_PESPUNTES_ZW_COLLECTION/fotos/01_08957100800-p.jpg",
+      "/assets/productos/Zara/VESTIDO_TUNICA_PESPUNTES_ZW_COLLECTION/fotos/02_08957100800-e1_solo.jpg",
+      "/assets/productos/Zara/VESTIDO_TUNICA_PESPUNTES_ZW_COLLECTION/fotos/03_08957100800-e2.jpg",
+      "/assets/productos/Zara/VESTIDO_TUNICA_PESPUNTES_ZW_COLLECTION/fotos/04_08957100800-e3.jpg"
+    ],
+    "logoPath": "/assets/logos/Zara.png",
+    "category": "vestido",
+    "subcategory": "vestidos",
+    "description": null,
+    "relatedProductIDs": [],
+    "color": "negro",
+    "style": "Sin información",
+    "material": "Sin información",
+    "season": "PV",
+    "targetAudience": "mujer",
+    "url": "https://www.zara.com/es/es/vestido-tunica-pespuntes-zw-collection-p08957100.html?v1=480474118&v2=2546081",
+    "stock": 50,
+    "featured": false,
+    "active": true
+  },
+  {
+    "id": "MONO_FLUIDO_BOLSILLOS",
+    "brand": "Zara",
+    "title": "MONO FLUIDO BOLSILLOS",
+    "price": 29.95,
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XXL"
+    ],
+    "imagePaths": [
+      "/assets/productos/Zara/MONO_FLUIDO_BOLSILLOS/fotos/01_06929383406-p.jpg",
+      "/assets/productos/Zara/MONO_FLUIDO_BOLSILLOS/fotos/02_06929383406-a1.jpg",
+      "/assets/productos/Zara/MONO_FLUIDO_BOLSILLOS/fotos/03_06929383406-a2.jpg",
+      "/assets/productos/Zara/MONO_FLUIDO_BOLSILLOS/fotos/04_06929383406-e1_solo.jpg",
+      "/assets/productos/Zara/MONO_FLUIDO_BOLSILLOS/fotos/05_06929383406-e2.jpg"
+    ],
+    "logoPath": "/assets/logos/Zara.png",
+    "category": "vestido",
+    "subcategory": "monos",
+    "description": null,
+    "relatedProductIDs": [],
+    "color": "azul",
+    "style": "Sin información",
+    "material": "Sin información",
+    "season": "PV",
+    "targetAudience": "mujer",
+    "url": "https://www.zara.com/es/es/mono-fluido-bolsillos-p06929383.html?v1=455257140&v2=2420896",
+    "stock": 50,
+    "featured": false,
+    "active": true
+  },
+  {
+    "id": "SHORTS_MINI_FLUIDO",
+    "brand": "Zara",
+    "title": "SHORTS MINI FLUIDO",
+    "price": 19.95,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "imagePaths": [
+      "/assets/productos/Zara/SHORTS_MINI_FLUIDO/fotos/01_03067431818-p.jpg",
+      "/assets/productos/Zara/SHORTS_MINI_FLUIDO/fotos/02_03067431818-a1.jpg",
+      "/assets/productos/Zara/SHORTS_MINI_FLUIDO/fotos/03_03067431818-a2.jpg",
+      "/assets/productos/Zara/SHORTS_MINI_FLUIDO/fotos/04_03067431818-a3.jpg",
+      "/assets/productos/Zara/SHORTS_MINI_FLUIDO/fotos/05_03067431818-a4.jpg",
+      "/assets/productos/Zara/SHORTS_MINI_FLUIDO/fotos/06_03067431818-e1_solo.jpg",
+      "/assets/productos/Zara/SHORTS_MINI_FLUIDO/fotos/07_03067431818-e2.jpg"
+    ],
+    "logoPath": "/assets/logos/Zara.png",
+    "category": "inferior",
+    "subcategory": "shorts",
+    "description": null,
+    "relatedProductIDs": [],
+    "color": "gris",
+    "style": "Sin información",
+    "material": "Sin información",
+    "season": "PV",
+    "targetAudience": "mujer",
+    "url": "https://www.zara.com/es/es/shorts-mini-fluido-p03067429.html?v1=452734874&v2=2420454",
+    "stock": 50,
+    "featured": false,
+    "active": true
+  },
+  {
+    "id": "BLAZER_ENTALLADA_ESTRUCTURA_ZW_COLLECTION",
+    "brand": "Zara",
+    "title": "BLAZER ENTALLADA ESTRUCTURA ZW COLLECTION",
+    "price": 89.95,
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "imagePaths": [
+      "/assets/productos/Zara/BLAZER_ENTALLADA_ESTRUCTURA_ZW_COLLECTION/fotos/01_05919241450-p.jpg",
+      "/assets/productos/Zara/BLAZER_ENTALLADA_ESTRUCTURA_ZW_COLLECTION/fotos/02_05919241450-a1.jpg",
+      "/assets/productos/Zara/BLAZER_ENTALLADA_ESTRUCTURA_ZW_COLLECTION/fotos/03_08710873803-e1_solo.jpg"
+    ],
+    "logoPath": "/assets/logos/Zara.png",
+    "category": "superior",
+    "subcategory": "chaquetas",
+    "description": null,
+    "relatedProductIDs": [],
+    "color": "grui",
+    "style": "formal",
+    "material": "Sin información",
+    "season": "All-season",
+    "targetAudience": "mujer",
+    "url": "https://www.zara.com/es/es/blazer-entallada-estructura-zw-collection-p08710873.html?v1=474537466&v2=2546081",
+    "stock": 50,
+    "featured": false,
+    "active": true
+  },
+  {
+    "id": "TOP_CRUZADO_RAYAS_ZW_COLLECTION",
+    "brand": "Zara",
+    "title": "TOP CRUZADO RAYAS ZW COLLECTION",
+    "price": 39.95,
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L"
+    ],
+    "imagePaths": [
+      "/assets/productos/Zara/TOP_CRUZADO_RAYAS_ZW_COLLECTION/fotos/01_09045249064-p.jpg",
+      "/assets/productos/Zara/TOP_CRUZADO_RAYAS_ZW_COLLECTION/fotos/02_09045249064-a1.jpg",
+      "/assets/productos/Zara/TOP_CRUZADO_RAYAS_ZW_COLLECTION/fotos/03_09045249064-e1_solo.jpg"
+    ],
+    "logoPath": "/assets/logos/Zara.png",
+    "category": "superior",
+    "subcategory": "tops",
+    "description": null,
+    "relatedProductIDs": [],
+    "color": "blanco",
+    "style": "Sin información",
+    "material": "Sin información",
+    "season": "PV",
+    "targetAudience": "mujer",
+    "url": "https://www.zara.com/es/es/top-cruzado-rayas-zw-collection-p09045249.html?v1=482605602&v2=2546081",
+    "stock": 50,
+    "featured": false,
+    "active": true
+  },
+  {
+    "id": "VESTIDO_CAMISERO_PIQUE",
+    "brand": "Zara",
+    "title": "VESTIDO CAMISERO PIQUÉ",
+    "price": 27.95,
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "imagePaths": [
+      "/assets/productos/Zara/VESTIDO_CAMISERO_PIQUE/fotos/01_03644676251-a1.jpg",
+      "/assets/productos/Zara/VESTIDO_CAMISERO_PIQUE/fotos/02_03644676251-a2.jpg",
+      "/assets/productos/Zara/VESTIDO_CAMISERO_PIQUE/fotos/03_03644676251-a3.jpg",
+      "/assets/productos/Zara/VESTIDO_CAMISERO_PIQUE/fotos/04_03644676251-a4.jpg",
+      "/assets/productos/Zara/VESTIDO_CAMISERO_PIQUE/fotos/05_03644676251-a5.jpg",
+      "/assets/productos/Zara/VESTIDO_CAMISERO_PIQUE/fotos/06_03644676251-e1_solo.jpg",
+      "/assets/productos/Zara/VESTIDO_CAMISERO_PIQUE/fotos/07_03644676251-e2.jpg"
+    ],
+    "logoPath": "/assets/logos/Zara.png",
+    "category": "vestido",
+    "subcategory": "vestidos",
+    "description": null,
+    "relatedProductIDs": [],
+    "color": "blanco",
+    "style": "Sin información",
+    "material": "Sin información",
+    "season": "PV",
+    "targetAudience": "mujer",
+    "url": "https://www.zara.com/es/es/vestido-camisero-pique-p03644176.html?v1=463549827&v2=2420896",
+    "stock": 50,
+    "featured": false,
+    "active": true
+  },
+  {
+    "id": "BERMUDA_PINZAS_CINTURON",
+    "brand": "Zara",
+    "title": "BERMUDA PINZAS CINTURÓN",
+    "price": 25.95,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "imagePaths": [
+      "/assets/productos/Zara/BERMUDA_PINZAS_CINTURON/fotos/01_08372444401-p.jpg",
+      "/assets/productos/Zara/BERMUDA_PINZAS_CINTURON/fotos/02_08372444401-a1.jpg",
+      "/assets/productos/Zara/BERMUDA_PINZAS_CINTURON/fotos/03_08372444401-a2.jpg",
+      "/assets/productos/Zara/BERMUDA_PINZAS_CINTURON/fotos/04_08372444401-a3.jpg",
+      "/assets/productos/Zara/BERMUDA_PINZAS_CINTURON/fotos/05_08372444401-a4.jpg",
+      "/assets/productos/Zara/BERMUDA_PINZAS_CINTURON/fotos/06_08480312401-e1_solo.jpg",
+      "/assets/productos/Zara/BERMUDA_PINZAS_CINTURON/fotos/07_08480312401-e2.jpg"
+    ],
+    "logoPath": "/assets/logos/Zara.png",
+    "category": "inferior",
+    "subcategory": "shorts",
+    "description": null,
+    "relatedProductIDs": [],
+    "color": "azul",
+    "style": "Sin información",
+    "material": "Sin información",
+    "season": "PV",
+    "targetAudience": "mujer",
+    "url": "https://www.zara.com/es/es/bermuda-pinzas-cinturon-p08372444.html?v1=465004372&v2=2420454",
+    "stock": 50,
+    "featured": false,
+    "active": true
+  },
+  {
+    "id": "JEANS_Z_10_CULOTTE_TIRO_ALTO_CINTURON",
+    "brand": "Zara",
+    "title": "JEANS Z.10 CULOTTE TIRO ALTO CINTURÓN",
+    "price": 35.95,
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XXL"
+    ],
+    "imagePaths": [
+      "/assets/productos/Zara/JEANS_Z10_CULOTTE_TIRO_ALTO_CINTURON/fotos/01_01889152250-015-p.jpg",
+      "/assets/productos/Zara/JEANS_Z10_CULOTTE_TIRO_ALTO_CINTURON/fotos/02_01889152250-015-a1.jpg",
+      "/assets/productos/Zara/JEANS_Z10_CULOTTE_TIRO_ALTO_CINTURON/fotos/03_01889152250-015-a2.jpg",
+      "/assets/productos/Zara/JEANS_Z10_CULOTTE_TIRO_ALTO_CINTURON/fotos/04_01889152250-015-a3.jpg",
+      "/assets/productos/Zara/JEANS_Z10_CULOTTE_TIRO_ALTO_CINTURON/fotos/05_01889152250-015-a4.jpg",
+      "/assets/productos/Zara/JEANS_Z10_CULOTTE_TIRO_ALTO_CINTURON/fotos/06_01889152250-015-a5.jpg",
+      "/assets/productos/Zara/JEANS_Z10_CULOTTE_TIRO_ALTO_CINTURON/fotos/07_01889152250-015-a6.jpg",
+      "/assets/productos/Zara/JEANS_Z10_CULOTTE_TIRO_ALTO_CINTURON/fotos/08_01889152250-e1_solo.jpg",
+      "/assets/productos/Zara/JEANS_Z10_CULOTTE_TIRO_ALTO_CINTURON/fotos/09_01889152250-e2.jpg"
+    ],
+    "logoPath": "/assets/logos/Zara.png",
+    "category": "inferior",
+    "subcategory": "pantalones",
+    "description": null,
+    "relatedProductIDs": [],
+    "color": "blanco",
+    "style": "Sin información",
+    "material": "Sin información",
+    "season": "All-season",
+    "targetAudience": "mujer",
+    "url": "https://www.zara.com/es/es/jeans-z-10-culotte-tiro-alto-cinturon-p01889152.html?v1=479725434&v2=2419235",
+    "stock": 50,
+    "featured": false,
+    "active": true
+  },
+  {
+    "id": "VESTIDO_BANDEU_STRETCH_CONTOURING",
+    "brand": "Zara",
+    "title": "VESTIDO BANDEU STRETCH CONTOURING",
+    "price": 35.95,
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L"
+    ],
+    "imagePaths": [
+      "/assets/productos/Zara/VESTIDO_BANDEU_STRETCH_CONTOURING/fotos/01_05584126084-p.jpg",
+      "/assets/productos/Zara/VESTIDO_BANDEU_STRETCH_CONTOURING/fotos/02_05584126084-a1.jpg",
+      "/assets/productos/Zara/VESTIDO_BANDEU_STRETCH_CONTOURING/fotos/03_05584126084-a2.jpg",
+      "/assets/productos/Zara/VESTIDO_BANDEU_STRETCH_CONTOURING/fotos/04_05584126084-a3.jpg",
+      "/assets/productos/Zara/VESTIDO_BANDEU_STRETCH_CONTOURING/fotos/05_05584126084-e1_solo.jpg",
+      "/assets/productos/Zara/VESTIDO_BANDEU_STRETCH_CONTOURING/fotos/06_05584126084-e2.jpg"
+    ],
+    "logoPath": "/assets/logos/Zara.png",
+    "category": "vestido",
+    "subcategory": "vestidos",
+    "description": null,
+    "relatedProductIDs": [],
+    "color": "negro",
+    "style": "Sin información",
+    "material": "Sin información",
+    "season": "PV",
+    "targetAudience": "mujer",
+    "url": "https://www.zara.com/es/es/vestido-bandeu-stretch-contouring-p05584126.html?v1=460431874&v2=2420896",
+    "stock": 50,
+    "featured": false,
+    "active": true
+  },
+  {
+    "id": "BERMUDA_CORDON_ABALORIOS",
+    "brand": "Zara",
+    "title": "BERMUDA CORDÓN ABALORIOS",
+    "price": 19.95,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "imagePaths": [
+      "/assets/productos/Zara/BERMUDA_CORDON_ABALORIOS/fotos/01_08616535737-p.jpg",
+      "/assets/productos/Zara/BERMUDA_CORDON_ABALORIOS/fotos/02_08616535737-a1.jpg",
+      "/assets/productos/Zara/BERMUDA_CORDON_ABALORIOS/fotos/03_08616535737-a2.jpg",
+      "/assets/productos/Zara/BERMUDA_CORDON_ABALORIOS/fotos/04_08616535737-a3.jpg",
+      "/assets/productos/Zara/BERMUDA_CORDON_ABALORIOS/fotos/05_08616535737-e1_solo.jpg",
+      "/assets/productos/Zara/BERMUDA_CORDON_ABALORIOS/fotos/06_08616535737-e2.jpg"
+    ],
+    "logoPath": "/assets/logos/Zara.png",
+    "category": "inferior",
+    "subcategory": "shorts",
+    "description": null,
+    "relatedProductIDs": [],
+    "color": "marrón",
+    "style": "Sin información",
+    "material": "Sin información",
+    "season": "PV",
+    "targetAudience": "mujer",
+    "url": "https://www.zara.com/es/es/bermuda-cordon-abalorios-p08616535.html?v1=468341658&v2=2420454",
+    "stock": 50,
+    "featured": false,
+    "active": true
+  },
+  {
+    "id": "SHORTS_TIRO_ALTO",
+    "brand": "Zara",
+    "title": "SHORTS TIRO ALTO",
+    "price": 19.95,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "imagePaths": [
+      "/assets/productos/Zara/SHORTS_TIRO_ALTO/fotos/01_03067517507-p.jpg",
+      "/assets/productos/Zara/SHORTS_TIRO_ALTO/fotos/02_03067517507-a1.jpg",
+      "/assets/productos/Zara/SHORTS_TIRO_ALTO/fotos/03_03067517507-a2.jpg",
+      "/assets/productos/Zara/SHORTS_TIRO_ALTO/fotos/04_03067517507-e1_solo.jpg",
+      "/assets/productos/Zara/SHORTS_TIRO_ALTO/fotos/05_03067517507-e2.jpg"
+    ],
+    "logoPath": "/assets/logos/Zara.png",
+    "category": "inferior",
+    "subcategory": "shorts",
+    "description": null,
+    "relatedProductIDs": [],
+    "color": "verde",
+    "style": "Sin información",
+    "material": "Sin información",
+    "season": "PV",
+    "targetAudience": "mujer",
+    "url": "https://www.zara.com/es/es/shorts-tiro-alto-p03067515.html?v1=472926658&v2=2420454",
+    "stock": 50,
+    "featured": false,
+    "active": true
+  },
+  {
+    "id": "BLAZER_CROPPED_SIN_SOLAPA",
+    "brand": "Zara",
+    "title": "BLAZER CROPPED SIN SOLAPA",
+    "price": 39.95,
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L"
+    ],
+    "imagePaths": [
+      "/assets/productos/Zara/BLAZER_CROPPED_SIN_SOLAPA/fotos/01_09039586802-p.jpg",
+      "/assets/productos/Zara/BLAZER_CROPPED_SIN_SOLAPA/fotos/02_09039586802-a1.jpg",
+      "/assets/productos/Zara/BLAZER_CROPPED_SIN_SOLAPA/fotos/03_09039586802-a2.jpg",
+      "/assets/productos/Zara/BLAZER_CROPPED_SIN_SOLAPA/fotos/04_09039586802-a3.jpg",
+      "/assets/productos/Zara/BLAZER_CROPPED_SIN_SOLAPA/fotos/05_09039586802-a5.jpg",
+      "/assets/productos/Zara/BLAZER_CROPPED_SIN_SOLAPA/fotos/06_09039586802-e1_solo.jpg"
+    ],
+    "logoPath": "/assets/logos/Zara.png",
+    "category": "superior",
+    "subcategory": "chaquetas",
+    "description": null,
+    "relatedProductIDs": [],
+    "color": "gris",
+    "style": "formal",
+    "material": "Sin información",
+    "season": "All-season",
+    "targetAudience": "mujer",
+    "url": "https://www.zara.com/es/es/blazer-cropped-sin-solapa-p09039586.html?v1=482605496&v2=2546081",
+    "stock": 50,
+    "featured": false,
+    "active": true
+  },
+  {
+    "id": "FALDA_PANTALON_RAYAS_CINTURON",
+    "brand": "Zara",
+    "title": "FALDA PANTALÓN RAYAS CINTURÓN",
+    "price": 25.95,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "imagePaths": [
+      "/assets/productos/Zara/FALDA_PANTALON_RAYAS_CINTURON/fotos/01_01478110104-p.jpg",
+      "/assets/productos/Zara/FALDA_PANTALON_RAYAS_CINTURON/fotos/02_01478110104-a1.jpg",
+      "/assets/productos/Zara/FALDA_PANTALON_RAYAS_CINTURON/fotos/03_01478110104-e1_solo.jpg",
+      "/assets/productos/Zara/FALDA_PANTALON_RAYAS_CINTURON/fotos/04_01478110104-e2.jpg"
+    ],
+    "logoPath": "/assets/logos/Zara.png",
+    "category": "inferior",
+    "subcategory": "faldas",
+    "description": null,
+    "relatedProductIDs": [],
+    "color": "azul",
+    "style": "Sin información",
+    "material": "Sin información",
+    "season": "PV",
+    "targetAudience": "mujer",
+    "url": "https://www.zara.com/es/es/falda-pantalon-rayas-cinturon-p01478110.html?v1=473662384&v2=2420454",
+    "stock": 50,
+    "featured": false,
+    "active": true
+  },
+  {
+    "id": "VESTIDO_MIDI_PLIEGUES_ZW_COLLECTION",
+    "brand": "Zara",
+    "title": "VESTIDO MIDI PLIEGUES ZW COLLECTION",
+    "price": 49.95,
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XXL"
+    ],
+    "imagePaths": [
+      "/assets/productos/Zara/VESTIDO_MIDI_PLIEGUES_ZW_COLLECTION/fotos/01_04333041700-p.jpg",
+      "/assets/productos/Zara/VESTIDO_MIDI_PLIEGUES_ZW_COLLECTION/fotos/02_04333041700-a1.jpg",
+      "/assets/productos/Zara/VESTIDO_MIDI_PLIEGUES_ZW_COLLECTION/fotos/03_04333041700-a2.jpg",
+      "/assets/productos/Zara/VESTIDO_MIDI_PLIEGUES_ZW_COLLECTION/fotos/04_04333041700-a3.jpg",
+      "/assets/productos/Zara/VESTIDO_MIDI_PLIEGUES_ZW_COLLECTION/fotos/05_04333041700-e1_solo.jpg",
+      "/assets/productos/Zara/VESTIDO_MIDI_PLIEGUES_ZW_COLLECTION/fotos/06_04333041700-e2.jpg"
+    ],
+    "logoPath": "/assets/logos/Zara.png",
+    "category": "vestido",
+    "subcategory": "vestidos",
+    "description": null,
+    "relatedProductIDs": [],
+    "color": "marrón",
+    "style": "Sin información",
+    "material": "Sin información",
+    "season": "PV",
+    "targetAudience": "mujer",
+    "url": "https://www.zara.com/es/es/vestido-midi-pliegues-zw-collection-p04333041.html?v1=455947787&v2=2420896",
+    "stock": 50,
+    "featured": false,
+    "active": true
+  },
+  {
+    "id": "PANTALON_SATINADO_ABERTURAS_LATERALES",
+    "brand": "Mango",
+    "title": "PANTALÓN SATINADO ABERTURAS LATERALES",
+    "price": 59.99,
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "imagePaths": [
+      "/assets/productos/Mango/PANTALON_SATINADO_ABERTURAS_LATERALES/fotos/01_image.jpg",
+      "/assets/productos/Mango/PANTALON_SATINADO_ABERTURAS_LATERALES/fotos/02_image.jpg",
+      "/assets/productos/Mango/PANTALON_SATINADO_ABERTURAS_LATERALES/fotos/03_image.jpg",
+      "/assets/productos/Mango/PANTALON_SATINADO_ABERTURAS_LATERALES/fotos/04_image.jpg",
+      "/assets/productos/Mango/PANTALON_SATINADO_ABERTURAS_LATERALES/fotos/05_image_solo.jpg"
+    ],
+    "logoPath": "/assets/logos/Mango.png",
+    "category": "inferior",
+    "subcategory": "pantalones",
+    "description": "Tejido satinado. Diseño largo. Diseño recto. Tiro medio. Cintura con goma elástica. Dos bolsillos laterales. Detalle costuras. Aberturas laterales en el bajo. Sin cierre. Forro interior. Colección Selection.\n\nUna selección de prendas refinadas, confeccionadas con tejidos de calidad para construir un armario femenino y contemporáneo\n\nREF. 17006364",
+    "relatedProductIDs": [
+      "ABRIGO_REVERSIBLE_PELO_100_PIEL",
+      "CAMISETA_ALGODON_MANGA_CORTA"
+    ],
+    "color": "crema",
+    "style": "Sin información",
+    "material": "goma",
+    "season": "All-season",
+    "targetAudience": "mujer",
+    "url": "https://shop.mango.com/es/es/p/mujer/pantalones/pantalon-de-vestir/pantalon-satinado-aberturas-laterales_17006364?c=10",
+    "stock": 50,
+    "featured": false,
+    "active": true
+  },
+  {
+    "id": "ABRIGO_LANA_DOBLE_BOTONADURA",
+    "brand": "Mango",
+    "title": "Abrigo lana doble botonadura",
+    "price": 199.99,
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "imagePaths": [
+      "/assets/productos/Mango/ABRIGO_LANA_DOBLE_BOTONADURA/fotos/01_17045824_09.jpg",
+      "/assets/productos/Mango/ABRIGO_LANA_DOBLE_BOTONADURA/fotos/02_17045824_09-99999999_01.jpg",
+      "/assets/productos/Mango/ABRIGO_LANA_DOBLE_BOTONADURA/fotos/03_17045824_09_D2.jpg",
+      "/assets/productos/Mango/ABRIGO_LANA_DOBLE_BOTONADURA/fotos/04_17045824_09_D6.jpg",
+      "/assets/productos/Mango/ABRIGO_LANA_DOBLE_BOTONADURA/fotos/05_17045824_09_D8.jpg",
+      "/assets/productos/Mango/ABRIGO_LANA_DOBLE_BOTONADURA/fotos/06_17045824_09_R.jpg",
+      "/assets/productos/Mango/ABRIGO_LANA_DOBLE_BOTONADURA/fotos/07_17045824_09_B_solo.jpg"
+    ],
+    "logoPath": "/assets/logos/Mango.png",
+    "category": "abrigo",
+    "subcategory": "abrigos",
+    "description": "Confeccionado en tejido mezcla de lana, este diseño largo y recto presenta un cuello camisero y manga larga con puño abotonado. Incluye trabillas en los hombros, dos bolsillos laterales y cinturón tipo batín. Tiene forro interior en las mangas y cierre de doble botonadura. Colección Selection\n\nUna selección de prendas refinadas, confeccionadas con tejidos de calidad para construir un armario femenino y contemporáneo",
+    "relatedProductIDs": [
+      "BOTA_ALTA_PIEL_TIRAS"
+    ],
+    "color": "beige",
+    "style": "Sin información",
+    "material": "lana",
+    "season": "OI",
+    "targetAudience": "mujer",
+    "url": "https://shop.mango.com/es/es/p/mujer/abrigos/abrigos/abrigo-lana-doble-botonadura_17045824",
+    "stock": 50,
+    "featured": false,
+    "active": true
+  },
+  {
+    "id": "SANDALIA_CUNA_TIRAS_CRUZADAS",
+    "brand": "Mango",
+    "title": "SANDALIA CUÑA TIRAS CRUZADAS",
+    "price": 35.99,
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "imagePaths": [
+      "/assets/productos/Mango/SANDALIA_CUNA_TIRAS_CRUZADAS/fotos/01_image_solo.jpg",
+      "/assets/productos/Mango/SANDALIA_CUNA_TIRAS_CRUZADAS/fotos/02_image.jpg",
+      "/assets/productos/Mango/SANDALIA_CUNA_TIRAS_CRUZADAS/fotos/03_image.jpg",
+      "/assets/productos/Mango/SANDALIA_CUNA_TIRAS_CRUZADAS/fotos/04_image.jpg",
+      "/assets/productos/Mango/SANDALIA_CUNA_TIRAS_CRUZADAS/fotos/05_image.jpg",
+      "/assets/productos/Mango/SANDALIA_CUNA_TIRAS_CRUZADAS/fotos/06_image.jpg",
+      "/assets/productos/Mango/SANDALIA_CUNA_TIRAS_CRUZADAS/fotos/07_image.jpg"
+    ],
+    "logoPath": "/assets/logos/Mango.png",
+    "category": "calzado",
+    "subcategory": "sandalias",
+    "description": "Diseño de tiras cruzadas. Puntera abierta. Tacón estilo cuña. El tacón mide 8 cm. Sin cierre. Exclusivo Online.\n\nREF. 17072916",
+    "relatedProductIDs": [],
+    "color": "negro",
+    "style": "Sin información",
+    "material": "Sin información",
+    "season": "PV",
+    "targetAudience": "mujer",
+    "url": "https://shop.mango.com/es/es/p/mujer/zapatos/sandalias/sandalia-cuna-tiras-cruzadas_17072916",
+    "stock": 50,
+    "featured": false,
+    "active": true
+  },
+  {
+    "id": "CAMISETA_ALGODON_MANGA_CORTA",
+    "brand": "Mango",
+    "title": "CAMISETA ALGODÓN MANGA CORTA",
+    "price": 19.99,
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "imagePaths": [
+      "/assets/productos/Mango/CAMISETA_ALGODON_MANGA_CORTA/fotos/01_image.jpg",
+      "/assets/productos/Mango/CAMISETA_ALGODON_MANGA_CORTA/fotos/02_image.jpg",
+      "/assets/productos/Mango/CAMISETA_ALGODON_MANGA_CORTA/fotos/03_image.jpg",
+      "/assets/productos/Mango/CAMISETA_ALGODON_MANGA_CORTA/fotos/04_image.jpg",
+      "/assets/productos/Mango/CAMISETA_ALGODON_MANGA_CORTA/fotos/05_image_solo.jpg",
+      "/assets/productos/Mango/CAMISETA_ALGODON_MANGA_CORTA/fotos/06_image.jpg"
+    ],
+    "logoPath": "/assets/logos/Mango.png",
+    "category": "superior",
+    "subcategory": "camisetas",
+    "description": "Confeccionada en tejido mezcla de algodón, esta prenda presenta un diseño recto con cuello redondo y manga corta. Cuenta con un pantalón a conjunto para un total look cómodo y sencillo. Disponible en tallas Plus\n\nREF. 17014099",
+    "relatedProductIDs": [
+      "PANTALON_RECTO_ALGODON"
+    ],
+    "color": "crema",
+    "style": "Sin información",
+    "material": "algodón",
+    "season": "All-season",
+    "targetAudience": "mujer",
+    "url": "https://shop.mango.com/es/es/p/mujer/camisetas/manga-corta/camiseta-algodon-manga-corta_17014099",
+    "stock": 50,
+    "featured": false,
+    "active": true
+  },
+  {
+    "id": "BOLSO_HOMBRO_MEDIANO_TRENZADO",
+    "brand": "Mango",
+    "title": "BOLSO HOMBRO MEDIANO TRENZADO",
+    "price": 39.99,
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "imagePaths": [
+      "/assets/productos/Mango/BOLSO_HOMBRO_MEDIANO_TRENZADO/fotos/01_image.jpg",
+      "/assets/productos/Mango/BOLSO_HOMBRO_MEDIANO_TRENZADO/fotos/02_image_solo.jpg",
+      "/assets/productos/Mango/BOLSO_HOMBRO_MEDIANO_TRENZADO/fotos/03_image.jpg",
+      "/assets/productos/Mango/BOLSO_HOMBRO_MEDIANO_TRENZADO/fotos/04_image.jpg",
+      "/assets/productos/Mango/BOLSO_HOMBRO_MEDIANO_TRENZADO/fotos/05_image.jpg",
+      "/assets/productos/Mango/BOLSO_HOMBRO_MEDIANO_TRENZADO/fotos/06_image.jpg"
+    ],
+    "logoPath": "/assets/logos/Mango.png",
+    "category": "accesorio",
+    "subcategory": "bolsos",
+    "description": "Tamaño mediano. Diseño trenzado. Dos asas largas de hombro. Bolsa interior. Cierre ajustable.\n\n32.0x15.0x10.0 cm (Largo x Alto x Ancho).\n\nREF. 17041179",
+    "relatedProductIDs": [
+      "PANTALON_RECTO_ALGODON",
+      "TOP_ALGODON_VOLANTE"
+    ],
+    "color": "blanco",
+    "style": "Sin información",
+    "material": "Sin información",
+    "season": "All-season",
+    "targetAudience": "mujer",
+    "url": "https://shop.mango.com/es/es/p/mujer/bolsos/pequenos/bolso-hombro-mediano-trenzado_17041179?c=02",
+    "stock": 50,
+    "featured": false,
+    "active": true
+  },
+  {
+    "id": "TOP_ALGODON_VOLANTE",
+    "brand": "Mango",
+    "title": "TOP ALGODÓN VOLANTE",
+    "price": 25.99,
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L"
+    ],
+    "imagePaths": [
+      "/assets/productos/Mango/TOP_ALGODON_VOLANTE/fotos/01_image.jpg",
+      "/assets/productos/Mango/TOP_ALGODON_VOLANTE/fotos/02_image.jpg",
+      "/assets/productos/Mango/TOP_ALGODON_VOLANTE/fotos/03_image.jpg",
+      "/assets/productos/Mango/TOP_ALGODON_VOLANTE/fotos/04_image.jpg",
+      "/assets/productos/Mango/TOP_ALGODON_VOLANTE/fotos/05_image.jpg",
+      "/assets/productos/Mango/TOP_ALGODON_VOLANTE/fotos/06_image_solo.jpg",
+      "/assets/productos/Mango/TOP_ALGODON_VOLANTE/fotos/07_image.jpg"
+    ],
+    "logoPath": "/assets/logos/Mango.png",
+    "category": "superior",
+    "subcategory": "tops",
+    "description": "Tejido 100% algodón. Diseño recto. Diseño crop. Sin mangas. Tirantes finos con cierre de lazo. Panel fruncido elástico en la parte posterior. Detalle de volante en la cintura. Total look.\n\nREF. 17071191",
+    "relatedProductIDs": [
+      "BOLSO_HOMBRO_MEDIANO_TRENZADO",
+      "PANTALON_RECTO_ALGODON"
+    ],
+    "color": "blanco",
+    "style": "Sin información",
+    "material": "algodón, ante",
+    "season": "All-season",
+    "targetAudience": "mujer",
+    "url": "https://shop.mango.com/es/es/p/mujer/tops/top-algodon-volante_17071191",
+    "stock": 50,
+    "featured": false,
+    "active": true
+  },
+  {
+    "id": "CHAQUETA_BOMBER_100_PIEL",
+    "brand": "Mango",
+    "title": "CHAQUETA BOMBER 100% PIEL",
+    "price": 199.99,
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "imagePaths": [
+      "/assets/productos/Mango/CHAQUETA_BOMBER_100_PIEL/fotos/01_image.jpg",
+      "/assets/productos/Mango/CHAQUETA_BOMBER_100_PIEL/fotos/02_image.jpg",
+      "/assets/productos/Mango/CHAQUETA_BOMBER_100_PIEL/fotos/03_image.jpg",
+      "/assets/productos/Mango/CHAQUETA_BOMBER_100_PIEL/fotos/04_image.jpg",
+      "/assets/productos/Mango/CHAQUETA_BOMBER_100_PIEL/fotos/05_image.jpg",
+      "/assets/productos/Mango/CHAQUETA_BOMBER_100_PIEL/fotos/06_image_solo.jpg"
+    ],
+    "logoPath": "/assets/logos/Mango.png",
+    "category": "superior",
+    "subcategory": "chaquetas",
+    "description": "100% piel ovino. Diseño corto. Cuello camisero. Manga larga con puños elásticos. Dos bolsillos laterales. Cierre delantero con botones. Forro interior. Colección Selection.\n\nUna selección de prendas refinadas, confeccionadas con tejidos de calidad para construir un armario femenino y contemporáneo\n\nREF. 17096342",
+    "relatedProductIDs": [
+      "PANTALON_SATINADO_ABERTURAS_LATERALES"
+    ],
+    "color": "negro",
+    "style": "Sin información",
+    "material": "cuero, ante",
+    "season": "OI",
+    "targetAudience": "mujer",
+    "url": "https://shop.mango.com/es/es/p/mujer/chaquetas/piel/chaqueta-bomber-100-piel_17096342",
+    "stock": 50,
+    "featured": false,
+    "active": true
+  },
+  {
+    "id": "ABRIGO_REVERSIBLE_PELO_100_PIEL",
+    "brand": "Mango",
+    "title": "ABRIGO REVERSIBLE PELO 100% PIEL",
+    "price": 1599.99,
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "imagePaths": [
+      "/assets/productos/Mango/ABRIGO_REVERSIBLE_PELO_100_PIEL/fotos/01_image.jpg",
+      "/assets/productos/Mango/ABRIGO_REVERSIBLE_PELO_100_PIEL/fotos/02_image.jpg",
+      "/assets/productos/Mango/ABRIGO_REVERSIBLE_PELO_100_PIEL/fotos/03_image.jpg",
+      "/assets/productos/Mango/ABRIGO_REVERSIBLE_PELO_100_PIEL/fotos/04_image.jpg",
+      "/assets/productos/Mango/ABRIGO_REVERSIBLE_PELO_100_PIEL/fotos/05_image.jpg",
+      "/assets/productos/Mango/ABRIGO_REVERSIBLE_PELO_100_PIEL/fotos/06_image_solo.jpg",
+      "/assets/productos/Mango/ABRIGO_REVERSIBLE_PELO_100_PIEL/fotos/07_image.jpg"
+    ],
+    "logoPath": "/assets/logos/Mango.png",
+    "category": "abrigo",
+    "subcategory": "abrigos",
+    "description": "Confeccionado en 100% piel bovino con pelo. Este diseño largo y recto es reversible. Presenta un cuello pico de solapas con muesca, manga larga y dos bolsillos laterales. Colección Selection\n\nUna selección de prendas refinadas, confeccionadas con tejidos de calidad para construir un armario femenino y contemporáneo\n\nREF. 17086357",
+    "relatedProductIDs": [
+      "CAMISETA_ALGODON_MANGA_CORTA",
+      "PANTALON_SATINADO_ABERTURAS_LATERALES"
+    ],
+    "color": "blanco",
+    "style": "Sin información",
+    "material": "piel",
+    "season": "OI",
+    "targetAudience": "mujer",
+    "url": "https://shop.mango.com/es/es/p/mujer/abrigos/abrigos/abrigo-reversible-pelo-100-piel_17086357",
+    "stock": 50,
+    "featured": false,
+    "active": true
+  },
+  {
+    "id": "TRENCH_LARGO_DOBLE_BOTONADURA",
+    "brand": "Mango",
+    "title": "Trench largo doble botonadura",
+    "price": 79.99,
+    "sizes": [
+      "XXS",
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "imagePaths": [
+      "/assets/productos/Mango/TRENCH_LARGO_DOBLE_BOTONADURA/fotos/01_17064117_08-99999999_01.jpg",
+      "/assets/productos/Mango/TRENCH_LARGO_DOBLE_BOTONADURA/fotos/02_17064117_08.jpg",
+      "/assets/productos/Mango/TRENCH_LARGO_DOBLE_BOTONADURA/fotos/03_17064117_08_R.jpg",
+      "/assets/productos/Mango/TRENCH_LARGO_DOBLE_BOTONADURA/fotos/04_17064117_08_D2.jpg",
+      "/assets/productos/Mango/TRENCH_LARGO_DOBLE_BOTONADURA/fotos/05_17064117_08_D8.jpg",
+      "/assets/productos/Mango/TRENCH_LARGO_DOBLE_BOTONADURA/fotos/06_17064117_08_B_solo.jpg"
+    ],
+    "logoPath": "/assets/logos/Mango.png",
+    "category": "abrigo",
+    "subcategory": "abrigos",
+    "description": "Confeccionado en tejido de algodón, este diseño largo y recto presenta un estilo oversize con cuello de solapa ancha. Incluye manga larga abotonada, cinturón desmontable, dos bolsillos laterales y cierre de doble botonadura. Esta prenda es un indispensable de fondo de armario\n\nREF. 17064117",
+    "relatedProductIDs": [],
+    "color": "beige",
+    "style": "street",
+    "material": "algodón",
+    "season": "All-season",
+    "targetAudience": "mujer",
+    "url": "https://shop.mango.com/es/es/p/mujer/gabardinas-y-parkas/gabardinas/trench-largo-doble-botonadura_17064117?c=08",
+    "stock": 50,
+    "featured": false,
+    "active": true
+  },
+  {
+    "id": "BOTA_ALTA_PIEL_TIRAS",
+    "brand": "Mango",
+    "title": "BOTA ALTA PIEL TIRAS",
+    "price": 299.99,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "imagePaths": [
+      "/assets/productos/Mango/BOTA_ALTA_PIEL_TIRAS/fotos/01_image_solo.jpg",
+      "/assets/productos/Mango/BOTA_ALTA_PIEL_TIRAS/fotos/02_image.jpg",
+      "/assets/productos/Mango/BOTA_ALTA_PIEL_TIRAS/fotos/03_image.jpg",
+      "/assets/productos/Mango/BOTA_ALTA_PIEL_TIRAS/fotos/04_image.jpg",
+      "/assets/productos/Mango/BOTA_ALTA_PIEL_TIRAS/fotos/05_image.jpg",
+      "/assets/productos/Mango/BOTA_ALTA_PIEL_TIRAS/fotos/06_image.jpg"
+    ],
+    "logoPath": "/assets/logos/Mango.png",
+    "category": "calzado",
+    "subcategory": "botas",
+    "description": "Piel ovino y piel bovino. Caña alta. Punta redonda. Tiras decorativas con hebilla. Tacón de aguja. Sin cierre. Forro y plantilla de piel. El tacón mide 8,5 cm. Exclusivo Online. Colección Selection.\n\nUna selección de prendas refinadas, confeccionadas con tejidos de calidad para construir un armario femenino y contemporáneo",
+    "relatedProductIDs": [
+      "CHAQUETA_BOMBER_100_PIEL"
+    ],
+    "color": "negro",
+    "style": "Sin información",
+    "material": "cuero",
+    "season": "All-season",
+    "targetAudience": "mujer",
+    "url": "https://shop.mango.com/es/es/p/mujer/zapatos/botas-y-botines/bota-alta-piel-tiras_17066355",
+    "stock": 50,
+    "featured": false,
+    "active": true
+  },
+  {
+    "id": "PANTALON_RECTO_ALGODON",
+    "brand": "Mango",
+    "title": "PANTALÓN RECTO ALGODÓN",
+    "price": 29.99,
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L"
+    ],
+    "imagePaths": [
+      "/assets/productos/Mango/PANTALON_RECTO_ALGODON/fotos/01_image.jpg",
+      "/assets/productos/Mango/PANTALON_RECTO_ALGODON/fotos/02_image.jpg",
+      "/assets/productos/Mango/PANTALON_RECTO_ALGODON/fotos/03_image.jpg",
+      "/assets/productos/Mango/PANTALON_RECTO_ALGODON/fotos/04_image.jpg",
+      "/assets/productos/Mango/PANTALON_RECTO_ALGODON/fotos/05_image_solo.jpg",
+      "/assets/productos/Mango/PANTALON_RECTO_ALGODON/fotos/06_image.jpg"
+    ],
+    "logoPath": "/assets/logos/Mango.png",
+    "category": "inferior",
+    "subcategory": "pantalones",
+    "description": "Tejido 100% algodón. Diseño largo. Diseño recto. Tiro medio. Cinco bolsillos. Cierre de cremallera y botón. Total look.\n\nREF. 17091197",
+    "relatedProductIDs": [
+      "BOLSO_HOMBRO_MEDIANO_TRENZADO"
+    ],
+    "color": "crema",
+    "style": "Sin información",
+    "material": "algodón",
+    "season": "All-season",
+    "targetAudience": "mujer",
+    "url": "https://shop.mango.com/es/es/p/mujer/pantalones/straight/pantalon-recto-algodon_17091197",
+    "stock": 50,
+    "featured": false,
+    "active": true
+  },
+  {
+    "id": "SOMM_OFF_SAND_BAGGY_SWEATPANTS",
+    "brand": "Eme Studios",
+    "title": "Somm Off Sand Baggy Sweatpants",
+    "price": 75.0,
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "imagePaths": [
+      "/assets/productos/Eme Studios/SOMM_OFF_SAND_BAGGY_SWEATPANTS/fotos/01_image.jpg",
+      "/assets/productos/Eme Studios/SOMM_OFF_SAND_BAGGY_SWEATPANTS/fotos/02_image.jpg",
+      "/assets/productos/Eme Studios/SOMM_OFF_SAND_BAGGY_SWEATPANTS/fotos/03_image.jpg",
+      "/assets/productos/Eme Studios/SOMM_OFF_SAND_BAGGY_SWEATPANTS/fotos/04_image.jpg",
+      "/assets/productos/Eme Studios/SOMM_OFF_SAND_BAGGY_SWEATPANTS/fotos/05_image.jpg",
+      "/assets/productos/Eme Studios/SOMM_OFF_SAND_BAGGY_SWEATPANTS/fotos/06_image.jpg",
+      "/assets/productos/Eme Studios/SOMM_OFF_SAND_BAGGY_SWEATPANTS/fotos/07_image_solo.jpg",
+      "/assets/productos/Eme Studios/SOMM_OFF_SAND_BAGGY_SWEATPANTS/fotos/08_image.jpg"
+    ],
+    "logoPath": "/assets/logos/Eme Studios.png",
+    "category": "inferior",
+    "subcategory": "pantalones",
+    "description": "Composition: Top layer 68% cotton, 27% polyester, 5% elastane ; Under layer: 100% cotton\nBeige with brown details.\nSmall embroidered logo on the front.\nSide pockets.",
+    "relatedProductIDs": [],
+    "color": "crema",
+    "style": "street",
+    "material": "algodón, poliéster",
+    "season": "All-season",
+    "targetAudience": "mujer",
+    "url": "https://emestudios.com/products/somm-off-sand-baggy-sweatpants",
+    "stock": 50,
+    "featured": false,
+    "active": true
+  },
+  {
+    "id": "MASTER_AQUA_GREEN_KNIT_SWEATER",
+    "brand": "Eme Studios",
+    "title": "Master Aqua Green Knit Sweater",
+    "price": 85.0,
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "imagePaths": [
+      "/assets/productos/Eme Studios/MASTER_AQUA_GREEN_KNIT_SWEATER/fotos/01_8435674658622_09000.jpg",
+      "/assets/productos/Eme Studios/MASTER_AQUA_GREEN_KNIT_SWEATER/fotos/02_8435674658622_08990.jpg",
+      "/assets/productos/Eme Studios/MASTER_AQUA_GREEN_KNIT_SWEATER/fotos/03_8435674658622_09005.jpg",
+      "/assets/productos/Eme Studios/MASTER_AQUA_GREEN_KNIT_SWEATER/fotos/04_8435674658622_09018.jpg",
+      "/assets/productos/Eme Studios/MASTER_AQUA_GREEN_KNIT_SWEATER/fotos/05_8435674658622_09033.jpg",
+      "/assets/productos/Eme Studios/MASTER_AQUA_GREEN_KNIT_SWEATER/fotos/06_2025_08_08EME5841copia_solo.jpg"
+    ],
+    "logoPath": "/assets/logos/Eme Studios.png",
+    "category": "superior",
+    "subcategory": "sudaderas",
+    "description": "100% Cotton\nBoxy and slightly cropped cut\nHeavyweight knit\nGraphics with jacquard structure\nEmbroidery detail",
+    "relatedProductIDs": [
+      "SOMM_OFF_SAND_BAGGY_SWEATPANTS"
+    ],
+    "color": "verde",
+    "style": "Sin información",
+    "material": "algodón",
+    "season": "All-season",
+    "targetAudience": "mujer",
+    "url": "https://emestudios.com/products/master-aqua-green-knit-sweater",
+    "stock": 50,
+    "featured": false,
+    "active": true
+  },
+  {
+    "id": "THRILL_MUSTARD_ZIPPER_KNIT",
+    "brand": "Eme Studios",
+    "title": "Thrill Mustard Zipper Knit",
+    "price": 89.0,
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "imagePaths": [
+      "/assets/productos/Eme Studios/THRILL_MUSTARD_ZIPPER_KNIT/fotos/01_04_30fbad04-5d8d-42d2-971d-568e42977303.jpg",
+      "/assets/productos/Eme Studios/THRILL_MUSTARD_ZIPPER_KNIT/fotos/02_8435674669376_09356.jpg",
+      "/assets/productos/Eme Studios/THRILL_MUSTARD_ZIPPER_KNIT/fotos/03_8435674669376_09380.jpg",
+      "/assets/productos/Eme Studios/THRILL_MUSTARD_ZIPPER_KNIT/fotos/04_8435674669376_09390.jpg",
+      "/assets/productos/Eme Studios/THRILL_MUSTARD_ZIPPER_KNIT/fotos/05_8435674669376_09399.jpg",
+      "/assets/productos/Eme Studios/THRILL_MUSTARD_ZIPPER_KNIT/fotos/06_8435674669376_2copia.jpg",
+      "/assets/productos/Eme Studios/THRILL_MUSTARD_ZIPPER_KNIT/fotos/07_8435674669376_1copia_solo.jpg"
+    ],
+    "logoPath": "/assets/logos/Eme Studios.png",
+    "category": "superior",
+    "subcategory": "sudaderas",
+    "description": "100% Cotton\nBoxy and slightly cropped cut\nHeavyweight knit\nMetal zip detail\nGraphics with jacquard structure",
+    "relatedProductIDs": [
+      "SOMM_OFF_SAND_BAGGY_SWEATPANTS"
+    ],
+    "color": "azul",
+    "style": "Sin información",
+    "material": "algodón",
+    "season": "All-season",
+    "targetAudience": "mujer",
+    "url": "https://emestudios.com/products/thrill-mustard-zipper-knit",
+    "stock": 50,
+    "featured": false,
+    "active": true
+  },
+  {
+    "id": "TANK_TOP_LEMON_WOMAN",
+    "brand": "Eme Studios",
+    "title": "Tank Top Lemon Woman",
+    "price": 32.0,
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "imagePaths": [
+      "/assets/productos/Eme Studios/TANK_TOP_LEMON_WOMAN/fotos/01_image.jpg",
+      "/assets/productos/Eme Studios/TANK_TOP_LEMON_WOMAN/fotos/02_image.jpg",
+      "/assets/productos/Eme Studios/TANK_TOP_LEMON_WOMAN/fotos/03_image.jpg",
+      "/assets/productos/Eme Studios/TANK_TOP_LEMON_WOMAN/fotos/04_image.jpg",
+      "/assets/productos/Eme Studios/TANK_TOP_LEMON_WOMAN/fotos/05_image.jpg",
+      "/assets/productos/Eme Studios/TANK_TOP_LEMON_WOMAN/fotos/06_image_solo.jpg",
+      "/assets/productos/Eme Studios/TANK_TOP_LEMON_WOMAN/fotos/07_image.jpg"
+    ],
+    "logoPath": "/assets/logos/Eme Studios.png",
+    "category": "superior",
+    "subcategory": "tops",
+    "description": "Fitted silhouette with a flattering cropped length\nRibbed cotton blend for a soft, stretchy, and breathable feel\nRacerback cut for a sporty and clean finish\nEmbroidered EME STUDIOS logo on the chest",
+    "relatedProductIDs": [],
+    "color": "amarillo",
+    "style": "sport",
+    "material": "algodón",
+    "season": "All-season",
+    "targetAudience": "mujer",
+    "url": "https://emestudios.com/products/tank-top-lemon-woman?pr_prod_strat=jac&pr_rec_id=a436120b9&pr_rec_pid=10114291237198&pr_ref_pid=10114290909518&pr_seq=uniform",
+    "stock": 50,
+    "featured": false,
+    "active": true
+  },
+  {
+    "id": "SANDALIA_PLANA_METALIZADA",
+    "brand": "Massimo Dutti",
+    "title": "SANDALIA PLANA METALIZADA",
+    "price": 79.95,
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "imagePaths": [
+      "/assets/productos/Massimo Dutti/SANDALIA_PLANA_METALIZADA/fotos/01_image.jpg",
+      "/assets/productos/Massimo Dutti/SANDALIA_PLANA_METALIZADA/fotos/02_image.jpg",
+      "/assets/productos/Massimo Dutti/SANDALIA_PLANA_METALIZADA/fotos/03_image.jpg",
+      "/assets/productos/Massimo Dutti/SANDALIA_PLANA_METALIZADA/fotos/04_image.jpg",
+      "/assets/productos/Massimo Dutti/SANDALIA_PLANA_METALIZADA/fotos/05_image.jpg",
+      "/assets/productos/Massimo Dutti/SANDALIA_PLANA_METALIZADA/fotos/06_image.jpg"
+    ],
+    "logoPath": "/assets/logos/Massimo Dutti.png",
+    "category": "calzado",
+    "subcategory": "sandalias",
+    "description": "Realizado en piel de vacuno. Acabado metalizado. Posición para dedo. Cierre mediante hebilla lateral. Forro interior trabajado con piel. Incluye plantilla AIRFIT®: Plantilla técnica flexible de espuma, diseñada para ofrecer un mayor confort.\n\nRef. 1703/650",
+    "relatedProductIDs": [],
+    "color": "plateado",
+    "style": "Sin información",
+    "material": "cuero, ante",
+    "season": "PV",
+    "targetAudience": "mujer",
+    "url": "https://www.massimodutti.com/es/sandalia-plana-metalizada-l11703650",
+    "stock": 50,
+    "featured": false,
+    "active": true
+  },
+  {
+    "id": "FALDA_MIDI_PIEL_ANTE",
+    "brand": "Massimo Dutti",
+    "title": "FALDA MIDI PIEL ANTE",
+    "price": 249.0,
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "imagePaths": [
+      "/assets/productos/Massimo Dutti/FALDA_MIDI_PIEL_ANTE/fotos/01_image.jpg",
+      "/assets/productos/Massimo Dutti/FALDA_MIDI_PIEL_ANTE/fotos/02_image.jpg",
+      "/assets/productos/Massimo Dutti/FALDA_MIDI_PIEL_ANTE/fotos/03_image.jpg",
+      "/assets/productos/Massimo Dutti/FALDA_MIDI_PIEL_ANTE/fotos/04_image.jpg",
+      "/assets/productos/Massimo Dutti/FALDA_MIDI_PIEL_ANTE/fotos/05_image.jpg",
+      "/assets/productos/Massimo Dutti/FALDA_MIDI_PIEL_ANTE/fotos/06_image_solo.jpg",
+      "/assets/productos/Massimo Dutti/FALDA_MIDI_PIEL_ANTE/fotos/07_image.jpg"
+    ],
+    "logoPath": "/assets/logos/Massimo Dutti.png",
+    "category": "inferior",
+    "subcategory": "faldas",
+    "description": "Falda midi confeccionada en piel caprina con acabado en ante. Cierre mediante cremallera lateral. Bajo con abertura en la parte posterior. Forro interior. Detalle de costuras .\n\nRef. 5338/998",
+    "relatedProductIDs": [
+      "BOLSO_MAXI_SHOPPER_TRENZADO_PIEL_NAPA",
+      "TOP_PUNTO_100_ALGODON"
+    ],
+    "color": "marrón",
+    "style": "Sin información",
+    "material": "cuero, ante",
+    "season": "All-season",
+    "targetAudience": "mujer",
+    "url": "https://www.massimodutti.com/es/falda-midi-piel-ante-l05338998",
+    "stock": 50,
+    "featured": false,
+    "active": true
+  },
+  {
+    "id": "AMERICANA_PIEL_ANTE_PESPUNTE",
+    "brand": "Massimo Dutti",
+    "title": "Americana piel ante pespunte",
+    "price": 299.0,
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L"
+    ],
+    "imagePaths": [
+      "/assets/productos/Massimo Dutti/AMERICANA_PIEL_ANTE_PESPUNTE/fotos/01_04720560778-o6.jpg",
+      "/assets/productos/Massimo Dutti/AMERICANA_PIEL_ANTE_PESPUNTE/fotos/02_04720560778-o11.jpg",
+      "/assets/productos/Massimo Dutti/AMERICANA_PIEL_ANTE_PESPUNTE/fotos/03_04720560778-o10.jpg",
+      "/assets/productos/Massimo Dutti/AMERICANA_PIEL_ANTE_PESPUNTE/fotos/04_04720560778-o1_solo.jpg"
+    ],
+    "logoPath": "/assets/logos/Massimo Dutti.png",
+    "category": "superior",
+    "subcategory": "chaquetas",
+    "description": "Americana confeccionada en piel caprina con acabado ante. Cuello con solapa. Cierre mediante cuatro botones. Dos bolsillos de parche. Detalle de pespunte.\n\nRef. 4720/560",
+    "relatedProductIDs": [
+      "JEANS_STRAIGHT_FIT_TIRO_BAJO",
+      "JERSEY_PUNTO_CUELLO_PICO_CON_LANA_GRIS",
+      "SANDALIA_PLANA_METALIZADA"
+    ],
+    "color": "marrón",
+    "style": "Sin información",
+    "material": "cuero, ante",
+    "season": "All-season",
+    "targetAudience": "mujer",
+    "url": "https://www.massimodutti.com/es/americana-piel-ante-pespunte-l04720560?pelement=53026438",
+    "stock": 50,
+    "featured": false,
+    "active": true
+  },
+  {
+    "id": "JERSEY_PUNTO_CUELLO_PICO_CON_LANA_GRIS",
+    "brand": "Massimo Dutti",
+    "title": "JERSEY PUNTO CUELLO PICO CON LANA GRIS",
+    "price": 39.95,
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "imagePaths": [
+      "/assets/productos/Massimo Dutti/JERSEY_PUNTO_CUELLO_PICO_CON_LANA_GRIS/fotos/01_image.jpg",
+      "/assets/productos/Massimo Dutti/JERSEY_PUNTO_CUELLO_PICO_CON_LANA_GRIS/fotos/02_image.jpg",
+      "/assets/productos/Massimo Dutti/JERSEY_PUNTO_CUELLO_PICO_CON_LANA_GRIS/fotos/03_image.jpg",
+      "/assets/productos/Massimo Dutti/JERSEY_PUNTO_CUELLO_PICO_CON_LANA_GRIS/fotos/04_image.jpg",
+      "/assets/productos/Massimo Dutti/JERSEY_PUNTO_CUELLO_PICO_CON_LANA_GRIS/fotos/05_image.jpg",
+      "/assets/productos/Massimo Dutti/JERSEY_PUNTO_CUELLO_PICO_CON_LANA_GRIS/fotos/06_image_solo.jpg",
+      "/assets/productos/Massimo Dutti/JERSEY_PUNTO_CUELLO_PICO_CON_LANA_GRIS/fotos/07_image.jpg",
+      "/assets/productos/Massimo Dutti/JERSEY_PUNTO_CUELLO_PICO_CON_LANA_GRIS/fotos/08_image.jpg"
+    ],
+    "logoPath": "/assets/logos/Massimo Dutti.png",
+    "category": "superior",
+    "subcategory": "jerséis",
+    "description": "Jersey confeccionado en tejido de punto con lana. Cuello pico. Manga larga. Acabados en rib.\n\nRef. 5667/580",
+    "relatedProductIDs": [
+      "FALDA_MIDI_DETALLE_COSTURAS_MEZCLA_ALGODON",
+      "MOCASIN_GRABADO_COCO"
+    ],
+    "color": "gris",
+    "style": "Sin información",
+    "material": "lana",
+    "season": "OI",
+    "targetAudience": "mujer",
+    "url": "https://www.massimodutti.com/es/jersey-punto-cuello-pico-con-lana-l05667580?colorId=809",
+    "stock": 50,
+    "featured": false,
+    "active": true
+  },
+  {
+    "id": "PANTALON_FLARE_FIT_PIEL_NAPA",
+    "brand": "Massimo Dutti",
+    "title": "PANTALÓN FLARE FIT PIEL NAPA",
+    "price": 399.0,
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "imagePaths": [
+      "/assets/productos/Massimo Dutti/PANTALON_FLARE_FIT_PIEL_NAPA/fotos/01_image.jpg",
+      "/assets/productos/Massimo Dutti/PANTALON_FLARE_FIT_PIEL_NAPA/fotos/02_image.jpg",
+      "/assets/productos/Massimo Dutti/PANTALON_FLARE_FIT_PIEL_NAPA/fotos/03_image.jpg",
+      "/assets/productos/Massimo Dutti/PANTALON_FLARE_FIT_PIEL_NAPA/fotos/04_image.jpg",
+      "/assets/productos/Massimo Dutti/PANTALON_FLARE_FIT_PIEL_NAPA/fotos/05_image_solo.jpg",
+      "/assets/productos/Massimo Dutti/PANTALON_FLARE_FIT_PIEL_NAPA/fotos/06_image.jpg"
+    ],
+    "logoPath": "/assets/logos/Massimo Dutti.png",
+    "category": "inferior",
+    "subcategory": "pantalones",
+    "description": "Pantalón Flare fit: este fit ofrece un corte ajustado en la cadera y muslos que se ensancha progresivamente desde la rodilla, creando un efecto acampanado. Pantalón confeccionado en piel ovina con acabado en napa. Tiro medio. Cierre mediante cremallera lateral. Cintura con goma elástica. Forro interior.\n\nRef. 5326/966",
+    "relatedProductIDs": [
+      "CINTURON_PIEL_APLIQUES_BOHO",
+      "TOP_ESTAMPADO_ESCOTE_CRUZADO"
+    ],
+    "color": "marrón",
+    "style": "Sin información",
+    "material": "cuero, ante, goma",
+    "season": "All-season",
+    "targetAudience": "mujer",
+    "url": "https://www.massimodutti.com/es/pantalon-flare-fit-piel-napa-l05326966",
+    "stock": 50,
+    "featured": false,
+    "active": true
+  },
+  {
+    "id": "SANDALIA_ATADA_PIEL",
+    "brand": "Massimo Dutti",
+    "title": "SANDALIA ATADA PIEL",
+    "price": 89.95,
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "imagePaths": [
+      "/assets/productos/Massimo Dutti/SANDALIA_ATADA_PIEL/fotos/01_image_solo.jpg",
+      "/assets/productos/Massimo Dutti/SANDALIA_ATADA_PIEL/fotos/02_image.jpg",
+      "/assets/productos/Massimo Dutti/SANDALIA_ATADA_PIEL/fotos/03_image.jpg",
+      "/assets/productos/Massimo Dutti/SANDALIA_ATADA_PIEL/fotos/04_image.jpg",
+      "/assets/productos/Massimo Dutti/SANDALIA_ATADA_PIEL/fotos/05_image.jpg"
+    ],
+    "logoPath": "/assets/logos/Massimo Dutti.png",
+    "category": "calzado",
+    "subcategory": "sandalias",
+    "description": "Confeccionados en piel ovina con acabado craquelado. Posición para dedo. Cierre mediante tiras atadas al tobillo. Tacón: 3 cm. Incluye plantilla AIRFIT®: Plantilla técnica flexible de espuma, diseñada para ofrecer un mayor confort. Tacón cuadrado.\n\nRef. 1630/650",
+    "relatedProductIDs": [],
+    "color": "negro",
+    "style": "Sin información",
+    "material": "cuero, ante",
+    "season": "PV",
+    "targetAudience": "mujer",
+    "url": "https://www.massimodutti.com/es/sandalia-atada-piel-l11630650",
+    "stock": 50,
+    "featured": false,
+    "active": true
+  },
+  {
+    "id": "PANTALON_CINTURA_ELASTICA_CON_LINO",
+    "brand": "Massimo Dutti",
+    "title": "PANTALÓN CINTURA ELÁSTICA CON LINO",
+    "price": 69.95,
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "imagePaths": [
+      "/assets/productos/Massimo Dutti/PANTALON_CINTURA_ELASTICA_CON_LINO/fotos/01_image.jpg",
+      "/assets/productos/Massimo Dutti/PANTALON_CINTURA_ELASTICA_CON_LINO/fotos/02_image.jpg",
+      "/assets/productos/Massimo Dutti/PANTALON_CINTURA_ELASTICA_CON_LINO/fotos/03_image.jpg",
+      "/assets/productos/Massimo Dutti/PANTALON_CINTURA_ELASTICA_CON_LINO/fotos/04_image.jpg",
+      "/assets/productos/Massimo Dutti/PANTALON_CINTURA_ELASTICA_CON_LINO/fotos/05_image.jpg",
+      "/assets/productos/Massimo Dutti/PANTALON_CINTURA_ELASTICA_CON_LINO/fotos/06_image_solo.jpg",
+      "/assets/productos/Massimo Dutti/PANTALON_CINTURA_ELASTICA_CON_LINO/fotos/07_image.jpg"
+    ],
+    "logoPath": "/assets/logos/Massimo Dutti.png",
+    "category": "inferior",
+    "subcategory": "pantalones",
+    "description": "Pantalón con corte recto. Tiro medio. Cierre cremallera invisible . Cintura con goma elástica. Confeccionado en tejido con lino. Tejido fluido.\n\nRef. 5032/977",
+    "relatedProductIDs": [
+      "CHAQUETA_BOMBER_CUADROS_MEZCLA_LINO"
+    ],
+    "color": "negro",
+    "style": "Sin información",
+    "material": "lino, goma",
+    "season": "All-season",
+    "targetAudience": "mujer",
+    "url": "https://www.massimodutti.com/es/pantalon-cintura-elastica-con-lino-l05032977",
+    "stock": 50,
+    "featured": false,
+    "active": true
+  },
+  {
+    "id": "MOCASIN_GRABADO_COCO",
+    "brand": "Massimo Dutti",
+    "title": "MOCASÍN GRABADO COCO",
+    "price": 89.95,
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "imagePaths": [
+      "/assets/productos/Massimo Dutti/MOCASIN_GRABADO_COCO/fotos/01_image_solo.jpg",
+      "/assets/productos/Massimo Dutti/MOCASIN_GRABADO_COCO/fotos/02_image.jpg",
+      "/assets/productos/Massimo Dutti/MOCASIN_GRABADO_COCO/fotos/03_image.jpg",
+      "/assets/productos/Massimo Dutti/MOCASIN_GRABADO_COCO/fotos/04_image.jpg",
+      "/assets/productos/Massimo Dutti/MOCASIN_GRABADO_COCO/fotos/05_image.jpg",
+      "/assets/productos/Massimo Dutti/MOCASIN_GRABADO_COCO/fotos/06_image.jpg"
+    ],
+    "logoPath": "/assets/logos/Massimo Dutti.png",
+    "category": "calzado",
+    "subcategory": "mocasines",
+    "description": "Realizado en piel de vacuno. Efecto piel de cocodrilo. Interior confeccionado en piel serraje. Antifaz. Incluye plantilla AIRFIT®: Plantilla técnica flexible de espuma, diseñada para ofrecer un mayor confort.\n\nRef. 1518/650",
+    "relatedProductIDs": [],
+    "color": "negro",
+    "style": "Sin información",
+    "material": "cuero",
+    "season": "All-season",
+    "targetAudience": "mujer",
+    "url": "https://www.massimodutti.com/es/mocasin-grabado-coco-l11518650",
+    "stock": 50,
+    "featured": false,
+    "active": true
+  },
+  {
+    "id": "VESTIDO_LARGO_HALTER_ESTAMPADO_RAYAS",
+    "brand": "Massimo Dutti",
+    "title": "Vestido largo halter estampado rayas",
+    "price": 89.95,
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "imagePaths": [
+      "/assets/productos/Massimo Dutti/VESTIDO_LARGO_HALTER_ESTAMPADO_RAYAS/fotos/01_06605848701-o6.jpg",
+      "/assets/productos/Massimo Dutti/VESTIDO_LARGO_HALTER_ESTAMPADO_RAYAS/fotos/02_06605848701-o7.jpg",
+      "/assets/productos/Massimo Dutti/VESTIDO_LARGO_HALTER_ESTAMPADO_RAYAS/fotos/03_06605848701-o8.jpg",
+      "/assets/productos/Massimo Dutti/VESTIDO_LARGO_HALTER_ESTAMPADO_RAYAS/fotos/04_06605848701-o3_solo.jpg"
+    ],
+    "logoPath": "/assets/logos/Massimo Dutti.png",
+    "category": "vestido",
+    "subcategory": "vestidos",
+    "description": null,
+    "relatedProductIDs": [],
+    "color": "naranja",
+    "style": "Sin información",
+    "material": "Sin información",
+    "season": "PV",
+    "targetAudience": "mujer",
+    "url": "https://www.massimodutti.com/es/vestido-largo-halter-estampado-rayas-l06605848?pelement=52712014",
+    "stock": 50,
+    "featured": false,
+    "active": true
+  },
+  {
+    "id": "CHAQUETA_BOMBER_CUADROS_MEZCLA_LINO",
+    "brand": "Massimo Dutti",
+    "title": "CHAQUETA BOMBER CUADROS MEZCLA LINO",
+    "price": 69.95,
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "imagePaths": [
+      "/assets/productos/Massimo Dutti/CHAQUETA_BOMBER_CUADROS_MEZCLA_LINO/fotos/01_image.jpg",
+      "/assets/productos/Massimo Dutti/CHAQUETA_BOMBER_CUADROS_MEZCLA_LINO/fotos/02_image.jpg",
+      "/assets/productos/Massimo Dutti/CHAQUETA_BOMBER_CUADROS_MEZCLA_LINO/fotos/03_image.jpg",
+      "/assets/productos/Massimo Dutti/CHAQUETA_BOMBER_CUADROS_MEZCLA_LINO/fotos/04_image.jpg",
+      "/assets/productos/Massimo Dutti/CHAQUETA_BOMBER_CUADROS_MEZCLA_LINO/fotos/05_image.jpg",
+      "/assets/productos/Massimo Dutti/CHAQUETA_BOMBER_CUADROS_MEZCLA_LINO/fotos/06_image_solo.jpg",
+      "/assets/productos/Massimo Dutti/CHAQUETA_BOMBER_CUADROS_MEZCLA_LINO/fotos/07_image.jpg"
+    ],
+    "logoPath": "/assets/logos/Massimo Dutti.png",
+    "category": "superior",
+    "subcategory": "chaquetas",
+    "description": "Chaqueta confeccionada con tejido en mezcla de lino. Cuello mao. Manga larga ancha. Cierre mediante botonadura frontal. Dos bolsillos de parche abotonado a la altura del pecho. Puños y bajo fruncido. Bajo ajustable mediante cordones. Tejido semi transparente.\n\nRef. 6755/101",
+    "relatedProductIDs": [],
+    "color": "negro",
+    "style": "Sin información",
+    "material": "lino, ante",
+    "season": "OI",
+    "targetAudience": "mujer",
+    "url": "https://www.massimodutti.com/es/chaqueta-bomber-cuadros-mezcla-lino-l06755101",
+    "stock": 50,
+    "featured": false,
+    "active": true
+  },
+  {
+    "id": "TOP_PUNTO_100_ALGODON",
+    "brand": "Massimo Dutti",
+    "title": "TOP PUNTO 100% ALGODÓN",
+    "price": 49.95,
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "imagePaths": [
+      "/assets/productos/Massimo Dutti/TOP_PUNTO_100_ALGODON/fotos/01_image.jpg",
+      "/assets/productos/Massimo Dutti/TOP_PUNTO_100_ALGODON/fotos/02_image.jpg",
+      "/assets/productos/Massimo Dutti/TOP_PUNTO_100_ALGODON/fotos/03_image.jpg",
+      "/assets/productos/Massimo Dutti/TOP_PUNTO_100_ALGODON/fotos/04_image.jpg",
+      "/assets/productos/Massimo Dutti/TOP_PUNTO_100_ALGODON/fotos/05_image.jpg",
+      "/assets/productos/Massimo Dutti/TOP_PUNTO_100_ALGODON/fotos/06_image_solo.jpg",
+      "/assets/productos/Massimo Dutti/TOP_PUNTO_100_ALGODON/fotos/07_image.jpg"
+    ],
+    "logoPath": "/assets/logos/Massimo Dutti.png",
+    "category": "superior",
+    "subcategory": "tops",
+    "description": "Top punto confeccionado con tejido 100% algodón. Escote redondo. Tirantes finos. Esta prenda queda más corta de lo habitual.\n\nRef. 5613/734",
+    "relatedProductIDs": [
+      "BOLSO_HOMBRO_PIEL_SERRAJE",
+      "PANTALON_CINTURA_ELASTICA_CON_LINO"
+    ],
+    "color": "gris",
+    "style": "Sin información",
+    "material": "algodón, ante",
+    "season": "PV",
+    "targetAudience": "mujer",
+    "url": "https://www.massimodutti.com/es/top-punto-100-algodon-l05613734",
+    "stock": 50,
+    "featured": false,
+    "active": true
+  },
+  {
+    "id": "SANDALIA_PLANA_SERRAJE",
+    "brand": "Massimo Dutti",
+    "title": "SANDALIA PLANA SERRAJE",
+    "price": 79.95,
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "imagePaths": [
+      "/assets/productos/Massimo Dutti/SANDALIA_PLANA_SERRAJE/fotos/01_image_solo.jpg",
+      "/assets/productos/Massimo Dutti/SANDALIA_PLANA_SERRAJE/fotos/02_image.jpg",
+      "/assets/productos/Massimo Dutti/SANDALIA_PLANA_SERRAJE/fotos/03_image.jpg",
+      "/assets/productos/Massimo Dutti/SANDALIA_PLANA_SERRAJE/fotos/04_image.jpg",
+      "/assets/productos/Massimo Dutti/SANDALIA_PLANA_SERRAJE/fotos/05_image.jpg",
+      "/assets/productos/Massimo Dutti/SANDALIA_PLANA_SERRAJE/fotos/06_image.jpg"
+    ],
+    "logoPath": "/assets/logos/Massimo Dutti.png",
+    "category": "calzado",
+    "subcategory": "sandalias",
+    "description": "Realizado en piel de vacuno con acabado en serraje. Cierre con hebilla ajustable lateral. Posición para dedo. Incluye plantilla AIRFIT®: Plantilla técnica flexible de espuma, diseñada para ofrecer un mayor confort.\n\nRef. 1704/650",
+    "relatedProductIDs": [],
+    "color": "rojo",
+    "style": "Sin información",
+    "material": "cuero",
+    "season": "PV",
+    "targetAudience": "mujer",
+    "url": "https://www.massimodutti.com/es/pantalon-flare-fit-piel-napa-l05326966",
+    "stock": 50,
+    "featured": false,
+    "active": true
+  },
+  {
+    "id": "BOLSO_SHOPPER_TRENZADO_PIEL_NAPA",
+    "brand": "Massimo Dutti",
+    "title": "BOLSO SHOPPER TRENZADO PIEL NAPA",
+    "price": 199.0,
+    "sizes": [
+      "M"
+    ],
+    "imagePaths": [
+      "/assets/productos/Massimo Dutti/BOLSO_SHOPPER_TRENZADO_PIEL_NAPA/fotos/01_image.jpg",
+      "/assets/productos/Massimo Dutti/BOLSO_SHOPPER_TRENZADO_PIEL_NAPA/fotos/02_image.jpg",
+      "/assets/productos/Massimo Dutti/BOLSO_SHOPPER_TRENZADO_PIEL_NAPA/fotos/03_image.jpg",
+      "/assets/productos/Massimo Dutti/BOLSO_SHOPPER_TRENZADO_PIEL_NAPA/fotos/04_image.jpg",
+      "/assets/productos/Massimo Dutti/BOLSO_SHOPPER_TRENZADO_PIEL_NAPA/fotos/05_image_solo.jpg",
+      "/assets/productos/Massimo Dutti/BOLSO_SHOPPER_TRENZADO_PIEL_NAPA/fotos/06_image.jpg",
+      "/assets/productos/Massimo Dutti/BOLSO_SHOPPER_TRENZADO_PIEL_NAPA/fotos/07_image.jpg",
+      "/assets/productos/Massimo Dutti/BOLSO_SHOPPER_TRENZADO_PIEL_NAPA/fotos/08_image.jpg"
+    ],
+    "logoPath": "/assets/logos/Massimo Dutti.png",
+    "category": "accesorio",
+    "subcategory": "bolsos",
+    "description": "Bolso confeccionado con piel bovina y acabado napa. Un asa de mano/hombro. Cierre mediante snap imantado. Detalle trenzado .\n\nRef. 6906/606",
+    "relatedProductIDs": [],
+    "color": "negro",
+    "style": "Sin información",
+    "material": "cuero, ante",
+    "season": "All-season",
+    "targetAudience": "mujer",
+    "url": "https://www.massimodutti.com/es/bolso-shopper-trenzado-piel-napa-l06906606",
+    "stock": 50,
+    "featured": false,
+    "active": true
+  },
+  {
+    "id": "CINTURON_PIEL_APLIQUES_BOHO",
+    "brand": "Massimo Dutti",
+    "title": "CINTURÓN PIEL APLIQUES BOHO",
+    "price": 59.95,
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "imagePaths": [
+      "/assets/productos/Massimo Dutti/CINTURON_PIEL_APLIQUES_BOHO/fotos/01_image_solo.jpg",
+      "/assets/productos/Massimo Dutti/CINTURON_PIEL_APLIQUES_BOHO/fotos/02_image.jpg",
+      "/assets/productos/Massimo Dutti/CINTURON_PIEL_APLIQUES_BOHO/fotos/03_image.jpg",
+      "/assets/productos/Massimo Dutti/CINTURON_PIEL_APLIQUES_BOHO/fotos/04_image.jpg"
+    ],
+    "logoPath": "/assets/logos/Massimo Dutti.png",
+    "category": "accesorio",
+    "subcategory": "cinturones",
+    "description": "Cinturón confeccionado 100% con piel bovina. Detalle de aplique decorativo.\n\nRef. 6185/694",
+    "relatedProductIDs": [],
+    "color": "marrón",
+    "style": "Sin información",
+    "material": "cuero",
+    "season": "All-season",
+    "targetAudience": "mujer",
+    "url": "https://www.massimodutti.com/es/cinturon-piel-apliques-boho-l06185694",
+    "stock": 50,
+    "featured": false,
+    "active": true
+  },
+  {
+    "id": "BOLSO_MAXI_SHOPPER_TRENZADO_PIEL_NAPA",
+    "brand": "Massimo Dutti",
+    "title": "BOLSO MAXI SHOPPER TRENZADO PIEL NAPA",
+    "price": 299.0,
+    "sizes": [
+      "M"
+    ],
+    "imagePaths": [
+      "/assets/productos/Massimo Dutti/BOLSO_MAXI_SHOPPER_TRENZADO_PIEL_NAPA/fotos/01_image.jpg",
+      "/assets/productos/Massimo Dutti/BOLSO_MAXI_SHOPPER_TRENZADO_PIEL_NAPA/fotos/02_image.jpg",
+      "/assets/productos/Massimo Dutti/BOLSO_MAXI_SHOPPER_TRENZADO_PIEL_NAPA/fotos/03_image.jpg",
+      "/assets/productos/Massimo Dutti/BOLSO_MAXI_SHOPPER_TRENZADO_PIEL_NAPA/fotos/04_image_solo.jpg",
+      "/assets/productos/Massimo Dutti/BOLSO_MAXI_SHOPPER_TRENZADO_PIEL_NAPA/fotos/05_image.jpg",
+      "/assets/productos/Massimo Dutti/BOLSO_MAXI_SHOPPER_TRENZADO_PIEL_NAPA/fotos/06_image.jpg"
+    ],
+    "logoPath": "/assets/logos/Massimo Dutti.png",
+    "category": "accesorio",
+    "subcategory": "bolsos",
+    "description": "Bolso maxi shopper confeccionado con piel bovina y acabado napa. Un asa de mano/hombro. Cierre mediante solapa con imán oculto. Detalle trenzado .\n\nAlto x Ancho x Fondo: 42 x 38 x 10 cm\n\nRef. 6907/606",
+    "relatedProductIDs": [],
+    "color": "negro",
+    "style": "Sin información",
+    "material": "cuero, ante",
+    "season": "All-season",
+    "targetAudience": "mujer",
+    "url": "https://www.massimodutti.com/es/bolso-maxi-shopper-trenzado-piel-napa-l06907606?colorId=800",
+    "stock": 50,
+    "featured": false,
+    "active": true
+  },
+  {
+    "id": "FALDA_MIDI_DETALLE_COSTURAS_MEZCLA_ALGODON",
+    "brand": "Massimo Dutti",
+    "title": "FALDA MIDI DETALLE COSTURAS MEZCLA ALGODÓN",
+    "price": 79.95,
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "imagePaths": [
+      "/assets/productos/Massimo Dutti/FALDA_MIDI_DETALLE_COSTURAS_MEZCLA_ALGODON/fotos/01_image.jpg",
+      "/assets/productos/Massimo Dutti/FALDA_MIDI_DETALLE_COSTURAS_MEZCLA_ALGODON/fotos/02_image.jpg",
+      "/assets/productos/Massimo Dutti/FALDA_MIDI_DETALLE_COSTURAS_MEZCLA_ALGODON/fotos/03_image.jpg",
+      "/assets/productos/Massimo Dutti/FALDA_MIDI_DETALLE_COSTURAS_MEZCLA_ALGODON/fotos/04_image.jpg",
+      "/assets/productos/Massimo Dutti/FALDA_MIDI_DETALLE_COSTURAS_MEZCLA_ALGODON/fotos/05_image.jpg",
+      "/assets/productos/Massimo Dutti/FALDA_MIDI_DETALLE_COSTURAS_MEZCLA_ALGODON/fotos/06_image_solo.jpg",
+      "/assets/productos/Massimo Dutti/FALDA_MIDI_DETALLE_COSTURAS_MEZCLA_ALGODON/fotos/07_image.jpg"
+    ],
+    "logoPath": "/assets/logos/Massimo Dutti.png",
+    "category": "inferior",
+    "subcategory": "faldas",
+    "description": "Falda midi confeccionada con tejido en mezcla algodón. Cierre mediante cremallera en la parte posterior. Forro interior. Detalle de costuras deshilachadas.\n\nRef. 5221/530",
+    "relatedProductIDs": [
+      "CAMISETA_TEXTURA_EFECTO_CREPE_ALGODON_BLANCO"
+    ],
+    "color": "crema",
+    "style": "Sin información",
+    "material": "algodón, ante",
+    "season": "All-season",
+    "targetAudience": "mujer",
+    "url": "https://www.massimodutti.com/es/falda-midi-detalle-costuras-mezcla-algodon-l05221530",
+    "stock": 50,
+    "featured": false,
+    "active": true
+  },
+  {
+    "id": "JERSEY_PUNTO_CUELLO_PICO_CON_LANA_AZUL",
+    "brand": "Massimo Dutti",
+    "title": "JERSEY PUNTO CUELLO PICO CON LANA AZUL",
+    "price": 39.95,
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "imagePaths": [
+      "/assets/productos/Massimo Dutti/JERSEY_PUNTO_CUELLO_PICO_CON_LANA_AZUL/fotos/01_image.jpg",
+      "/assets/productos/Massimo Dutti/JERSEY_PUNTO_CUELLO_PICO_CON_LANA_AZUL/fotos/02_image.jpg",
+      "/assets/productos/Massimo Dutti/JERSEY_PUNTO_CUELLO_PICO_CON_LANA_AZUL/fotos/03_image.jpg",
+      "/assets/productos/Massimo Dutti/JERSEY_PUNTO_CUELLO_PICO_CON_LANA_AZUL/fotos/04_image.jpg",
+      "/assets/productos/Massimo Dutti/JERSEY_PUNTO_CUELLO_PICO_CON_LANA_AZUL/fotos/05_image_solo.jpg",
+      "/assets/productos/Massimo Dutti/JERSEY_PUNTO_CUELLO_PICO_CON_LANA_AZUL/fotos/06_image.jpg",
+      "/assets/productos/Massimo Dutti/JERSEY_PUNTO_CUELLO_PICO_CON_LANA_AZUL/fotos/07_image.jpg"
+    ],
+    "logoPath": "/assets/logos/Massimo Dutti.png",
+    "category": "superior",
+    "subcategory": "jerséis",
+    "description": "Jersey confeccionado en tejido de punto con lana. Cuello pico. Manga larga. Acabados en rib.\n\nRef. 5667/580",
+    "relatedProductIDs": [
+      "PANTALON_FLARE_FIT_PIEL_NAPA",
+      "SANDALIA_PLANA_SERRAJE"
+    ],
+    "color": "azul",
+    "style": "Sin información",
+    "material": "lana",
+    "season": "OI",
+    "targetAudience": "mujer",
+    "url": "https://www.massimodutti.com/es/jersey-punto-cuello-pico-con-lana-l05667580?colorId=401",
+    "stock": 50,
+    "featured": false,
+    "active": true
+  },
+  {
+    "id": "CAMISETA_TEXTURA_EFECTO_CREPE_ALGODON_BLANCO",
+    "brand": "Massimo Dutti",
+    "title": "CAMISETA TEXTURA EFECTO CREPE ALGODÓN BLANCO",
+    "price": 25.95,
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "imagePaths": [
+      "/assets/productos/Massimo Dutti/CAMISETA_TEXTURA_EFECTO_CREPE_ALGODON_BLANCO/fotos/01_image.jpg",
+      "/assets/productos/Massimo Dutti/CAMISETA_TEXTURA_EFECTO_CREPE_ALGODON_BLANCO/fotos/02_image.jpg",
+      "/assets/productos/Massimo Dutti/CAMISETA_TEXTURA_EFECTO_CREPE_ALGODON_BLANCO/fotos/03_image.jpg",
+      "/assets/productos/Massimo Dutti/CAMISETA_TEXTURA_EFECTO_CREPE_ALGODON_BLANCO/fotos/04_image_solo.jpg",
+      "/assets/productos/Massimo Dutti/CAMISETA_TEXTURA_EFECTO_CREPE_ALGODON_BLANCO/fotos/05_image.jpg",
+      "/assets/productos/Massimo Dutti/CAMISETA_TEXTURA_EFECTO_CREPE_ALGODON_BLANCO/fotos/06_image.jpg"
+    ],
+    "logoPath": "/assets/logos/Massimo Dutti.png",
+    "category": "superior",
+    "subcategory": "camisetas",
+    "description": "Camiseta confeccionada en tejido 100% algodón. Silueta ligeramente ajustada al cuerpo, proporcionando un aspecto más definido y estilizado. Cuello redondo. Manga corta. Tejido crepado con sutil textura.\n\nRef. 6264/505",
+    "relatedProductIDs": [
+      "FALDA_MIDI_PIEL_ANTE",
+      "SANDALIA_ATADA_PIEL"
+    ],
+    "color": "blanco",
+    "style": "Sin información",
+    "material": "algodón",
+    "season": "All-season",
+    "targetAudience": "mujer",
+    "url": "https://www.massimodutti.com/es/camiseta-textura-efecto-crepe-algodon-l06264505?colorId=251",
+    "stock": 50,
+    "featured": false,
+    "active": true
+  },
+  {
+    "id": "TOP_ESTAMPADO_ESCOTE_CRUZADO",
+    "brand": "Massimo Dutti",
+    "title": "TOP ESTAMPADO ESCOTE CRUZADO",
+    "price": 49.95,
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "imagePaths": [
+      "/assets/productos/Massimo Dutti/TOP_ESTAMPADO_ESCOTE_CRUZADO/fotos/01_image.jpg",
+      "/assets/productos/Massimo Dutti/TOP_ESTAMPADO_ESCOTE_CRUZADO/fotos/02_image.jpg",
+      "/assets/productos/Massimo Dutti/TOP_ESTAMPADO_ESCOTE_CRUZADO/fotos/03_image.jpg",
+      "/assets/productos/Massimo Dutti/TOP_ESTAMPADO_ESCOTE_CRUZADO/fotos/04_image_solo.jpg",
+      "/assets/productos/Massimo Dutti/TOP_ESTAMPADO_ESCOTE_CRUZADO/fotos/05_image.jpg",
+      "/assets/productos/Massimo Dutti/TOP_ESTAMPADO_ESCOTE_CRUZADO/fotos/06_image.jpg"
+    ],
+    "logoPath": "/assets/logos/Massimo Dutti.png",
+    "category": "superior",
+    "subcategory": "tops",
+    "description": "Top cuello halter . Detalle de frunces. Tejido fluido. Dispone de prenda a conjunto.\n\nRef. 5739/859",
+    "relatedProductIDs": [
+      "CINTURON_PIEL_APLIQUES_BOHO",
+      "PANTALON_FLARE_FIT_PIEL_NAPA"
+    ],
+    "color": "verde",
+    "style": "Sin información",
+    "material": "Sin información",
+    "season": "PV",
+    "targetAudience": "mujer",
+    "url": "https://www.massimodutti.com/es/top-estampado-escote-cruzado-l05739859",
+    "stock": 50,
+    "featured": false,
+    "active": true
+  },
+  {
+    "id": "BOLSO_HOMBRO_PIEL_SERRAJE",
+    "brand": "Massimo Dutti",
+    "title": "BOLSO HOMBRO PIEL SERRAJE",
+    "price": 199.0,
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "imagePaths": [
+      "/assets/productos/Massimo Dutti/BOLSO_HOMBRO_PIEL_SERRAJE/fotos/01_image.jpg",
+      "/assets/productos/Massimo Dutti/BOLSO_HOMBRO_PIEL_SERRAJE/fotos/02_image.jpg",
+      "/assets/productos/Massimo Dutti/BOLSO_HOMBRO_PIEL_SERRAJE/fotos/03_image.jpg",
+      "/assets/productos/Massimo Dutti/BOLSO_HOMBRO_PIEL_SERRAJE/fotos/04_image.jpg",
+      "/assets/productos/Massimo Dutti/BOLSO_HOMBRO_PIEL_SERRAJE/fotos/05_image_solo.jpg",
+      "/assets/productos/Massimo Dutti/BOLSO_HOMBRO_PIEL_SERRAJE/fotos/06_image.jpg",
+      "/assets/productos/Massimo Dutti/BOLSO_HOMBRO_PIEL_SERRAJE/fotos/07_image.jpg"
+    ],
+    "logoPath": "/assets/logos/Massimo Dutti.png",
+    "category": "accesorio",
+    "subcategory": "bolsos",
+    "description": "Bolso confeccionado con piel bovina y acabado serraje. Un asa de mano/hombro. Cierre mediante snap imantado oculto.\n\nRef. 6909/604",
+    "relatedProductIDs": [],
+    "color": "marrón",
+    "style": "Sin información",
+    "material": "cuero, ante",
+    "season": "All-season",
+    "targetAudience": "mujer",
+    "url": "https://www.massimodutti.com/es/bolso-hombro-piel-serraje-l06909604",
+    "stock": 50,
+    "featured": false,
+    "active": true
+  },
+  {
+    "id": "JEANS_STRAIGHT_FIT_TIRO_BAJO",
+    "brand": "Massimo Dutti",
+    "title": "JEANS STRAIGHT FIT TIRO BAJO",
+    "price": 49.95,
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "imagePaths": [
+      "/assets/productos/Massimo Dutti/JEANS_STRAIGHT_FIT_TIRO_BAJO/fotos/01_image.jpg",
+      "/assets/productos/Massimo Dutti/JEANS_STRAIGHT_FIT_TIRO_BAJO/fotos/02_image.jpg",
+      "/assets/productos/Massimo Dutti/JEANS_STRAIGHT_FIT_TIRO_BAJO/fotos/03_image.jpg",
+      "/assets/productos/Massimo Dutti/JEANS_STRAIGHT_FIT_TIRO_BAJO/fotos/04_image.jpg",
+      "/assets/productos/Massimo Dutti/JEANS_STRAIGHT_FIT_TIRO_BAJO/fotos/05_image.jpg",
+      "/assets/productos/Massimo Dutti/JEANS_STRAIGHT_FIT_TIRO_BAJO/fotos/06_image_solo.jpg",
+      "/assets/productos/Massimo Dutti/JEANS_STRAIGHT_FIT_TIRO_BAJO/fotos/07_image.jpg",
+      "/assets/productos/Massimo Dutti/JEANS_STRAIGHT_FIT_TIRO_BAJO/fotos/08_image.jpg"
+    ],
+    "logoPath": "/assets/logos/Massimo Dutti.png",
+    "category": "inferior",
+    "subcategory": "pantalones",
+    "description": "Jeans Straight fit: presenta una silueta recta desde la cintura hasta el tobillo, sin ajustes adicionales en las piernas. Cierre por cremallera oculta por tapeta abotonada. Tiro bajo. Diseño de cinco bolsillos.\n\nRef. 5053/653",
+    "relatedProductIDs": [
+      "JERSEY_PUNTO_CUELLO_PICO_CON_LANA_AZUL",
+      "MOCASIN_SOFT_ANTIFAZ"
+    ],
+    "color": "azul",
+    "style": "Sin información",
+    "material": "Sin información",
+    "season": "All-season",
+    "targetAudience": "mujer",
+    "url": "https://www.massimodutti.com/es/jeans-straight-fit-tiro-bajo-l05053653",
+    "stock": 50,
+    "featured": false,
+    "active": true
+  },
+  {
+    "id": "MOCASIN_SOFT_ANTIFAZ",
+    "brand": "Massimo Dutti",
+    "title": "MOCASÍN SOFT ANTIFAZ",
+    "price": 89.95,
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "imagePaths": [
+      "/assets/productos/Massimo Dutti/MOCASIN_SOFT_ANTIFAZ/fotos/01_image_solo.jpg",
+      "/assets/productos/Massimo Dutti/MOCASIN_SOFT_ANTIFAZ/fotos/02_image.jpg",
+      "/assets/productos/Massimo Dutti/MOCASIN_SOFT_ANTIFAZ/fotos/03_image.jpg",
+      "/assets/productos/Massimo Dutti/MOCASIN_SOFT_ANTIFAZ/fotos/04_image.jpg",
+      "/assets/productos/Massimo Dutti/MOCASIN_SOFT_ANTIFAZ/fotos/05_image.jpg"
+    ],
+    "logoPath": "/assets/logos/Massimo Dutti.png",
+    "category": "calzado",
+    "subcategory": "mocasines",
+    "description": "Confeccionado en piel caprina. Interior confeccionado en piel serraje. Diseño realizado en construcción guante. Detalle antifaz. Detalle fruncido. Incluye plantilla AIRFIT®: Plantilla técnica flexible de espuma, diseñada para ofrecer un mayor confort.\n\nRef. 1535/550",
+    "relatedProductIDs": [],
+    "color": "blanco",
+    "style": "Sin información",
+    "material": "cuero, ante",
+    "season": "All-season",
+    "targetAudience": "mujer",
+    "url": "https://www.massimodutti.com/es/mocasin-soft-antifaz-l11535550",
+    "stock": 50,
+    "featured": false,
+    "active": true
+  },
+  {
+    "id": "JERSEY_PIPO_MARRON",
+    "brand": "Coosy",
+    "title": "JERSEY PIPO MARRON",
+    "price": 79.0,
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "imagePaths": [
+      "/assets/productos/Coosy/JERSEY_PIPO_MARRON/fotos/01_image.jpg",
+      "/assets/productos/Coosy/JERSEY_PIPO_MARRON/fotos/02_image.jpg"
+    ],
+    "logoPath": "/assets/logos/Coosy.png",
+    "category": "superior",
+    "subcategory": "jerséis",
+    "description": "Un básico imprescindible de temporada: este jersey de punto canalé en color marrón chocolate con cuello alto es la prenda perfecta para crear looks elegantes y versátiles. Su tejido elástico se adapta cómodamente a la silueta, realzando la figura sin perder confort. Además, cuenta con nuestro logo bordado en la parte del pecho, un detalle sutil y distintivo que aporta exclusividad a la prenda.\n\nEl diseño minimalista y atemporal lo convierte en un fondo de armario ideal para combinar con pantalones de sastrería, faldas midi o bajo chaquetas y abrigos.\n\nUn jersey que aporta calidez, estilo y sofisticación, perfecto para llevar tanto en la oficina como en planes informales con un aire chic.",
+    "relatedProductIDs": [
+      "BOTAS_LISA_BURDEOS",
+      "JERSEY_PIPO_BEIGE",
+      "JERSEY_PIPO_GRIS",
+      "JERSEY_PIPO_NEGRO",
+      "JERSEY_PIPO_TERRACOTA"
+    ],
+    "color": "marrón",
+    "style": "minimal",
+    "material": "Sin información",
+    "season": "OI",
+    "targetAudience": "mujer",
+    "url": "https://www.coosy.es/products/jersey-pipomarron",
+    "stock": 50,
+    "featured": false,
+    "active": true
+  },
+  {
+    "id": "CAMISA_MARIA_MARRON",
+    "brand": "Coosy",
+    "title": "CAMISA MARÍA MARRON",
+    "price": 84.0,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "imagePaths": [
+      "/assets/productos/Coosy/CAMISA_MARIA_MARRON/fotos/01_image.jpg"
+    ],
+    "logoPath": "/assets/logos/Coosy.png",
+    "category": "superior",
+    "subcategory": "camisas",
+    "description": "Descubre la sofisticación en cada detalle de la Camisa María. Diseñada en fondo marron con rayas rosas y chocolate, aporta un aire elegante y moderno que estiliza la figura. Su protagonista es el gran lazo al cuello, un detalle versátil y femenino que transforma el look, perfecto tanto para ir a la oficina como para ocasiones especiales.\n\nLas mangas abullonadas con puños ajustados añaden volumen y tendencia, mientras que su corte recto ofrece comodidad sin perder estilo. Una prenda imprescindible en tu armario para combinar con pantalones de pinza, faldas midi o jeans y conseguir un look atemporal con un toque chic.\n\nDiseñado y confeccionado en nuestros talleres localizados en España.",
+    "relatedProductIDs": [
+      "CAMISA_MARIA_AZUL",
+      "CAMISA_MARIA_VERDE",
+      "PANTALON_CLAUDIO_MARRON"
+    ],
+    "color": "marrón",
+    "style": "elegante",
+    "material": "ALGODON, POLIAMIDA, ELASTANO",
+    "season": "OI",
+    "targetAudience": "mujer",
+    "url": "https://www.coosy.es/products/camisa-mariamarron",
+    "stock": 50,
+    "featured": false,
+    "active": true
+  },
+  {
+    "id": "CHAQUETA_GHALA_MARINO",
+    "brand": "Coosy",
+    "title": "CHAQUETA GHALA MARINO",
+    "price": 129.0,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "imagePaths": [
+      "/assets/productos/Coosy/CHAQUETA_GHALA_MARINO/fotos/01_image.jpg",
+      "/assets/productos/Coosy/CHAQUETA_GHALA_MARINO/fotos/02_image.jpg",
+      "/assets/productos/Coosy/CHAQUETA_GHALA_MARINO/fotos/03_image.jpg",
+      "/assets/productos/Coosy/CHAQUETA_GHALA_MARINO/fotos/04_image.jpg",
+      "/assets/productos/Coosy/CHAQUETA_GHALA_MARINO/fotos/05_image.jpg",
+      "/assets/productos/Coosy/CHAQUETA_GHALA_MARINO/fotos/06_image.jpg"
+    ],
+    "logoPath": "/assets/logos/Coosy.png",
+    "category": "superior",
+    "subcategory": "chaquetas",
+    "description": "La Chaqueta Ghala es una pieza única que reinventa el clásico traje de rayas diplomáticas con un aire moderno y sofisticado. Diseñada con un corte cruzado tipo blazer cropped, realza la silueta y aporta un toque de elegancia actual a cualquier look.\n\nConfeccionada en tejido de rayas verticales finas, estiliza y alarga la figura. Sus botones dobles delanteros en tono carey y el ajuste entallado con cinturón marcan la cintura, logrando un acabado femenino y poderoso.\n\nPerfecta para llevar como chaqueta de traje con el Pantalón Ghala a juego, o combinada con jeans, faldas o vestidos para un estilo más casual chic.",
+    "relatedProductIDs": [
+      "CHALECO_GHALA_MARINO",
+      "PANTALON_GHALA_MARINO"
+    ],
+    "color": "azul marino",
+    "style": "formal",
+    "material": "POLIESTER, VISCOSA, ELASTANO",
+    "season": "All-season",
+    "targetAudience": "mujer",
+    "url": "https://www.coosy.es/products/chaqueta-ghalamarino",
+    "stock": 50,
+    "featured": false,
+    "active": true
+  },
+  {
+    "id": "PANTALON_MERY_MARINO",
+    "brand": "Coosy",
+    "title": "PANTALON MERY MARINO",
+    "price": 119.0,
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "imagePaths": [
+      "/assets/productos/Coosy/PANTALON_MERY_MARINO/fotos/01_image.jpg",
+      "/assets/productos/Coosy/PANTALON_MERY_MARINO/fotos/02_image.jpg",
+      "/assets/productos/Coosy/PANTALON_MERY_MARINO/fotos/03_image.jpg",
+      "/assets/productos/Coosy/PANTALON_MERY_MARINO/fotos/04_image.jpg",
+      "/assets/productos/Coosy/PANTALON_MERY_MARINO/fotos/05_image.jpg"
+    ],
+    "logoPath": "/assets/logos/Coosy.png",
+    "category": "inferior",
+    "subcategory": "pantalones",
+    "description": "Eleva tu estilo con este pantalón de corte recto con estampado de pata de gallo, una prenda atemporal que combina comodidad y elegancia. Su diseño de talle alto con doble abotonadura frontal y pinzas aporta una silueta favorecedora y sofisticada. Confeccionado en un tejido estructurado, este pantalón es ideal tanto para looks de oficina como para ocasiones más casuales con un toque chic.\n\nLo mejor: este pantalón cuenta con una chaqueta a juego, perfecta para crear un conjunto coordinado y lleno de estilo. Llévalo como traje completo o combínalo con piezas básicas para un look versátil y moderno.\n\n*La modelo mide 1,80m y lleva la talla S.\n\nDiseñado y confeccionado en nuestros talleres localizados en España.",
+    "relatedProductIDs": [
+      "CHAQUETA_MERY_MARINO",
+      "JERSEY_PIPO_TERRACOTA"
+    ],
+    "color": "gris",
+    "style": "formal",
+    "material": "Sin información",
+    "season": "OI",
+    "targetAudience": "mujer",
+    "url": "https://www.coosy.es/products/pantalon-merymarino",
+    "stock": 50,
+    "featured": false,
+    "active": true
+  },
+  {
+    "id": "JERSEY_PIPO_TERRACOTA",
+    "brand": "Coosy",
+    "title": "JERSEY PIPO TERRACOTA",
+    "price": 79.0,
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "imagePaths": [
+      "/assets/productos/Coosy/JERSEY_PIPO_TERRACOTA/fotos/01_image.jpg",
+      "/assets/productos/Coosy/JERSEY_PIPO_TERRACOTA/fotos/02_image.jpg",
+      "/assets/productos/Coosy/JERSEY_PIPO_TERRACOTA/fotos/03_image.jpg"
+    ],
+    "logoPath": "/assets/logos/Coosy.png",
+    "category": "superior",
+    "subcategory": "jerséis",
+    "description": "Un básico imprescindible de temporada: este jersey de punto canalé en color teja con cuello alto es la prenda perfecta para crear looks elegantes y versátiles. Su tejido elástico se adapta cómodamente a la silueta, realzando la figura sin perder confort. Además, cuenta con nuestro logo bordado en la parte del pecho, un detalle sutil y distintivo que aporta exclusividad a la prenda.\n\nEl diseño minimalista y atemporal lo convierte en un fondo de armario ideal para combinar con pantalones de sastrería, faldas midi o bajo chaquetas y abrigos.\n\nUn jersey que aporta calidez, estilo y sofisticación, perfecto para llevar tanto en la oficina como en planes informales con un aire chic.",
+    "relatedProductIDs": [
+      "CHAQUETA_MERY_MARINO",
+      "JERSEY_PIPO_BEIGE",
+      "JERSEY_PIPO_GRIS",
+      "JERSEY_PIPO_MARRON",
+      "JERSEY_PIPO_NEGRO",
+      "PANTALON_MERY_MARINO"
+    ],
+    "color": "rojo",
+    "style": "minimal",
+    "material": "Sin información",
+    "season": "OI",
+    "targetAudience": "mujer",
+    "url": "https://www.coosy.es/products/jersey-pipoterracota",
+    "stock": 50,
+    "featured": false,
+    "active": true
+  },
+  {
+    "id": "JERSEY_PIPO_GRIS",
+    "brand": "Coosy",
+    "title": "JERSEY PIPO GRIS",
+    "price": 79.0,
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "imagePaths": [
+      "/assets/productos/Coosy/JERSEY_PIPO_GRIS/fotos/01_image.jpg"
+    ],
+    "logoPath": "/assets/logos/Coosy.png",
+    "category": "superior",
+    "subcategory": "jerséis",
+    "description": "Un básico imprescindible de temporada: este jersey de punto canalé en color gris con cuello alto es la prenda perfecta para crear looks elegantes y versátiles. Su tejido elástico se adapta cómodamente a la silueta, realzando la figura sin perder confort. Además, cuenta con nuestro logo bordado en la parte del pecho, un detalle sutil y distintivo que aporta exclusividad a la prenda.\n\nEl diseño minimalista y atemporal lo convierte en un fondo de armario ideal para combinar con pantalones de sastrería, faldas midi o bajo chaquetas y abrigos.\n\nUn jersey que aporta calidez, estilo y sofisticación, perfecto para llevar tanto en la oficina como en planes informales con un aire chic.",
+    "relatedProductIDs": [
+      "JERSEY_PIPO_BEIGE",
+      "JERSEY_PIPO_MARRON",
+      "JERSEY_PIPO_NEGRO",
+      "JERSEY_PIPO_TERRACOTA",
+      "PANTALON_GHALA_MARINO"
+    ],
+    "color": "gris",
+    "style": "minimal",
+    "material": "Sin información",
+    "season": "OI",
+    "targetAudience": "mujer",
+    "url": "https://www.coosy.es/products/jersey-pipogris",
+    "stock": 50,
+    "featured": false,
+    "active": true
+  },
+  {
+    "id": "PANTALON_ELVA_CRUDO",
+    "brand": "Coosy",
+    "title": "PANTALON ELVA CRUDO",
+    "price": 125.0,
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "imagePaths": [
+      "/assets/productos/Coosy/PANTALON_ELVA_CRUDO/fotos/01_25210CAMIFANNY25_1.jpg",
+      "/assets/productos/Coosy/PANTALON_ELVA_CRUDO/fotos/02_25210CAMIFANNY25_3.jpg",
+      "/assets/productos/Coosy/PANTALON_ELVA_CRUDO/fotos/03_25210CAMIFANNY25_2.jpg",
+      "/assets/productos/Coosy/PANTALON_ELVA_CRUDO/fotos/04_25210CAMIFANNY25_5.jpg",
+      "/assets/productos/Coosy/PANTALON_ELVA_CRUDO/fotos/05_25210CAMIFANNY25_4.jpg"
+    ],
+    "logoPath": "/assets/logos/Coosy.png",
+    "category": "inferior",
+    "subcategory": "pantalones",
+    "description": "El Pantalón Elva en color crudo es sinónimo de elegancia relajada. Confeccionado en un tejido satinado de caída fluida, su diseño amplio y femenino aporta movimiento y presencia a cualquier look.\n\nCon cintura alta fruncida y bajo recogido, su silueta evoca una inspiración oriental reinterpretada con un toque contemporáneo. El acabado en color crudo aporta luminosidad y versatilidad, perfecto tanto para el día como para la noche.\n\nEn la imagen lo combinamos con la Camisa Fanny en marrón satinado, cinturón ancho de piel en chocolate, bolso con flecos y salones en punta, creando un estilismo elegante y con carácter, ideal para ocasiones especiales, cenas o eventos informales con estilo.\n\n*La modelo mide 1,80 y lleva la talla s.\n\nDiseñado y fabricado en España",
+    "relatedProductIDs": [
+      "CAMISA_FANNY_MARRON"
+    ],
+    "color": "crema",
+    "style": "formal",
+    "material": "cuero, ante",
+    "season": "All-season",
+    "targetAudience": "mujer",
+    "url": "https://www.coosy.es/products/pantalon-elvacrudo",
+    "stock": 50,
+    "featured": false,
+    "active": true
+  },
+  {
+    "id": "PANTALON_CLAUDIO_MARRON",
+    "brand": "Coosy",
+    "title": "PANTALON CLAUDIO MARRON",
+    "price": 125.0,
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "imagePaths": [
+      "/assets/productos/Coosy/PANTALON_CLAUDIO_MARRON/fotos/01_38115.jpg",
+      "/assets/productos/Coosy/PANTALON_CLAUDIO_MARRON/fotos/02_25210CAMMARIA25_0646.jpg"
+    ],
+    "logoPath": "/assets/logos/Coosy.png",
+    "category": "inferior",
+    "subcategory": "pantalones",
+    "description": "Consigue un look sofisticado y único con el pantalón Claudio. Este diseño bicolor combina elegancia y modernidad, ideal para mujeres que buscan destacar con prendas exclusivas y versátiles.\n\nSu corte ancho y tejido de alta calidad aporta comodidad y un movimiento fluido, siguiendo las últimas tendencias de moda femenina. Perfecto para ocasiones especiales y looks de oficina con personalidad. Complementa tu armario con este pantalón de talle alto que estiliza la figura y transmite distinción en cualquier evento.\n\nNos encanta el total look con la Camisa Maria. \n\nDiseñado y confeccionado en nuestros talleres localizados en España.",
+    "relatedProductIDs": [
+      "CAMISA_MARIA_MARRON"
+    ],
+    "color": "marrón",
+    "style": "Sin información",
+    "material": "Sin información",
+    "season": "All-season",
+    "targetAudience": "mujer",
+    "url": "https://www.coosy.es/products/pantalon-claudiomarron",
+    "stock": 50,
+    "featured": false,
+    "active": true
+  },
+  {
+    "id": "CHALECO_GHALA_MARINO",
+    "brand": "Coosy",
+    "title": "CHALECO GHALA MARINO",
+    "price": 79.0,
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "imagePaths": [
+      "/assets/productos/Coosy/CHALECO_GHALA_MARINO/fotos/01_38156.jpg",
+      "/assets/productos/Coosy/CHALECO_GHALA_MARINO/fotos/02_38157.jpg",
+      "/assets/productos/Coosy/CHALECO_GHALA_MARINO/fotos/03_38160.jpg",
+      "/assets/productos/Coosy/CHALECO_GHALA_MARINO/fotos/04_38158.jpg",
+      "/assets/productos/Coosy/CHALECO_GHALA_MARINO/fotos/05_38159.jpg"
+    ],
+    "logoPath": "/assets/logos/Coosy.png",
+    "category": "superior",
+    "subcategory": "chalecos",
+    "description": "El Chaleco Ghala es una prenda sofisticada y versátil que forma parte del exclusivo Conjunto Ghala. Su diseño estructurado resalta la silueta femenina, mientras que el fajín incorporado añade un toque de distinción y elegancia, marcando la cintura de forma favorecedora.\n\nIdeal para eventos especiales, celebraciones o incluso como pieza estrella en looks de invitada, este chaleco combina a la perfección con el pantalón del conjunto Ghala, creando un estilismo moderno y atemporal.\n\nConfeccionado en materiales de alta calidad, el chaleco Ghala ofrece comodidad sin renunciar a la sofisticación. Es la opción perfecta para quienes buscan un outfit de invitada diferente, actual y lleno de personalidad.\n\nDiseñado y confeccionado en nuestros talleres localizados en España.",
+    "relatedProductIDs": [
+      "CHAQUETA_GHALA_MARINO",
+      "PANTALON_GHALA_MARINO"
+    ],
+    "color": "azul marino",
+    "style": "elegante",
+    "material": "POLIESTER, VISCOSA, ELASTANO",
+    "season": "All-season",
+    "targetAudience": "mujer",
+    "url": "https://www.coosy.es/products/chaleco-ghalamarino",
+    "stock": 50,
+    "featured": false,
+    "active": true
+  },
+  {
+    "id": "CAMISA_MARIA_AZUL",
+    "brand": "Coosy",
+    "title": "CAMISA MARÍA AZUL",
+    "price": 84.0,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "imagePaths": [
+      "/assets/productos/Coosy/CAMISA_MARIA_AZUL/fotos/01_image.jpg",
+      "/assets/productos/Coosy/CAMISA_MARIA_AZUL/fotos/02_image.jpg",
+      "/assets/productos/Coosy/CAMISA_MARIA_AZUL/fotos/03_image.jpg"
+    ],
+    "logoPath": "/assets/logos/Coosy.png",
+    "category": "superior",
+    "subcategory": "camisas",
+    "description": "Descubre la sofisticación en cada detalle de la Camisa María. Diseñada en fondo azul con rayas marrones, aporta un aire elegante y moderno que estiliza la figura. Su protagonista es el gran lazo al cuello, un detalle versátil y femenino que transforma el look, perfecto tanto para ir a la oficina como para ocasiones especiales.\n\nLas mangas abullonadas con puños ajustados añaden volumen y tendencia, mientras que su corte recto ofrece comodidad sin perder estilo. Una prenda imprescindible en tu armario para combinar con pantalones de pinza, faldas midi o jeans y conseguir un look atemporal con un toque chic.\n\nDiseñado y confeccionado en nuestros talleres localizados en España.",
+    "relatedProductIDs": [
+      "CAMISA_MARIA_MARRON",
+      "CAMISA_MARIA_VERDE"
+    ],
+    "color": "azul",
+    "style": "elegante",
+    "material": "ALGODON, POLIAMIDA, ELASTANO",
+    "season": "PV",
+    "targetAudience": "mujer",
+    "url": "https://www.coosy.es/products/camisa-mariaazul",
+    "stock": 50,
+    "featured": false,
+    "active": true
+  },
+  {
+    "id": "PANTALON_GHALA_MARINO",
+    "brand": "Coosy",
+    "title": "PANTALON GHALA MARINO",
+    "price": 79.0,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "imagePaths": [
+      "/assets/productos/Coosy/PANTALON_GHALA_MARINO/fotos/01_image.jpg",
+      "/assets/productos/Coosy/PANTALON_GHALA_MARINO/fotos/02_image.jpg",
+      "/assets/productos/Coosy/PANTALON_GHALA_MARINO/fotos/03_image.jpg",
+      "/assets/productos/Coosy/PANTALON_GHALA_MARINO/fotos/04_image.jpg",
+      "/assets/productos/Coosy/PANTALON_GHALA_MARINO/fotos/05_image.jpg",
+      "/assets/productos/Coosy/PANTALON_GHALA_MARINO/fotos/06_image.jpg"
+    ],
+    "logoPath": "/assets/logos/Coosy.png",
+    "category": "inferior",
+    "subcategory": "pantalones",
+    "description": "El Pantalón Ghala es la prenda que combina elegancia y comodidad en un solo diseño. Confeccionado en un tejido ligero y fluido, este pantalón de talle alto con pinzas estiliza la silueta y se adapta a cualquier ocasión.\n\nSu estampado de rayas diplomáticas verticales aporta un aire clásico y sofisticado, perfecto tanto para un look de oficina como para elevar tu estilo en el día a día. Los botones frontales decorativos y el corte ligeramente cropped lo convierten en un básico versátil que podrás combinar con blusas, jerséis ajustados o americanas.",
+    "relatedProductIDs": [
+      "CHALECO_GHALA_MARINO",
+      "CHAQUETA_GHALA_MARINO",
+      "JERSEY_PIPO_GRIS"
+    ],
+    "color": "azul marino",
+    "style": "minimal",
+    "material": "Sin información",
+    "season": "All-season",
+    "targetAudience": "mujer",
+    "url": "https://www.coosy.es/products/pantalon-ghalamarino",
+    "stock": 50,
+    "featured": false,
+    "active": true
+  },
+  {
+    "id": "BOTAS_LISA_BURDEOS",
+    "brand": "Coosy",
+    "title": "BOTAS LISA BURDEOS",
+    "price": 255.0,
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "imagePaths": [
+      "/assets/productos/Coosy/BOTAS_LISA_BURDEOS/fotos/01_image.jpg",
+      "/assets/productos/Coosy/BOTAS_LISA_BURDEOS/fotos/02_image.jpg"
+    ],
+    "logoPath": "/assets/logos/Coosy.png",
+    "category": "calzado",
+    "subcategory": "botas",
+    "description": "Estas botas de piel en color burdeos son el complemento perfecto para elevar cualquier look con un toque de sofisticación y estilo atemporal. Confeccionadas en piel de alta calidad, destacan por su punta afilada, diseño minimalista y un tacón cómodo y estilizado que alarga la figura sin renunciar a la comodidad.\n\nSu acabado en tono vino profundo las convierte en una pieza versátil para combinar con vestidos midi, faldas, pantalones de vestir o vaqueros, siendo ideales tanto para eventos de día como para salidas nocturnas.\n\nAltura tacón: 8,5 cm\n\nDiseñado y confeccionado en nuestros talleres localizados en España.",
+    "relatedProductIDs": [],
+    "color": "burdeos",
+    "style": "casual",
+    "material": "cuero",
+    "season": "All-season",
+    "targetAudience": "mujer",
+    "url": "https://www.coosy.es/products/botas-lisaburdeos",
+    "stock": 50,
+    "featured": false,
+    "active": true
+  },
+  {
+    "id": "JERSEY_PIPO_NEGRO",
+    "brand": "Coosy",
+    "title": "JERSEY PIPO NEGRO",
+    "price": 79.0,
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "imagePaths": [
+      "/assets/productos/Coosy/JERSEY_PIPO_NEGRO/fotos/01_image.jpg",
+      "/assets/productos/Coosy/JERSEY_PIPO_NEGRO/fotos/02_image.jpg",
+      "/assets/productos/Coosy/JERSEY_PIPO_NEGRO/fotos/03_image.jpg",
+      "/assets/productos/Coosy/JERSEY_PIPO_NEGRO/fotos/04_image.jpg",
+      "/assets/productos/Coosy/JERSEY_PIPO_NEGRO/fotos/05_image.jpg"
+    ],
+    "logoPath": "/assets/logos/Coosy.png",
+    "category": "superior",
+    "subcategory": "jerséis",
+    "description": "Un básico imprescindible de temporada: este jersey de punto canalé en color negro con cuello alto es la prenda perfecta para crear looks elegantes y versátiles. Su tejido elástico se adapta cómodamente a la silueta, realzando la figura sin perder confort. Además, cuenta con nuestro logo bordado en la parte del pecho, un detalle sutil y distintivo que aporta exclusividad a la prenda.\n\nEl diseño minimalista y atemporal lo convierte en un fondo de armario ideal para combinar con pantalones de sastrería, faldas midi o bajo chaquetas y abrigos.\n\nUn jersey que aporta calidez, estilo y sofisticación, perfecto para llevar tanto en la oficina como en planes informales con un aire chic.",
+    "relatedProductIDs": [
+      "JERSEY_PIPO_BEIGE",
+      "JERSEY_PIPO_GRIS",
+      "JERSEY_PIPO_MARRON",
+      "JERSEY_PIPO_TERRACOTA"
+    ],
+    "color": "negro",
+    "style": "minimal",
+    "material": "Sin información",
+    "season": "OI",
+    "targetAudience": "mujer",
+    "url": "https://www.coosy.es/products/jersey-piponegro",
+    "stock": 50,
+    "featured": false,
+    "active": true
+  },
+  {
+    "id": "CHAQUETA_MERY_MARINO",
+    "brand": "Coosy",
+    "title": "CHAQUETA MERY MARINO",
+    "price": 130.0,
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "imagePaths": [
+      "/assets/productos/Coosy/CHAQUETA_MERY_MARINO/fotos/01_image.jpg",
+      "/assets/productos/Coosy/CHAQUETA_MERY_MARINO/fotos/02_image.jpg",
+      "/assets/productos/Coosy/CHAQUETA_MERY_MARINO/fotos/03_image.jpg",
+      "/assets/productos/Coosy/CHAQUETA_MERY_MARINO/fotos/04_image.jpg",
+      "/assets/productos/Coosy/CHAQUETA_MERY_MARINO/fotos/05_image.jpg",
+      "/assets/productos/Coosy/CHAQUETA_MERY_MARINO/fotos/06_image.jpg"
+    ],
+    "logoPath": "/assets/logos/Coosy.png",
+    "category": "superior",
+    "subcategory": "chaquetas",
+    "description": "Dale un giro sofisticado a tu armario con esta chaqueta corta de pata de gallo, diseñada para destacar con un aire retro y elegante. Confeccionada en un tejido estructurado de alta calidad, presenta un favorecedor corte recto, hombros ligeramente marcados y botones forrados al tono que le aportan un acabado impecable. Los bolsillos decorativos con ribetes en contraste le añaden un detalle moderno y chic.\n\nEsta chaqueta es el complemento perfecto para el pantalón a juego, creando un conjunto coordinado ideal para oficina, eventos o looks urbanos con mucha personalidad. También puedes llevarla con jeans o faldas para un estilo más casual pero igual de sofisticado.\n\n*La modelo mide 1,80m y lleva la talla S.\n\nDiseñado y confeccionado en nuestros talleres localizados en España.",
+    "relatedProductIDs": [
+      "JERSEY_PIPO_TERRACOTA",
+      "PANTALON_MERY_MARINO"
+    ],
+    "color": "gris",
+    "style": "elegante",
+    "material": "30%ACRILICO, 25%POLIÉSTER, 15%ALGODÓN, 30%OTRAS FIBRAS",
+    "season": "OI",
+    "targetAudience": "mujer",
+    "url": "https://www.coosy.es/products/chaqueta-merymarino",
+    "stock": 50,
+    "featured": false,
+    "active": true
+  },
+  {
+    "id": "JERSEY_PIPO_BEIGE",
+    "brand": "Coosy",
+    "title": "JERSEY PIPO BEIGE",
+    "price": 79.0,
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "imagePaths": [
+      "/assets/productos/Coosy/JERSEY_PIPO_BEIGE/fotos/01_37881.jpg",
+      "/assets/productos/Coosy/JERSEY_PIPO_BEIGE/fotos/02_37882.jpg",
+      "/assets/productos/Coosy/JERSEY_PIPO_BEIGE/fotos/03_37883.jpg"
+    ],
+    "logoPath": "/assets/logos/Coosy.png",
+    "category": "superior",
+    "subcategory": "jerséis",
+    "description": "Un básico imprescindible de temporada: este jersey de punto canalé en color beige con cuello alto es la prenda perfecta para crear looks elegantes y versátiles. Su tejido elástico se adapta cómodamente a la silueta, realzando la figura sin perder confort. Además, cuenta con nuestro logo bordado en la parte del pecho, un detalle sutil y distintivo que aporta exclusividad a la prenda.\n\nEl diseño minimalista y atemporal lo convierte en un fondo de armario ideal para combinar con pantalones de sastrería, faldas midi o bajo chaquetas y abrigos.\n\nUn jersey que aporta calidez, estilo y sofisticación, perfecto para llevar tanto en la oficina como en planes informales con un aire chic.",
+    "relatedProductIDs": [
+      "JERSEY_PIPO_GRIS",
+      "JERSEY_PIPO_MARRON",
+      "JERSEY_PIPO_NEGRO",
+      "JERSEY_PIPO_TERRACOTA"
+    ],
+    "color": "beige",
+    "style": "minimal",
+    "material": "Sin información",
+    "season": "OI",
+    "targetAudience": "mujer",
+    "url": "https://www.coosy.es/products/jersey-pipobeige",
+    "stock": 50,
+    "featured": false,
+    "active": true
+  },
+  {
+    "id": "CAMISA_MARIA_VERDE",
+    "brand": "Coosy",
+    "title": "CAMISA MARÍA VERDE",
+    "price": 84.0,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "imagePaths": [
+      "/assets/productos/Coosy/CAMISA_MARIA_VERDE/fotos/01_image.jpg",
+      "/assets/productos/Coosy/CAMISA_MARIA_VERDE/fotos/02_image.jpg",
+      "/assets/productos/Coosy/CAMISA_MARIA_VERDE/fotos/03_image.jpg",
+      "/assets/productos/Coosy/CAMISA_MARIA_VERDE/fotos/04_image.jpg"
+    ],
+    "logoPath": "/assets/logos/Coosy.png",
+    "category": "superior",
+    "subcategory": "camisas",
+    "description": "Descubre la sofisticación en cada detalle de la Camisa María. Diseñada en fondo verde con rayas blancas, aporta un aire elegante y moderno que estiliza la figura. Su protagonista es el gran lazo al cuello, un detalle versátil y femenino que transforma el look, perfecto tanto para ir a la oficina como para ocasiones especiales.\n\nLas mangas abullonadas con puños ajustados añaden volumen y tendencia, mientras que su corte recto ofrece comodidad sin perder estilo. Una prenda imprescindible en tu armario para combinar con pantalones de pinza, faldas midi o jeans y conseguir un look atemporal con un toque chic.\n\nDiseñado y confeccionado en nuestros talleres localizados en España.",
+    "relatedProductIDs": [
+      "CAMISA_MARIA_AZUL",
+      "CAMISA_MARIA_MARRON"
+    ],
+    "color": "verde",
+    "style": "elegante",
+    "material": "ALGODON, POLIAMIDA, ELASTANO",
+    "season": "OI",
+    "targetAudience": "mujer",
+    "url": "https://www.coosy.es/products/camisa-mariaverde",
+    "stock": 50,
+    "featured": false,
+    "active": true
+  },
+  {
+    "id": "VESTIDO_MERCIA_GRIS",
+    "brand": "Coosy",
+    "title": "VESTIDO MERCIA GRIS",
+    "price": 130.0,
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "imagePaths": [
+      "/assets/productos/Coosy/VESTIDO_MERCIA_GRIS/fotos/01_COOSY-PAZO-DE-LOURIZAN40564.jpg",
+      "/assets/productos/Coosy/VESTIDO_MERCIA_GRIS/fotos/02_COOSY-PAZO-DE-LOURIZAN40599.jpg",
+      "/assets/productos/Coosy/VESTIDO_MERCIA_GRIS/fotos/03_COOSY_PAZO_DE_LOURIZAN40537.jpg",
+      "/assets/productos/Coosy/VESTIDO_MERCIA_GRIS/fotos/04_25210VESTIMERCIA25_1064.jpg",
+      "/assets/productos/Coosy/VESTIDO_MERCIA_GRIS/fotos/05_25210VESTIMERCIA25_1078.jpg",
+      "/assets/productos/Coosy/VESTIDO_MERCIA_GRIS/fotos/06_25210VESTIMERCIA25_1091.jpg",
+      "/assets/productos/Coosy/VESTIDO_MERCIA_GRIS/fotos/07_25210VESTIMERCIA25_1085.jpg"
+    ],
+    "logoPath": "/assets/logos/Coosy.png",
+    "category": "vestido",
+    "subcategory": "vestidos",
+    "description": "Este vestido midi de Coosy es la definición de elegancia y estilo atemporal. Diseñado en un tono neutro sofisticado, destaca por su cuello drapeado que aporta movimiento y delicadeza en la parte frontal, mientras que la espalda sorprende con un escote cuadrado minimalista que realza la silueta con sutil sensualidad.\n\nSu corte entallado se ajusta de forma favorecedora, acompañado de un cinturón a tono en contraste, que marca la cintura y estiliza la figura. Las mangas largas lo convierten en una opción ideal para eventos de otoño e invierno, como bodas de día, cócteles, cenas o celebraciones especiales.",
+    "relatedProductIDs": [],
+    "color": "gris",
+    "style": "minimal",
+    "material": "Sin información",
+    "season": "OI",
+    "targetAudience": "mujer",
+    "url": "https://www.coosy.es/products/vestido-merciagris",
+    "stock": 50,
+    "featured": false,
+    "active": true
+  },
+  {
+    "id": "CAMISA_FANNY_MARRON",
+    "brand": "Coosy",
+    "title": "CAMISA FANNY MARRON",
+    "price": 75.58,
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "imagePaths": [
+      "/assets/productos/Coosy/CAMISA_FANNY_MARRON/fotos/01_image.jpg",
+      "/assets/productos/Coosy/CAMISA_FANNY_MARRON/fotos/02_image.jpg",
+      "/assets/productos/Coosy/CAMISA_FANNY_MARRON/fotos/03_image.jpg",
+      "/assets/productos/Coosy/CAMISA_FANNY_MARRON/fotos/04_image.jpg",
+      "/assets/productos/Coosy/CAMISA_FANNY_MARRON/fotos/05_image.jpg"
+    ],
+    "logoPath": "/assets/logos/Coosy.png",
+    "category": "superior",
+    "subcategory": "camisas",
+    "description": "Déjate seducir por la elegancia atemporal de nuestra Camisa Fanny en tono marrón cálido. Confeccionada en un tejido satinado de tacto suave y caída fluida, es la pieza esencial para elevar cualquier look.\n\nSu cuello clásico amplio y ligeramente estructurado añade un toque sofisticado y versátil: puedes llevarlo abierto para un aire relajado o subido para un look más rotundo. Los botones frontales nacarados realzan su acabado lujoso y sutil.\n\nLas mangas largas con puño marcado permiten un ajuste cómodo y estilizado. Ideal para combinar con pantalones fluidos, faldas midi o vaqueros de tiro alto. Una camisa marrón para mujer imprescindible en tu armario, pensada para acompañarte desde la oficina hasta un evento especial.\n\n*La modelo mide 1,80 y lleva la talla S.\n\nDiseñado y confeccionado en nuestros talleres localizados en España.",
+    "relatedProductIDs": [
+      "PANTALON_ELVA_CRUDO"
+    ],
+    "color": "marrón",
+    "style": "formal",
+    "material": "POLIESTER",
+    "season": "OI",
+    "targetAudience": "mujer",
+    "url": "https://www.coosy.es/products/camisa-fannymarron",
+    "stock": 50,
+    "featured": false,
+    "active": true
+  },
+  {
+    "id": "CHAQUETA_ICON_JCQ_RETRO_HUMO",
+    "brand": "Sophie and Lucie",
+    "title": "CHAQUETA ICON JCQ RETRO HUMO",
+    "price": 149.99,
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "imagePaths": [
+      "/assets/productos/Sophie and Lucie/CHAQUETA_ICON_JCQ_RETRO_HUMO/fotos/01_SL7207_b9a1f429-0a1c-421b-b052-9bd168dc20a5_600x.jpg",
+      "/assets/productos/Sophie and Lucie/CHAQUETA_ICON_JCQ_RETRO_HUMO/fotos/02_SL7205_47c38eb1-2822-40a0-9903-fba0e15012eb_600x.jpg",
+      "/assets/productos/Sophie and Lucie/CHAQUETA_ICON_JCQ_RETRO_HUMO/fotos/03_SL7229_2377aee1-1877-4322-af1e-538451d05928_600x.jpg",
+      "/assets/productos/Sophie and Lucie/CHAQUETA_ICON_JCQ_RETRO_HUMO/fotos/04_SL7231_c491f84d-82e4-4585-bc8b-fe40d4616f38_600x.jpg",
+      "/assets/productos/Sophie and Lucie/CHAQUETA_ICON_JCQ_RETRO_HUMO/fotos/05_S_L13_A_d7a36bd4-68d3-4004-af57-4d61b983fa5c_600x_solo.jpg"
+    ],
+    "logoPath": "/assets/logos/Sophie and Lucie.png",
+    "category": "superior",
+    "subcategory": "chaquetas",
+    "description": null,
+    "relatedProductIDs": [],
+    "color": "verde",
+    "style": "vintage",
+    "material": "Sin información",
+    "season": "All-season",
+    "targetAudience": "mujer",
+    "url": "https://www.sophieandlucie.com/products/total-look-icon-jcq-retro-humo?pr_prod_strat=e5_desc&pr_rec_id=5faa5e4ff&pr_rec_pid=9023031771482&pr_ref_pid=10082783101274&pr_seq=uniform",
+    "stock": 50,
+    "featured": false,
+    "active": true
+  },
+  {
+    "id": "ABRIGO_TOKYO_SUPERLANA_MARINO",
+    "brand": "Sophie and Lucie",
+    "title": "Abrigo tokyo superlana marino",
+    "price": 290.0,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "imagePaths": [
+      "/assets/productos/Sophie and Lucie/ABRIGO_TOKYO_SUPERLANA_MARINO/fotos/01_8N6A0793_600x.jpg",
+      "/assets/productos/Sophie and Lucie/ABRIGO_TOKYO_SUPERLANA_MARINO/fotos/02_8N6A0829_600x.jpg",
+      "/assets/productos/Sophie and Lucie/ABRIGO_TOKYO_SUPERLANA_MARINO/fotos/03_8N6A0997_600x.jpg",
+      "/assets/productos/Sophie and Lucie/ABRIGO_TOKYO_SUPERLANA_MARINO/fotos/04_SL_LB_1629797_600x.jpg",
+      "/assets/productos/Sophie and Lucie/ABRIGO_TOKYO_SUPERLANA_MARINO/fotos/05_SL_LB_1629821_600x.jpg",
+      "/assets/productos/Sophie and Lucie/ABRIGO_TOKYO_SUPERLANA_MARINO/fotos/06_SL_LB_1629824_600x.jpg",
+      "/assets/productos/Sophie and Lucie/ABRIGO_TOKYO_SUPERLANA_MARINO/fotos/07_S_L055_1_0d7cd40c-2305-492a-b43b-5ad08c8e6d49_600x_solo.jpg"
+    ],
+    "logoPath": "/assets/logos/Sophie and Lucie.png",
+    "category": "abrigo",
+    "subcategory": "abrigos",
+    "description": null,
+    "relatedProductIDs": [],
+    "color": "azul marino",
+    "style": "Sin información",
+    "material": "Sin información",
+    "season": "OI",
+    "targetAudience": "mujer",
+    "url": "https://www.sophieandlucie.com/products/abrigo-tokyo-superlana-marino-oi25",
+    "stock": 50,
+    "featured": false,
+    "active": true
+  },
+  {
+    "id": "SOCIAL_HOODIE_FOREST_GREEN",
+    "brand": "Goated Link",
+    "title": "Social Hoodie - Forest Green",
+    "price": 62.0,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "imagePaths": [
+      "/assets/productos/Goated Link/SOCIAL_HOODIE_FOREST_GREEN/fotos/01_social-hoodie-forest-green-2401aw21nf043100s-972074_2048x2048.jpg",
+      "/assets/productos/Goated Link/SOCIAL_HOODIE_FOREST_GREEN/fotos/02_social-hoodie-forest-green-2401aw21nf043100s-403496_2048x2048.jpg",
+      "/assets/productos/Goated Link/SOCIAL_HOODIE_FOREST_GREEN/fotos/03_social-hoodie-forest-green-2401aw21nf043100s-677984_2048x2048.jpg",
+      "/assets/productos/Goated Link/SOCIAL_HOODIE_FOREST_GREEN/fotos/04_social-hoodie-forest-green-2401aw21nf043100s-230128_2048x2048_solo.jpg",
+      "/assets/productos/Goated Link/SOCIAL_HOODIE_FOREST_GREEN/fotos/05_social-hoodie-forest-green-2401aw21nf043100s-942342_2048x2048.jpg"
+    ],
+    "logoPath": "/assets/logos/Goated Link.png",
+    "category": "superior",
+    "subcategory": "sudaderas",
+    "description": "Es una sudadera oversized-cropped con efecto lavado unisex de color verde oscuro.\n\nCon la colección \"Contactless\" no solo buscamos seguir innovando como marca lanzando algo totalmente diferente y que no se ha visto nunca en el mercado.\n\nEs un experimento en el que, cansados de la sociedad de hoy en día, buscamos a personas abiertas y atrevidas.\n\nSi acercas el móvil al parche del NFC va a salir el Instagram de la persona que forma parte del experimento. El \"Icebreaker\" perfecto.\n\nEstas sudaderas son totalmente personalizables y solo tendrás que dejarnos tu Instagram en la caja de texto que encontrarás arriba.\n\nLa prenda se puede lavar y planchar sin problema. Igualmente, unas recomendaciones para cuidar tu prenda vendrán dentro del packaging.\n\nCambiando el juego de la moda. Convirtiendo la moda en un juego.",
+    "relatedProductIDs": [],
+    "color": "verde",
+    "style": "street",
+    "material": "Sin información",
+    "season": "All-season",
+    "targetAudience": "mujer",
+    "url": "https://goatedlink.com/es/collections/hoodies/products/social-hoodie-forest-green",
+    "stock": 50,
+    "featured": false,
+    "active": true
+  },
+  {
+    "id": "740_ZAPATILLAS",
+    "brand": "New Balance",
+    "title": "740 zapatillas",
+    "price": 120.0,
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L"
+    ],
+    "imagePaths": [
+      "/assets/productos/New Balance/740_ZAPATILLAS/fotos/01_u740wm2_nb_02_i_solo.jpg",
+      "/assets/productos/New Balance/740_ZAPATILLAS/fotos/02_u740wm2_nb_05_i.jpg",
+      "/assets/productos/New Balance/740_ZAPATILLAS/fotos/03_u740wm2_nb_03_i.jpg",
+      "/assets/productos/New Balance/740_ZAPATILLAS/fotos/04_u740wm2_nb_04_i.jpg",
+      "/assets/productos/New Balance/740_ZAPATILLAS/fotos/05_u740wm2_nb_07_i.jpg",
+      "/assets/productos/New Balance/740_ZAPATILLAS/fotos/06_u740wm2_nb_06_i.jpg",
+      "/assets/productos/New Balance/740_ZAPATILLAS/fotos/07_u740wm2_nb_14_i.jpg"
+    ],
+    "logoPath": "/assets/logos/New Balance.png",
+    "category": "calzado",
+    "subcategory": "zapatillas",
+    "description": null,
+    "relatedProductIDs": [],
+    "color": "blanco",
+    "style": "Sin información",
+    "material": "Sin información",
+    "season": "All-season",
+    "targetAudience": "mujer",
+    "url": "https://www.newbalance.es/es/pd/740/U740V2-50105-PMG-EMEA.html?dwvar_U740V2-50105-PMG-EMEA_style=U740WM2",
+    "stock": 50,
+    "featured": false,
+    "active": true
+  },
+  {
+    "id": "VESTIDO_YASMIN",
+    "brand": "Utopya",
+    "title": "VESTIDO YASMIN",
+    "price": 45.9,
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "imagePaths": [
+      "/assets/productos/Utopya/VESTIDO_YASMIN/fotos/01_Vestido-formal-otono-tendencia-viral-tul-invitada-MR22221-utopya-moda-mujer-5.jpg",
+      "/assets/productos/Utopya/VESTIDO_YASMIN/fotos/02_Vestido-formal-otono-tendencia-viral-tul-invitada-MR22221-utopya-moda-mujer-4.jpg",
+      "/assets/productos/Utopya/VESTIDO_YASMIN/fotos/03_Vestido-formal-otono-tendencia-viral-tul-invitada-MR22221-utopya-moda-mujer-1.jpg",
+      "/assets/productos/Utopya/VESTIDO_YASMIN/fotos/04_Vestido-formal-otono-tendencia-viral-tul-invitada-MR22221-utopya-moda-mujer-2.jpg",
+      "/assets/productos/Utopya/VESTIDO_YASMIN/fotos/05_Vestido-formal-otono-tendencia-viral-tul-invitada-MR22221-utopya-moda-mujer-3.jpg"
+    ],
+    "logoPath": "/assets/logos/Utopya.png",
+    "category": "vestido",
+    "subcategory": "vestidos",
+    "description": null,
+    "relatedProductIDs": [],
+    "color": "rojo",
+    "style": "Sin información",
+    "material": "Sin información",
+    "season": "PV",
+    "targetAudience": "mujer",
+    "url": "https://utopyashop.com/producto/vestido-yasmin/",
+    "stock": 50,
+    "featured": false,
+    "active": true
+  },
+  {
+    "id": "BLUSA_MIEL",
+    "brand": "Utopya",
+    "title": "BLUSA MIEL",
+    "price": 26.9,
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "imagePaths": [
+      "/assets/productos/Utopya/BLUSA_MIEL/fotos/01_Blusa-volantes-pantalon-gris-tendencia-viral-formal-otono-invierno-MA1165-MR22403-moda-mujer-utopya-3.jpg",
+      "/assets/productos/Utopya/BLUSA_MIEL/fotos/02_Blusa-volantes-pantalon-gris-tendencia-viral-formal-otono-invierno-MA1165-MR22403-moda-mujer-utopya-2.jpg",
+      "/assets/productos/Utopya/BLUSA_MIEL/fotos/03_Blusa-volantes-pantalon-gris-tendencia-viral-formal-otono-invierno-MA1165-MR22403-moda-mujer-utopya-4.jpg"
+    ],
+    "logoPath": "/assets/logos/Utopya.png",
+    "category": "superior",
+    "subcategory": "blusas",
+    "description": null,
+    "relatedProductIDs": [],
+    "color": "negro",
+    "style": "Sin información",
+    "material": "Sin información",
+    "season": "PV",
+    "targetAudience": "mujer",
+    "url": "https://utopyashop.com/producto/blusa-miel/",
+    "stock": 50,
+    "featured": false,
+    "active": true
+  },
+  {
+    "id": "CAMISA_LYSANDRA",
+    "brand": "Utopya",
+    "title": "CAMISA LYSANDRA",
+    "price": 29.9,
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "imagePaths": [
+      "/assets/productos/Utopya/CAMISA_LYSANDRA/fotos/01_Camisa-blanco-tendencia-viral-formal-otono-invierno-pantalon-recto-MA1299-MR22277-moda-mujer-utopya-6.jpg",
+      "/assets/productos/Utopya/CAMISA_LYSANDRA/fotos/02_Camisa-blanco-tendencia-viral-formal-otono-invierno-pantalon-recto-MA1299-MR22277-moda-mujer-utopya-5.jpg",
+      "/assets/productos/Utopya/CAMISA_LYSANDRA/fotos/03_Camisa-blanco-tendencia-viral-formal-otono-invierno-pantalon-recto-MA1299-MR22277-moda-mujer-utopya-3.jpg",
+      "/assets/productos/Utopya/CAMISA_LYSANDRA/fotos/04_Camisa-blanco-tendencia-viral-formal-otono-invierno-pantalon-recto-MA1299-MR22277-moda-mujer-utopya-4.jpg",
+      "/assets/productos/Utopya/CAMISA_LYSANDRA/fotos/05_Camisa-blanco-tendencia-viral-formal-otono-invierno-pantalon-recto-MA1299-MR22277-moda-mujer-utopya-1.jpg",
+      "/assets/productos/Utopya/CAMISA_LYSANDRA/fotos/06_Camisa-blanco-tendencia-viral-formal-otono-invierno-pantalon-recto-MA1299-MR22277-moda-mujer-utopya-2.jpg"
+    ],
+    "logoPath": "/assets/logos/Utopya.png",
+    "category": "superior",
+    "subcategory": "camisas",
+    "description": null,
+    "relatedProductIDs": [],
+    "color": "blanco",
+    "style": "Sin información",
+    "material": "Sin información",
+    "season": "PV",
+    "targetAudience": "mujer",
+    "url": "https://utopyashop.com/producto/camisa-lysandra/",
+    "stock": 50,
+    "featured": false,
+    "active": true
+  }
+]

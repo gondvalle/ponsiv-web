@@ -1,0 +1,27 @@
+{
+  "nombre": "ABRIGO REVERSIBLE PELO 100% PIEL",
+  "marca": "Mango",
+  "precio": 1599.99,
+  "tallas": [
+    "XS",
+    "S",
+    "M",
+    "L",
+    "XL"
+  ],
+  "categoria": "abrigo",
+  "url": "https://shop.mango.com/es/es/p/mujer/abrigos/abrigos/abrigo-reversible-pelo-100-piel_17086357",
+  "descripcion": "Confeccionado en 100% piel bovino con pelo. Este diseño largo y recto es reversible. Presenta un cuello pico de solapas con muesca, manga larga y dos bolsillos laterales. Colección Selection\n\nUna selección de prendas refinadas, confeccionadas con tejidos de calidad para construir un armario femenino y contemporáneo\n\nREF. 17086357",
+  "relacionados": [
+    "CAMISETA_ALGODON_MANGA_CORTA",
+    "PANTALON_SATINADO_ABERTURAS_LATERALES"
+  ],
+  "item_id": "ABRIGO_REVERSIBLE_PELO_100_PIEL",
+  "subcategoria": "abrigos",
+  "color": "blanco",
+  "estilo": "Sin información",
+  "material": "piel",
+  "temporada": "OI",
+  "publico_objetivo": "mujer",
+  "patrocinado": false
+}

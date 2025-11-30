@@ -1,0 +1,25 @@
+{
+  "nombre": "PANTALÓN RECTO ALGODÓN",
+  "marca": "Mango",
+  "precio": 29.99,
+  "tallas": [
+    "XS",
+    "S",
+    "M",
+    "L"
+  ],
+  "categoria": "inferior",
+  "url": "https://shop.mango.com/es/es/p/mujer/pantalones/straight/pantalon-recto-algodon_17091197",
+  "descripcion": "Tejido 100% algodón. Diseño largo. Diseño recto. Tiro medio. Cinco bolsillos. Cierre de cremallera y botón. Total look.\n\nREF. 17091197",
+  "relacionados": [
+    "BOLSO_HOMBRO_MEDIANO_TRENZADO"
+  ],
+  "item_id": "PANTALON_RECTO_ALGODON",
+  "subcategoria": "pantalones",
+  "color": "crema",
+  "estilo": "Sin información",
+  "material": "algodón",
+  "temporada": "All-season",
+  "publico_objetivo": "mujer",
+  "patrocinado": false
+}

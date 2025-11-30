@@ -1,0 +1,242 @@
+[
+  {
+    "id": "zara",
+    "brandName": "Zara",
+    "contactEmail": "admin@zara.com",
+    "password": "zara2025",
+    "logoPath": "assets/logos/Zara.png",
+    "role": "owner",
+    "createdAt": "2025-01-01T00:00:00Z",
+    "permissions": [
+      "catalog.manage",
+      "looks.manage",
+      "bonuses.manage",
+      "analytics.view",
+      "settings.manage"
+    ]
+  },
+  {
+    "id": "coosy",
+    "brandName": "Coosy",
+    "contactEmail": "admin@coosy.com",
+    "password": "coosy2025",
+    "logoPath": "assets/logos/Coosy.png",
+    "role": "owner",
+    "createdAt": "2025-01-01T00:00:00Z",
+    "permissions": [
+      "catalog.manage",
+      "looks.manage",
+      "bonuses.manage",
+      "analytics.view",
+      "settings.manage"
+    ]
+  },
+  {
+    "id": "eme-studios",
+    "brandName": "Eme Studios",
+    "contactEmail": "admin@emestudios.com",
+    "password": "eme2025",
+    "logoPath": "assets/logos/Eme Studios.png",
+    "role": "owner",
+    "createdAt": "2025-01-01T00:00:00Z",
+    "permissions": [
+      "catalog.manage",
+      "looks.manage",
+      "bonuses.manage",
+      "analytics.view",
+      "settings.manage"
+    ]
+  },
+  {
+    "id": "nicoli",
+    "brandName": "Nicoli",
+    "contactEmail": "admin@nicoli.com",
+    "password": "nicoli2025",
+    "logoPath": "assets/logos/Nicoli.png",
+    "role": "owner",
+    "createdAt": "2025-01-01T00:00:00Z",
+    "permissions": [
+      "catalog.manage",
+      "looks.manage",
+      "bonuses.manage",
+      "analytics.view",
+      "settings.manage"
+    ]
+  },
+  {
+    "id": "mango",
+    "brandName": "Mango",
+    "contactEmail": "admin@mango.com",
+    "password": "mango2025",
+    "logoPath": "assets/logos/Mango.png",
+    "role": "owner",
+    "createdAt": "2025-01-01T00:00:00Z",
+    "permissions": [
+      "catalog.manage",
+      "looks.manage",
+      "bonuses.manage",
+      "analytics.view",
+      "settings.manage"
+    ]
+  },
+  {
+    "id": "massimo-dutti",
+    "brandName": "Massimo Dutti",
+    "contactEmail": "admin@massimodutti.com",
+    "password": "massimo2025",
+    "logoPath": "assets/logos/Massimo Dutti.png",
+    "role": "owner",
+    "createdAt": "2025-01-01T00:00:00Z",
+    "permissions": [
+      "catalog.manage",
+      "looks.manage",
+      "bonuses.manage",
+      "analytics.view",
+      "settings.manage"
+    ]
+  },
+  {
+    "id": "nude-project",
+    "brandName": "Nude Project",
+    "contactEmail": "admin@nudeproject.com",
+    "password": "nude2025",
+    "logoPath": "assets/logos/Nude Project.png",
+    "role": "owner",
+    "createdAt": "2025-01-01T00:00:00Z",
+    "permissions": [
+      "catalog.manage",
+      "looks.manage",
+      "bonuses.manage",
+      "analytics.view",
+      "settings.manage"
+    ]
+  },
+  {
+    "id": "scalpers",
+    "brandName": "Scalpers",
+    "contactEmail": "admin@scalpers.com",
+    "password": "scalpers2025",
+    "logoPath": "assets/logos/Scalpers.png",
+    "role": "owner",
+    "createdAt": "2025-01-01T00:00:00Z",
+    "permissions": [
+      "catalog.manage",
+      "looks.manage",
+      "bonuses.manage",
+      "analytics.view",
+      "settings.manage"
+    ]
+  },
+  {
+    "id": "sophie-and-lucie",
+    "brandName": "Sophie and Lucie",
+    "contactEmail": "admin@sophieandlucie.com",
+    "password": "sophie2025",
+    "logoPath": "assets/logos/Sophie and Lucie.png",
+    "role": "owner",
+    "createdAt": "2025-01-01T00:00:00Z",
+    "permissions": [
+      "catalog.manage",
+      "looks.manage",
+      "bonuses.manage",
+      "analytics.view",
+      "settings.manage"
+    ]
+  },
+  {
+    "id": "the-iq-collection",
+    "brandName": "The IQ Collection",
+    "contactEmail": "admin@theiqcollection.com",
+    "password": "iqcollection2025",
+    "logoPath": "assets/logos/The IQ Collection.png",
+    "role": "owner",
+    "createdAt": "2025-01-01T00:00:00Z",
+    "permissions": [
+      "catalog.manage",
+      "looks.manage",
+      "bonuses.manage",
+      "analytics.view",
+      "settings.manage"
+    ]
+  },
+  {
+    "id": "utopya",
+    "brandName": "Utopya",
+    "contactEmail": "admin@utopya.com",
+    "password": "utopya2025",
+    "logoPath": "assets/logos/Utopya.png",
+    "role": "owner",
+    "createdAt": "2025-01-01T00:00:00Z",
+    "permissions": [
+      "catalog.manage",
+      "looks.manage",
+      "bonuses.manage",
+      "analytics.view",
+      "settings.manage"
+    ]
+  },
+  {
+    "id": "baandsh",
+    "brandName": "ba&sh",
+    "contactEmail": "admin@ba-sh.com",
+    "password": "bash2025",
+    "logoPath": "assets/logos/ba&sh.png",
+    "role": "owner",
+    "createdAt": "2025-01-01T00:00:00Z",
+    "permissions": [
+      "catalog.manage",
+      "looks.manage",
+      "bonuses.manage",
+      "analytics.view",
+      "settings.manage"
+    ]
+  },
+  {
+    "id": "ramsos",
+    "brandName": "Ramsos",
+    "contactEmail": "admin@ramsos.com",
+    "password": "ramsos2025",
+    "logoPath": "assets/logos/Ramsos.png",
+    "role": "owner",
+    "createdAt": "2025-01-01T00:00:00Z",
+    "permissions": [
+      "catalog.manage",
+      "looks.manage",
+      "bonuses.manage",
+      "analytics.view",
+      "settings.manage"
+    ]
+  },
+  {
+    "id": "goated-link",
+    "brandName": "Goated Link",
+    "contactEmail": "admin@goatedlink.com",
+    "password": "goated2025",
+    "logoPath": "assets/logos/Goated Link.png",
+    "role": "owner",
+    "createdAt": "2025-01-01T00:00:00Z",
+    "permissions": [
+      "catalog.manage",
+      "looks.manage",
+      "bonuses.manage",
+      "analytics.view",
+      "settings.manage"
+    ]
+  },
+  {
+    "id": "new-balance",
+    "brandName": "New Balance",
+    "contactEmail": "admin@newbalance.com",
+    "password": "newbalance2025",
+    "logoPath": "assets/logos/New Balance.png",
+    "role": "owner",
+    "createdAt": "2025-01-01T00:00:00Z",
+    "permissions": [
+      "catalog.manage",
+      "looks.manage",
+      "bonuses.manage",
+      "analytics.view",
+      "settings.manage"
+    ]
+  }
+]

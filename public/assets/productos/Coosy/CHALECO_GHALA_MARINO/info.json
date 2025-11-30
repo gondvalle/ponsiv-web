@@ -1,0 +1,27 @@
+{
+  "nombre": "CHALECO GHALA MARINO",
+  "marca": "Coosy",
+  "precio": 79.0,
+  "tallas": [
+    "XS",
+    "S",
+    "M",
+    "L",
+    "XL"
+  ],
+  "categoria": "superior",
+  "url": "https://www.coosy.es/products/chaleco-ghalamarino",
+  "descripcion": "El Chaleco Ghala es una prenda sofisticada y versátil que forma parte del exclusivo Conjunto Ghala. Su diseño estructurado resalta la silueta femenina, mientras que el fajín incorporado añade un toque de distinción y elegancia, marcando la cintura de forma favorecedora.\n\nIdeal para eventos especiales, celebraciones o incluso como pieza estrella en looks de invitada, este chaleco combina a la perfección con el pantalón del conjunto Ghala, creando un estilismo moderno y atemporal.\n\nConfeccionado en materiales de alta calidad, el chaleco Ghala ofrece comodidad sin renunciar a la sofisticación. Es la opción perfecta para quienes buscan un outfit de invitada diferente, actual y lleno de personalidad.\n\nDiseñado y confeccionado en nuestros talleres localizados en España.",
+  "relacionados": [
+    "CHAQUETA_GHALA_MARINO",
+    "PANTALON_GHALA_MARINO"
+  ],
+  "item_id": "CHALECO_GHALA_MARINO",
+  "subcategoria": "chalecos",
+  "color": "azul marino",
+  "estilo": "elegante",
+  "material": "POLIESTER, VISCOSA, ELASTANO",
+  "temporada": "All-season",
+  "publico_objetivo": "mujer",
+  "patrocinado": false
+}

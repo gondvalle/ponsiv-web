@@ -1,0 +1,24 @@
+{
+  "nombre": "CAMISA FANNY MARRON",
+  "marca": "Coosy",
+  "precio": 75.58,
+  "tallas": [
+    "S",
+    "M",
+    "L"
+  ],
+  "categoria": "superior",
+  "url": "https://www.coosy.es/products/camisa-fannymarron",
+  "descripcion": "Déjate seducir por la elegancia atemporal de nuestra Camisa Fanny en tono marrón cálido. Confeccionada en un tejido satinado de tacto suave y caída fluida, es la pieza esencial para elevar cualquier look.\n\nSu cuello clásico amplio y ligeramente estructurado añade un toque sofisticado y versátil: puedes llevarlo abierto para un aire relajado o subido para un look más rotundo. Los botones frontales nacarados realzan su acabado lujoso y sutil.\n\nLas mangas largas con puño marcado permiten un ajuste cómodo y estilizado. Ideal para combinar con pantalones fluidos, faldas midi o vaqueros de tiro alto. Una camisa marrón para mujer imprescindible en tu armario, pensada para acompañarte desde la oficina hasta un evento especial.\n\n*La modelo mide 1,80 y lleva la talla S.\n\nDiseñado y confeccionado en nuestros talleres localizados en España.",
+  "relacionados": [
+    "PANTALON_ELVA_CRUDO"
+  ],
+  "item_id": "CAMISA_FANNY_MARRON",
+  "subcategoria": "camisas",
+  "color": "marrón",
+  "estilo": "formal",
+  "material": "POLIESTER",
+  "temporada": "OI",
+  "publico_objetivo": "mujer",
+  "patrocinado": false
+}

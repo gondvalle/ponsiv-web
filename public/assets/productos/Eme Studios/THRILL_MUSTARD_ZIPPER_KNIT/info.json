@@ -1,0 +1,27 @@
+{
+  "nombre": "Thrill Mustard Zipper Knit",
+  "marca": "Eme Studios",
+  "precio": 89.0,
+  "tallas": [
+    "XS",
+    "S",
+    "M",
+    "L",
+    "XL",
+    "XXL"
+  ],
+  "categoria": "superior",
+  "url": "https://emestudios.com/products/thrill-mustard-zipper-knit",
+  "descripcion": "100% Cotton\nBoxy and slightly cropped cut\nHeavyweight knit\nMetal zip detail\nGraphics with jacquard structure",
+  "relacionados": [
+    "SOMM_OFF_SAND_BAGGY_SWEATPANTS"
+  ],
+  "item_id": "THRILL_MUSTARD_ZIPPER_KNIT",
+  "subcategoria": "sudaderas",
+  "color": "azul",
+  "estilo": "Sin información",
+  "material": "algodón",
+  "temporada": "All-season",
+  "publico_objetivo": "mujer",
+  "patrocinado": false
+}

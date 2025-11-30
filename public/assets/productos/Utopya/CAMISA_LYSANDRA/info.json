@@ -1,0 +1,21 @@
+{
+  "nombre": "CAMISA LYSANDRA",
+  "marca": "Utopya",
+  "precio": 29.9,
+  "tallas": [
+    "S",
+    "M",
+    "L"
+  ],
+  "categoria": "superior",
+  "url": "https://utopyashop.com/producto/camisa-lysandra/",
+  "item_id": "CAMISA_LYSANDRA",
+  "subcategoria": "camisas",
+  "color": "blanco",
+  "estilo": "Sin información",
+  "relacionados": [],
+  "material": "Sin información",
+  "temporada": "PV",
+  "publico_objetivo": "mujer",
+  "patrocinado": false
+}

@@ -1,0 +1,21 @@
+{
+  "nombre": "LAAGAM | CAMISETA HERA",
+  "marca": "Scalpers",
+  "precio": 49.95,
+  "tallas": [
+    "XS",
+    "S",
+    "M"
+  ],
+  "categoria": "superior",
+  "url": "https://scalperscompany.com/products/64855-camiseta-hera-aw2526-ib-navy",
+  "item_id": "LAAGAM_CAMISETA_HERA",
+  "subcategoria": "camisetas",
+  "color": "negro",
+  "estilo": "Sin información",
+  "relacionados": [],
+  "material": "Sin información",
+  "temporada": "PV",
+  "publico_objetivo": "mujer",
+  "patrocinado": false
+}

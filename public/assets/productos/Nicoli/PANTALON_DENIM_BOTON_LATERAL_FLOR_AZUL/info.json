@@ -1,0 +1,27 @@
+{
+  "nombre": "PANTALÓN DENIM BOTÓN LATERAL FLOR AZUL",
+  "marca": "Nicoli",
+  "precio": 79.9,
+  "tallas": [
+    "S",
+    "M",
+    "L"
+  ],
+  "categoria": "inferior",
+  "url": "https://www.nicolishop.com/es/es/denim-boton-lateral-flor-azul/252M510124-24.html",
+  "descripcion": "Pantalón denim, en lavado azul, con detalle de botones en forma de flor en los laterales. Patrón de pierna wide leg. Disponible en dos colores.La modelo lleva talla 36 y mide 1,73cm.\nREF. 252M510124-24",
+  "relacionados": [
+    "BOTIN_COWBOY_MARRON",
+    "CAMISA_IKAT_CAPTAIN",
+    "CINTURON_FINO_COWBOY_GUINDA",
+    "COLLAR_LARGO_BEADS_PLATEADAS"
+  ],
+  "item_id": "PANTALON_DENIM_BOTON_LATERAL_FLOR_AZUL",
+  "subcategoria": "pantalones",
+  "color": "azul",
+  "estilo": "Sin información",
+  "material": "Sin información",
+  "temporada": "All-season",
+  "publico_objetivo": "mujer",
+  "patrocinado": false
+}

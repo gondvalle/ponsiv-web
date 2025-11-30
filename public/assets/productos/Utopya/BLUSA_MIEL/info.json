@@ -1,0 +1,21 @@
+{
+  "nombre": "BLUSA MIEL",
+  "marca": "Utopya",
+  "precio": 26.9,
+  "tallas": [
+    "S",
+    "M",
+    "L"
+  ],
+  "categoria": "superior",
+  "url": "https://utopyashop.com/producto/blusa-miel/",
+  "item_id": "BLUSA_MIEL",
+  "subcategoria": "blusas",
+  "color": "negro",
+  "estilo": "Sin información",
+  "relacionados": [],
+  "material": "Sin información",
+  "temporada": "PV",
+  "publico_objetivo": "mujer",
+  "patrocinado": false
+}

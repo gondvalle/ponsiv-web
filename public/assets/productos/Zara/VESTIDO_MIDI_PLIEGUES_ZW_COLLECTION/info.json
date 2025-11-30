@@ -1,0 +1,23 @@
+{
+  "nombre": "VESTIDO MIDI PLIEGUES ZW COLLECTION",
+  "marca": "Zara",
+  "precio": 49.95,
+  "tallas": [
+    "XS",
+    "S",
+    "M",
+    "L",
+    "XXL"
+  ],
+  "categoria": "vestido",
+  "url": "https://www.zara.com/es/es/vestido-midi-pliegues-zw-collection-p04333041.html?v1=455947787&v2=2420896",
+  "item_id": "VESTIDO_MIDI_PLIEGUES_ZW_COLLECTION",
+  "subcategoria": "vestidos",
+  "color": "marrón",
+  "estilo": "Sin información",
+  "relacionados": [],
+  "material": "Sin información",
+  "temporada": "PV",
+  "publico_objetivo": "mujer",
+  "patrocinado": false
+}

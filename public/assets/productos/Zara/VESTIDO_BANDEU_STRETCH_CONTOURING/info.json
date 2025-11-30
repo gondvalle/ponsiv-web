@@ -1,0 +1,22 @@
+{
+  "nombre": "VESTIDO BANDEU STRETCH CONTOURING",
+  "marca": "Zara",
+  "precio": 35.95,
+  "tallas": [
+    "XS",
+    "S",
+    "M",
+    "L"
+  ],
+  "categoria": "vestido",
+  "url": "https://www.zara.com/es/es/vestido-bandeu-stretch-contouring-p05584126.html?v1=460431874&v2=2420896",
+  "item_id": "VESTIDO_BANDEU_STRETCH_CONTOURING",
+  "subcategoria": "vestidos",
+  "color": "negro",
+  "estilo": "Sin información",
+  "relacionados": [],
+  "material": "Sin información",
+  "temporada": "PV",
+  "publico_objetivo": "mujer",
+  "patrocinado": false
+}

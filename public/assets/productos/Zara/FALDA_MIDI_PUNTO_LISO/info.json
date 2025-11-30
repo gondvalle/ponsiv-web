@@ -1,0 +1,22 @@
+{
+  "nombre": "FALDA MIDI PUNTO LISO",
+  "marca": "Zara",
+  "precio": 25.95,
+  "tallas": [
+    "S",
+    "M",
+    "L",
+    "XL"
+  ],
+  "categoria": "inferior",
+  "url": "https://www.zara.com/es/es/falda-midi-punto-liso-p03519138.html?v1=485197540&v2=2420454",
+  "item_id": "FALDA_MIDI_PUNTO_LISO",
+  "subcategoria": "faldas",
+  "color": "gris",
+  "estilo": "Sin información",
+  "relacionados": [],
+  "material": "Sin información",
+  "temporada": "PV",
+  "publico_objetivo": "mujer",
+  "patrocinado": false
+}

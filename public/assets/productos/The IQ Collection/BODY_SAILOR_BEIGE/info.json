@@ -1,0 +1,23 @@
+{
+  "nombre": "BODY SAILOR BEIGE",
+  "marca": "The IQ Collection",
+  "precio": 135.0,
+  "tallas": [
+    "XS",
+    "S",
+    "M",
+    "L",
+    "XL"
+  ],
+  "categoria": "superior",
+  "url": "https://theiqcollection.com/products/body-sailor-beige",
+  "item_id": "BODY_SAILOR_BEIGE",
+  "subcategoria": "tops",
+  "color": "beige",
+  "estilo": "Sin información",
+  "relacionados": [],
+  "material": "Sin información",
+  "temporada": "All-season",
+  "publico_objetivo": "mujer",
+  "patrocinado": false
+}

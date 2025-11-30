@@ -1,0 +1,27 @@
+{
+  "nombre": "CAMISETA POINTELLE BLUEBERRY",
+  "marca": "Nicoli",
+  "precio": 42.9,
+  "tallas": [
+    "XS",
+    "S",
+    "M",
+    "L"
+  ],
+  "categoria": "superior",
+  "url": "https://www.nicolishop.com/es/es/camiseta-pointelle-blueberry/252M501705-23.html#page=7&start=57",
+  "descripcion": "Camiseta en algodón con diseño de Pointelle. Patrón con cuello redondo y cierre por delante con botones. Detalle de pespunte.La modelo lleva talla S y mide 1,77cm.\nREF. 252M501705-23",
+  "relacionados": [
+    "BOLSO_TRENZADO_MINI_MARRON",
+    "DENIM_BOTONES_CINTURILLA_GRIS_CLARO",
+    "ZUECO_TACHAS_MARRON"
+  ],
+  "item_id": "CAMISETA_POINTELLE_BLUEBERRY",
+  "subcategoria": "camisetas",
+  "color": "azul",
+  "estilo": "Sin información",
+  "material": "algodón, ante",
+  "temporada": "All-season",
+  "publico_objetivo": "mujer",
+  "patrocinado": false
+}

@@ -1,0 +1,25 @@
+{
+  "nombre": "BOTA ALTA PIEL TIRAS",
+  "marca": "Mango",
+  "precio": 299.99,
+  "tallas": [
+    "S",
+    "M",
+    "L",
+    "XL"
+  ],
+  "categoria": "calzado",
+  "url": "https://shop.mango.com/es/es/p/mujer/zapatos/botas-y-botines/bota-alta-piel-tiras_17066355",
+  "descripcion": "Piel ovino y piel bovino. Caña alta. Punta redonda. Tiras decorativas con hebilla. Tacón de aguja. Sin cierre. Forro y plantilla de piel. El tacón mide 8,5 cm. Exclusivo Online. Colección Selection.\n\nUna selección de prendas refinadas, confeccionadas con tejidos de calidad para construir un armario femenino y contemporáneo",
+  "relacionados": [
+    "CHAQUETA_BOMBER_100_PIEL"
+  ],
+  "item_id": "BOTA_ALTA_PIEL_TIRAS",
+  "subcategoria": "botas",
+  "color": "negro",
+  "estilo": "Sin información",
+  "material": "cuero",
+  "temporada": "All-season",
+  "publico_objetivo": "mujer",
+  "patrocinado": false
+}

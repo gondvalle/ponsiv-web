@@ -1,0 +1,22 @@
+{
+  "nombre": "BOTAS LISA BURDEOS",
+  "marca": "Coosy",
+  "precio": 255.0,
+  "tallas": [
+    "S",
+    "M",
+    "L"
+  ],
+  "categoria": "calzado",
+  "url": "https://www.coosy.es/products/botas-lisaburdeos",
+  "descripcion": "Estas botas de piel en color burdeos son el complemento perfecto para elevar cualquier look con un toque de sofisticación y estilo atemporal. Confeccionadas en piel de alta calidad, destacan por su punta afilada, diseño minimalista y un tacón cómodo y estilizado que alarga la figura sin renunciar a la comodidad.\n\nSu acabado en tono vino profundo las convierte en una pieza versátil para combinar con vestidos midi, faldas, pantalones de vestir o vaqueros, siendo ideales tanto para eventos de día como para salidas nocturnas.\n\nAltura tacón: 8,5 cm\n\nDiseñado y confeccionado en nuestros talleres localizados en España.",
+  "relacionados": [],
+  "item_id": "BOTAS_LISA_BURDEOS",
+  "subcategoria": "botas",
+  "color": "burdeos",
+  "estilo": "casual",
+  "material": "cuero",
+  "temporada": "All-season",
+  "publico_objetivo": "mujer",
+  "patrocinado": false
+}

@@ -1,0 +1,25 @@
+{
+  "nombre": "JERSEY PUNTO CUELLO PICO CON LANA AZUL",
+  "marca": "Massimo Dutti",
+  "precio": 39.95,
+  "tallas": [
+    "S",
+    "M",
+    "L"
+  ],
+  "categoria": "superior",
+  "url": "https://www.massimodutti.com/es/jersey-punto-cuello-pico-con-lana-l05667580?colorId=401",
+  "descripcion": "Jersey confeccionado en tejido de punto con lana. Cuello pico. Manga larga. Acabados en rib.\n\nRef. 5667/580",
+  "relacionados": [
+    "PANTALON_FLARE_FIT_PIEL_NAPA",
+    "SANDALIA_PLANA_SERRAJE"
+  ],
+  "item_id": "JERSEY_PUNTO_CUELLO_PICO_CON_LANA_AZUL",
+  "subcategoria": "jerséis",
+  "color": "azul",
+  "estilo": "Sin información",
+  "material": "lana",
+  "temporada": "OI",
+  "publico_objetivo": "mujer",
+  "patrocinado": false
+}

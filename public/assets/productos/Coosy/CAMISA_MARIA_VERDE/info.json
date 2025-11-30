@@ -1,0 +1,26 @@
+{
+  "nombre": "CAMISA MARÍA VERDE",
+  "marca": "Coosy",
+  "precio": 84.0,
+  "tallas": [
+    "S",
+    "M",
+    "L",
+    "XL"
+  ],
+  "categoria": "superior",
+  "url": "https://www.coosy.es/products/camisa-mariaverde",
+  "descripcion": "Descubre la sofisticación en cada detalle de la Camisa María. Diseñada en fondo verde con rayas blancas, aporta un aire elegante y moderno que estiliza la figura. Su protagonista es el gran lazo al cuello, un detalle versátil y femenino que transforma el look, perfecto tanto para ir a la oficina como para ocasiones especiales.\n\nLas mangas abullonadas con puños ajustados añaden volumen y tendencia, mientras que su corte recto ofrece comodidad sin perder estilo. Una prenda imprescindible en tu armario para combinar con pantalones de pinza, faldas midi o jeans y conseguir un look atemporal con un toque chic.\n\nDiseñado y confeccionado en nuestros talleres localizados en España.",
+  "relacionados": [
+    "CAMISA_MARIA_AZUL",
+    "CAMISA_MARIA_MARRON"
+  ],
+  "item_id": "CAMISA_MARIA_VERDE",
+  "subcategoria": "camisas",
+  "color": "verde",
+  "estilo": "elegante",
+  "material": "ALGODON, POLIAMIDA, ELASTANO",
+  "temporada": "OI",
+  "publico_objetivo": "mujer",
+  "patrocinado": false
+}

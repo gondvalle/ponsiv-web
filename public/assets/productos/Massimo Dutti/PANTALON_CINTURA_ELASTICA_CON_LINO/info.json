@@ -1,0 +1,24 @@
+{
+  "nombre": "PANTALÓN CINTURA ELÁSTICA CON LINO",
+  "marca": "Massimo Dutti",
+  "precio": 69.95,
+  "tallas": [
+    "S",
+    "M",
+    "L"
+  ],
+  "categoria": "inferior",
+  "url": "https://www.massimodutti.com/es/pantalon-cintura-elastica-con-lino-l05032977",
+  "descripcion": "Pantalón con corte recto. Tiro medio. Cierre cremallera invisible . Cintura con goma elástica. Confeccionado en tejido con lino. Tejido fluido.\n\nRef. 5032/977",
+  "relacionados": [
+    "CHAQUETA_BOMBER_CUADROS_MEZCLA_LINO"
+  ],
+  "item_id": "PANTALON_CINTURA_ELASTICA_CON_LINO",
+  "subcategoria": "pantalones",
+  "color": "negro",
+  "estilo": "Sin información",
+  "material": "lino, goma",
+  "temporada": "All-season",
+  "publico_objetivo": "mujer",
+  "patrocinado": false
+}

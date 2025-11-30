@@ -1,0 +1,25 @@
+{
+  "nombre": "TOP PUNTO 100% ALGODÓN",
+  "marca": "Massimo Dutti",
+  "precio": 49.95,
+  "tallas": [
+    "S",
+    "M",
+    "L"
+  ],
+  "categoria": "superior",
+  "url": "https://www.massimodutti.com/es/top-punto-100-algodon-l05613734",
+  "descripcion": "Top punto confeccionado con tejido 100% algodón. Escote redondo. Tirantes finos. Esta prenda queda más corta de lo habitual.\n\nRef. 5613/734",
+  "relacionados": [
+    "BOLSO_HOMBRO_PIEL_SERRAJE",
+    "PANTALON_CINTURA_ELASTICA_CON_LINO"
+  ],
+  "item_id": "TOP_PUNTO_100_ALGODON",
+  "subcategoria": "tops",
+  "color": "gris",
+  "estilo": "Sin información",
+  "material": "algodón, ante",
+  "temporada": "PV",
+  "publico_objetivo": "mujer",
+  "patrocinado": false
+}

@@ -1,0 +1,26 @@
+{
+  "nombre": "PANTALÓN RAYAS MORA",
+  "marca": "Nicoli",
+  "precio": 64.9,
+  "tallas": [
+    "XS",
+    "S",
+    "M",
+    "L"
+  ],
+  "categoria": "inferior",
+  "url": "https://www.nicolishop.com/es/es/pantalon-rayas-mora/252M508208-44.html#page=11&start=7",
+  "descripcion": "Pantalón largo, de sastrería. Diseño de rayas en colorido de la colección. Presenta un blazer para quien desee llevarlo como conjunto. Patrón de pierna y cinturilla ancha, con trabillas. La modelo lleva talla 40 y mide 1,8 m.\nREF. 252M508208-44",
+  "relacionados": [
+    "BOLSO_ESTUDIANTE_SARGA_MARRON",
+    "CAMISA_VAQUERA_AZUL"
+  ],
+  "item_id": "PANTALON_RAYAS_MORA",
+  "subcategoria": "pantalones",
+  "color": "azul",
+  "estilo": "formal",
+  "material": "Sin información",
+  "temporada": "All-season",
+  "publico_objetivo": "mujer",
+  "patrocinado": false
+}

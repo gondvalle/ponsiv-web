@@ -1,0 +1,27 @@
+{
+  "nombre": "PANTALÓN TRABILLA RAYA GRIS",
+  "marca": "Nicoli",
+  "precio": 67.9,
+  "tallas": [
+    "S",
+    "M",
+    "L",
+    "XL"
+  ],
+  "categoria": "inferior",
+  "url": "https://www.nicolishop.com/es/es/pantalon-trabilla-raya-gris/252M508202-22.html",
+  "descripcion": "Pantalón largo, de sastrería, en tejido con diseño de rayas. Disponible en dos colores. Patrón de pierna ancha, con detalle de trabillas.La modelo lleva talla 36 y mide 1,77cm.\nREF. 252M508202-22",
+  "relacionados": [
+    "BOTIN_COWBOY_MARRON",
+    "PANUELO_BLOOM_CAPTAIN",
+    "TOP_CANALE_BOTONES_ANTRACITA"
+  ],
+  "item_id": "PANTALON_TRABILLA_RAYA_GRIS",
+  "subcategoria": "pantalones",
+  "color": "gris",
+  "estilo": "formal",
+  "material": "Sin información",
+  "temporada": "All-season",
+  "publico_objetivo": "mujer",
+  "patrocinado": false
+}
