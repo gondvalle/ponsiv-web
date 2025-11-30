@@ -25,7 +25,7 @@ import ropa1 from '../assets/clothes/ropa1.jpg';
 import ropa2 from '../assets/clothes/ropa2.jpg';
 import ropa3 from '../assets/clothes/ropa3.jpg';
 import ropa4 from '../assets/clothes/ropa4.jpg';
-import feed2 from '../assets/clothes/feed2.png';
+import feed2 from '../assets/clothes/Feed2.png';
 import look1 from '../assets/clothes/look1.png';
 import look2 from '../assets/clothes/look2.png';
 import look3 from '../assets/clothes/look3.png';
