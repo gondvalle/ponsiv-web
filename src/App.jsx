@@ -10,6 +10,7 @@ import Looks from './pages/Looks';
 import Profile from './pages/Profile';
 import Landing from './pages/Landing';
 import ComingSoon from './pages/ComingSoon';
+import AdminWaitlist from './pages/AdminWaitlist';
 import Layout from './components/Layout';
 
 const ProtectedRoute = ({ children }) => {
@@ -29,6 +30,7 @@ function App() {
           <Route path="/login" element={<Login />} />
           <Route path="/register" element={<Register />} />
           <Route path="/coming-soon" element={<ComingSoon />} />
+          <Route path="/admin-pnv-wl-2024" element={<AdminWaitlist />} />
 
           <Route path="/dashboard" element={
             <ProtectedRoute>
