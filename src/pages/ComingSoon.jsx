@@ -40,27 +40,36 @@ const ComingSoon = () => {
         setIsSubmitting(true);
 
         try {
-            // Guardar en localStorage (en producción usarías una API)
-            const existingEmails = JSON.parse(localStorage.getItem('waitlistEmails') || '[]');
+            // Llamar a la API de Vercel
+            const response = await fetch('/api/waitlist', {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json',
+                },
+                body: JSON.stringify({ email: sanitizedEmail }),
+            });
 
-            // Verificar si el email ya existe
-            if (existingEmails.includes(sanitizedEmail)) {
-                setError('Este email ya está registrado en la lista de espera');
+            const data = await response.json();
+
+            if (!response.ok) {
+                // Manejar errores específicos
+                if (response.status === 409) {
+                    setError('Este email ya está registrado en la lista de espera');
+                } else if (response.status === 429) {
+                    setError('Demasiados intentos. Por favor, espera unos minutos');
+                } else {
+                    setError(data.message || 'Hubo un error. Por favor, inténtalo de nuevo.');
+                }
                 setIsSubmitting(false);
                 return;
             }
 
-            // Agregar el nuevo email
-            existingEmails.push(sanitizedEmail);
-            localStorage.setItem('waitlistEmails', JSON.stringify(existingEmails));
-
-            // Simular delay de red
-            await new Promise(resolve => setTimeout(resolve, 1000));
-
+            // Éxito
             setIsSuccess(true);
             setEmail('');
         } catch (err) {
-            setError('Hubo un error. Por favor, inténtalo de nuevo.');
+            console.error('Error:', err);
+            setError('Hubo un error de conexión. Por favor, inténtalo de nuevo.');
         } finally {
             setIsSubmitting(false);
         }

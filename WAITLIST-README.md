@@ -6,7 +6,7 @@ La página `/coming-soon` permite a los usuarios registrarse en una lista de esp
 
 ### Características de Seguridad
 
-1. **Validación de Email**: 
+1. **Validación de Email**:
    - Validación con regex para formato correcto
    - Prevención de emails duplicados
 
@@ -16,159 +16,175 @@ La página `/coming-soon` permite a los usuarios registrarse en una lista de esp
    - Trim de espacios
 
 3. **Protección contra Ataques**:
-   - Validación en el frontend antes de guardar
+   - Validación en el frontend y backend
    - Sanitización de inputs
-   - Rate limiting implícito (un email por vez)
+   - Rate limiting por IP (3 requests cada 15 minutos)
 
-### Almacenamiento Actual
+### Almacenamiento
 
-**Desarrollo**: Los emails se guardan en `localStorage` del navegador.
+**Producción (Vercel)**: Los emails se guardan en **Vercel KV** (Redis) - gratuito y automático.
 
-**Producción**: Para producción, deberías:
+---
 
-1. Crear un endpoint API (Node.js/Express, Python/Flask, etc.)
-2. Guardar en una base de datos (MongoDB, PostgreSQL, etc.)
-3. Implementar rate limiting en el servidor
-4. Agregar CAPTCHA para prevenir bots
-5. Implementar validación de email real (enviar código de confirmación)
+## 🚀 Configuración en Vercel (IMPORTANTE)
 
-### Ejemplo de Endpoint API (Node.js/Express)
+### Paso 1: Crear la Base de Datos Vercel KV
 
-```javascript
-// server.js
-const express = require('express');
-const fs = require('fs').promises;
-const path = require('path');
-const rateLimit = require('express-rate-limit');
+1. Ve a tu proyecto en [Vercel Dashboard](https://vercel.com/dashboard)
+2. Selecciona tu proyecto (ponsiv-web o como lo hayas llamado)
+3. Ve a la pestaña **Storage**
+4. Haz clic en **Create Database**
+5. Selecciona **KV (Redis)**
+6. Dale un nombre (ej: `ponsiv-waitlist`)
+7. Haz clic en **Create**
+8. Vercel automáticamente conectará tu base de datos al proyecto
 
-const app = express();
-app.use(express.json());
+### Paso 2: Configurar Variable de Entorno para Admin
 
-// Rate limiting: máximo 3 requests por IP cada 15 minutos
-const limiter = rateLimit({
-  windowMs: 15 * 60 * 1000,
-  max: 3,
-  message: 'Demasiados intentos, por favor intenta más tarde'
-});
+1. En tu proyecto de Vercel, ve a **Settings** → **Environment Variables**
+2. Agrega esta variable:
+   - **Name**: `ADMIN_TOKEN`
+   - **Value**: Genera un token secreto (ej: `ponsiv_admin_2024_secreto_12345`)
+   - **Environment**: Marca Production, Preview, y Development
+3. Haz clic en **Save**
 
-app.post('/api/waitlist', limiter, async (req, res) => {
-  try {
-    const { email } = req.body;
-    
-    // Validación
-    const emailRegex = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
-    if (!email || !emailRegex.test(email)) {
-      return res.status(400).json({ error: 'Email inválido' });
-    }
+### Paso 3: Desplegar
 
-    // Sanitización
-    const sanitizedEmail = email.trim().toLowerCase().replace(/[<>]/g, '');
+1. Haz commit y push de los cambios:
+   ```bash
+   git add .
+   git commit -m "Add Vercel KV waitlist system"
+   git push
+   ```
 
-    // Leer archivo actual
-    const filePath = path.join(__dirname, 'waitlist-emails.json');
-    const data = JSON.parse(await fs.readFile(filePath, 'utf8'));
+2. Vercel desplegará automáticamente tu proyecto con la configuración de KV.
 
-    // Verificar duplicados
-    if (data.emails.includes(sanitizedEmail)) {
-      return res.status(409).json({ error: 'Email ya registrado' });
-    }
+### Paso 4: Probar la Waitlist
 
-    // Agregar email
-    data.emails.push(sanitizedEmail);
-    data.lastUpdated = new Date().toISOString();
+1. Ve a tu URL de producción: `https://tu-dominio.vercel.app/coming-soon`
+2. Ingresa un email de prueba
+3. Deberías ver el mensaje de éxito
 
-    // Guardar
-    await fs.writeFile(filePath, JSON.stringify(data, null, 2));
+---
 
-    res.json({ success: true, message: 'Email registrado correctamente' });
-  } catch (error) {
-    console.error('Error:', error);
-    res.status(500).json({ error: 'Error del servidor' });
-  }
-});
+## 📊 Ver los Emails Guardados
 
-app.listen(3001, () => {
-  console.log('API corriendo en http://localhost:3001');
-});
-```
+Hay dos formas de ver los emails registrados:
 
-### Cómo Integrar el Backend
+### Opción 1: Desde el Dashboard de Vercel KV
 
-1. Instala las dependencias:
-```bash
-npm install express express-rate-limit
-```
+1. Ve a tu proyecto en Vercel
+2. Storage → Tu base de datos KV
+3. Ve a la pestaña **Data**
+4. Busca la key: `ponsiv:waitlist:emails`
+5. Ahí verás la lista completa
 
-2. Crea el archivo `server.js` con el código de arriba
+### Opción 2: Usar el API Endpoint (Recomendado)
 
-3. Actualiza `ComingSoon.jsx` para usar la API:
-
-```javascript
-const handleSubmit = async (e) => {
-  e.preventDefault();
-  setError('');
-  setIsSubmitting(true);
-
-  try {
-    const response = await fetch('http://localhost:3001/api/waitlist', {
-      method: 'POST',
-      headers: {
-        'Content-Type': 'application/json',
-      },
-      body: JSON.stringify({ email: sanitizeEmail(email) }),
-    });
-
-    const data = await response.json();
-
-    if (!response.ok) {
-      throw new Error(data.error || 'Error al registrar');
-    }
-
-    setIsSuccess(true);
-    setEmail('');
-  } catch (err) {
-    setError(err.message);
-  } finally {
-    setIsSubmitting(false);
-  }
-};
-```
-
-4. Ejecuta el servidor:
-```bash
-node server.js
-```
-
-### Ver los Emails Registrados
-
-Los emails se guardan en `waitlist-emails.json`. Puedes verlos con:
+Haz una petición GET al endpoint admin con tu token:
 
 ```bash
-cat waitlist-emails.json
+curl -H "Authorization: Bearer tu-token-secreto-aqui" \
+  https://tu-dominio.vercel.app/api/admin/waitlist
 ```
 
-O crear un endpoint admin para verlos:
-
-```javascript
-app.get('/api/admin/waitlist', async (req, res) => {
-  // Agregar autenticación aquí
-  const data = JSON.parse(await fs.readFile(filePath, 'utf8'));
-  res.json(data);
-});
+Respuesta:
+```json
+{
+  "success": true,
+  "total": 5,
+  "emails": [
+    {
+      "email": "usuario1@example.com",
+      "timestamp": "2024-12-02T18:30:00.000Z",
+      "ip": "123.456.789.0"
+    }
+  ]
+}
 ```
 
-## 🚀 Mejoras Futuras
+### Exportar a CSV
 
-- [ ] Implementar backend con API
-- [ ] Base de datos real (MongoDB/PostgreSQL)
-- [ ] CAPTCHA (reCAPTCHA)
-- [ ] Confirmación de email
-- [ ] Panel admin para ver/exportar emails
-- [ ] Envío automático de emails cuando la app esté lista
-- [ ] Analytics de conversión
+Puedes usar este comando para exportar directamente a CSV:
+
+```bash
+curl -H "Authorization: Bearer tu-token-secreto-aqui" \
+  https://tu-dominio.vercel.app/api/admin/waitlist | \
+  jq -r '.emails[] | [.email, .timestamp, .ip] | @csv' > waitlist.csv
+```
+
+---
+
+## 📁 Archivos Importantes
+
+### `/api/waitlist.js`
+Endpoint POST para registrar emails. Incluye:
+- Validación de emails
+- Rate limiting (3 requests cada 15 min por IP)
+- Sanitización de inputs
+- Detección de duplicados
+
+### `/api/admin/waitlist.js`
+Endpoint GET protegido para ver todos los emails. Requiere autenticación con token.
+
+### `/src/pages/ComingSoon.jsx`
+Página del coming soon que usa la API de Vercel.
+
+---
+
+## 🔒 Seguridad
+
+- ✅ Rate limiting por IP
+- ✅ Validación de emails en frontend y backend
+- ✅ Sanitización de inputs
+- ✅ CORS configurado
+- ✅ Endpoint admin protegido con token
+- ✅ Almacenamiento seguro en Vercel KV
+
+---
+
+## 🚀 Arquitectura
+
+```
+Usuario visita /coming-soon
+       ↓
+Ingresa email en formulario
+       ↓
+Frontend valida y sanitiza
+       ↓
+POST /api/waitlist
+       ↓
+Vercel Function procesa
+       ↓
+Guarda en Vercel KV (Redis)
+       ↓
+Responde al usuario
+```
+
+---
+
+## ❓ Preguntas Frecuentes
+
+### ¿Cuántos emails puedo guardar?
+Vercel KV tiene un plan gratuito que permite almacenar bastantes datos. Para la mayoría de waitlists, será suficiente.
+
+### ¿Cómo veo los logs?
+En Vercel Dashboard → Tu Proyecto → Logs. Verás cada email registrado con emoji ✅.
+
+### ¿Puedo exportar los emails?
+Sí, usa el endpoint admin con curl o desde el dashboard de Vercel KV.
+
+### ¿Qué pasa si alguien intenta spam?
+El rate limiting bloquea más de 3 intentos cada 15 minutos por IP.
+
+### ¿Puedo usar otra base de datos?
+Sí, puedes cambiar `@vercel/kv` por cualquier otra (Postgres, MongoDB, etc.).
+
+---
 
 ## 📝 Notas
 
-- El archivo `waitlist-emails.json` debe estar en `.gitignore` para no subir emails a Git
-- En producción, usa variables de entorno para configuración
-- Implementa HTTPS para proteger los datos en tránsito
+- Guarda tu `ADMIN_TOKEN` en un lugar seguro
+- No subas el token a Git
+- Los emails se guardan con timestamp e IP para analytics
+- El sistema detecta automáticamente duplicados
