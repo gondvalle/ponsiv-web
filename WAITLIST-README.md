@@ -44,7 +44,7 @@ La página `/coming-soon` permite a los usuarios registrarse en una lista de esp
 1. En tu proyecto de Vercel, ve a **Settings** → **Environment Variables**
 2. Agrega esta variable:
    - **Name**: `ADMIN_TOKEN`
-   - **Value**: Genera un token secreto (ej: `ponsiv_admin_2024_secreto_12345`)
+   - **Value**: Genera un token secreto
    - **Environment**: Marca Production, Preview, y Development
 3. Haz clic en **Save**
 
@@ -85,7 +85,7 @@ Haz una petición GET al endpoint admin con tu token:
 
 ```bash
 curl -H "Authorization: Bearer tu-token-secreto-aqui" \
-  https://tu-dominio.vercel.app/api/admin/waitlist
+  https://www.ponsiv.com/api/admin/waitlist
 ```
 
 Respuesta:
@@ -109,9 +109,15 @@ Puedes usar este comando para exportar directamente a CSV:
 
 ```bash
 curl -H "Authorization: Bearer tu-token-secreto-aqui" \
-  https://tu-dominio.vercel.app/api/admin/waitlist | \
+  https://www.ponsiv.com/api/admin/waitlist | \
   jq -r '.emails[] | [.email, .timestamp, .ip] | @csv' > waitlist.csv
 ```
+
+### Entra por Web
+
+1. Ve a tu URL de producción: `https://www.ponsiv.com/admin-pnv-wl-2024`
+2. Ingresa tu token de administrador
+3. Verás la lista completa de emails
 
 ---
 
